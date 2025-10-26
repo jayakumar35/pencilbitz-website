@@ -55,7 +55,7 @@
                         <!-- Navigate to Certificate Page -->
                         <a href="/erode-sengunthar-engineering -college-event-cerificate-dowload.php" 
                            class="btn text-gray-800 font-semibold py-2 px-4 rounded shadow d-inline-flex align-items-center gap-2"
-                           style="background: linear-gradient(to right, #a7f3d0, , #fbcfe8);">
+                           style="background: linear-gradient(to right, #a7f3d0,  #fbcfe8);">
                             <i class="fas fa-download"></i> Download Certificate
                         </a>
                     </div>
