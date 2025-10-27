@@ -65,7 +65,7 @@
         <div style="background-color: #F6F6F8;" class="row mt-5">
             <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
                 <div class="publictitel ">
-                    <h3>P U B L I C A T O N S</h3>
+                    <h3>P U B L I C A T I O N S</h3>
                     <p>At Pencil Bitz, we are dedicated to publishing high-quality academic resources that inspire learning, foster innovation, and contribute to the advancement of knowledge. Our comprehensive publication services cover textbooks, scholarly journals, and other educational materials designed to meet the needs of students, researchers, and educators across various disciplines.
                         We provide end-to-end solutions for authors, educators, and researchers, guiding them through the process of transforming their ideas into published works that make an impact. Whether you are looking to publish your latest research in a peer-reviewed journal or create a new textbook for students, Pencil Bitz offers the expertise and support to bring your vision to life.
                     </p>

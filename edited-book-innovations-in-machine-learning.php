@@ -124,7 +124,7 @@
             <!-- Book Information Section -->
             <div class="w-full lg:w-3/5">
                 <div class="bg-white rounded-xl shadow-sm p-6 md:p-8">
-                    <p class="text-sm uppercase tracking-wider text-blue-600 font-semibold mb-2">Pencil Blitz Publishing</p>
+                    <p class="text-sm uppercase tracking-wider text-blue-600 font-semibold mb-2">Pencil Bitz Publishing</p>
 
                     <h1 class=" text-4xl md:text-5xl font-extrabold leading-tight mb-2 text-gray-900">
                         INNOVATIONS IN <span class="gradient-text">MACHINE LEARNING</span>

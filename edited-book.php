@@ -348,7 +348,7 @@
                     </div>
                     
                     <div class="mt-4 text-center">
-                        <a href="edited-book-interner-of-things(IOT)-book.php" class="btn-primary-custom">
+                        <a href="edited-book-internet-of-things(IOT)-book.php" class="btn-primary-custom">
                             <i class="fas fa-book-open mr-2"></i> View Details
                         </a>
                     </div>

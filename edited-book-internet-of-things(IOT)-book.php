@@ -124,10 +124,10 @@
             <!-- Book Information Section -->
             <div class="w-full lg:w-3/5">
                 <div class="bg-white rounded-xl shadow-sm p-6 md:p-8">
-                    <p class="text-sm uppercase tracking-wider text-blue-600 font-semibold mb-2">Pencil Blitz Publishing</p>
+                    <p class="text-sm uppercase tracking-wider text-blue-600 font-semibold mb-2">Pencil Bitz Publishing</p>
 
                     <h1 class=" text-3xl md:text-3xl font-extrabold leading-tight mb-2 text-gray-900">
-                      INTERNER OF THINGS(IOT): <span class="gradient-text">EMERGING TRENDS ,APPLICATIONS AND CHALLENGES</span>
+                      INTERNET OF THINGS(IOT): <span class="gradient-text">EMERGING TRENDS ,APPLICATIONS AND CHALLENGES</span>
                     </h1>
                     <p class="font-serif-display text-xl italic mb-6 text-gray-600">
                         Techniques and Trends
