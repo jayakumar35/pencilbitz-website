@@ -107,6 +107,42 @@
                             <?php
                             // Array of books
                             $books = [
+                                  //Fundamentals of Antenna Theory and Design
+                                [
+                                    'img' => 'assets/img/new/fundamentals-of-antenna-theory-and-design.png',
+                                    'alt' => ' Fundamentals of Antenna Theory and Design ',
+                                    'title' => 'Fundamentals of Antenna Theory and Design ',
+                                    'authors' => 'Dr. Kakade Sandeep Kishanrao | Prof.Kuldip Kamalakar Dadpe | Prof.Zarkar Geetanjalee Ashok',
+                                    'link' => 'fundamentals-of-antenna-theory-and-design-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                //Communicative English
+                                [
+                                    'img' => 'assets/img/new/communicative-english-shakila.png',
+                                    'alt' => ' Communicative English ',
+                                    'title' => 'Communicative English ',
+                                    'authors' => 'Mrs. K.Shakila Banu',
+                                    'link' => 'communicative-english-shakila-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                  //Grammar and Composition Skills for Success
+                                [
+                                    'img' => 'assets/img/new/grammer-and-composition-skill.png',
+                                    'alt' => ' Grammar and Composition Skills for Success ',
+                                    'title' => 'Grammar and Composition Skills for Success ',
+                                    'authors' => 'Dr.D.Jones Sudha',
+                                    'link' => 'grammer-and-composition-skills-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                  //Core Concepts in Artificial Intelligence
+                                [
+                                    'img' => 'assets/img/new/core-concepts-in-artificial-intelligence.png',
+                                    'alt' => ' Core Concepts in Artificial Intelligence ',
+                                    'title' => 'Core Concepts in Artificial Intelligence ',
+                                    'authors' => 'Dr.T.Kamaleshwar | L Sowjanya Upadhyayula | Dr.M.Kavitha | Dr. Sapna Singh',
+                                    'link' => 'core-concepts-in-artificial-intelligence-book.php',
+                                    'btn' => 'Read More'
+                                ],
                                 //corporate-accounting_II
                                 [
                                     'img' => 'assets/img/new/corporate-accounting_II.png',

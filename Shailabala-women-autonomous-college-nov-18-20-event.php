@@ -50,7 +50,7 @@
             <!-- Event Image -->
             <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
                 <div class="d-flex justify-content-center align-items-center h-100">
-                <img src="assets/img/upcomeing-event/kandula-lakshumma-memorial-nov-1-new.jpg" alt="Event Image" class="img-fluid rounded-4 shadow-lg border border-0 rounded-2" style="max-height: 600px; object-fit: cover;">
+                <img src="assets/img/upcomeing-event/Shailabala-women-autonomous-college-nov-18-20-event.jpg" alt="Event Image" class="img-fluid rounded-4 shadow-lg border border-0 rounded-2" style="max-height: 600px; object-fit: cover;">
                 </div>
 
             </div>
@@ -60,21 +60,21 @@
                       <div class="mb-2">
                     <h3 class="fw-medium fs-3 text-gray-500 ">College</h3>
                     <h1 class="font-semibold text-gray-700 text-3xl py-2 ps-3">
-                     KANDULA LAKSHUMMA MEMORIAL COLLEGE OF ENGINEERING FOR WOMEN </span>
+                     SHAILABALA WOMEN'S AUTONOMOUS COLLEGE</span>
                    </h1>
                 </div>
                 <h3 class="fw-medium fs-3 text-gray-500  ">Topic</h3>
-                <h1 class="fw-semibold fs-2 text-red-500 mb-3 ps-3">AI Generative For Teaching</h1>
+                <h1 class="fw-semibold fs-2 text-red-500 mb-3 ps-3">Generative AI For Teaching</h1>
                 <h3 class="fw-medium fs-3 text-gray-500 ">Details</h3>
 
                 <ul class="list-unstyled mb-4 ps-3 ">
-                    <li class="mb-2"><i class="fas fa-calendar-alt text-primary me-2"></i> <strong>Date:</strong> 01  November 2025</li>
+                    <li class="mb-2"><i class="fas fa-calendar-alt text-primary me-2"></i> <strong>Date:</strong> 18 To 20  November 2025</li>
                     <li class="mb-2"><i class="fas fa-clock text-primary me-2"></i> <strong>Time:</strong> 6:00PM To 8:00PM </li>
 
-                    <li class="mb-2"><i class="fas fa-map-marker-alt text-primary me-2"></i> <strong>Location:</strong>Kadapa,andhra Pradesh</li>
+                    <li class="mb-2"><i class="fas fa-map-marker-alt text-primary me-2"></i> <strong>Location:</strong>Cuttack Odisha</li>
                     <li class="mb-2"><i class="fas fa-user-tie text-primary me-2"></i> <strong>Speaker:</strong> +91 77088 28673</li>
                 </ul>
-                <a href="https://forms.gle/xZBdmvLkYxWmYCJK8" class="bg-gray-200 hover:bg-green-300 hover:text-gray-800 rounded-2 text-gray-800 shadow-lg fw-bold px-4 py-2">
+                <a href="https://forms.gle/QxtWwUTdi8KTwTxs5" class="bg-gray-200 hover:bg-green-300 hover:text-gray-800 rounded-2 text-gray-800 shadow-lg fw-bold px-4 py-2">
                     Register Now <i class="fas fa-arrow-right ms-2"></i>
                 </a>
                 </div>
