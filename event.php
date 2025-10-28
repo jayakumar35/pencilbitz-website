@@ -83,33 +83,7 @@
                 <div class="services-carousel swiper">
                     <!-- Additional required wrapper -->
                     <div class="swiper-wrapper">
-                         <!--siddartha -->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/siddarth.jpg" alt="Event 5">
-                                    </a>
-
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-                       <!--kvsr sep-11 -->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/east-west-college.jpg" alt="Event 5">
-                                    </a>
-
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-                         <!-- saiva bhanu sep-15 -->
+                        <!-- saiva bhanu sep-15 -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -128,13 +102,12 @@
                                     <a href="">
                                         <img src="assets/img/upcomeing-event/sanketika.jpg" alt="Event 4">
                                     </a>
-
                                 </div>
                             </div>
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                          <!-- Ratnam  -->
+                        <!-- Ratnam  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -146,7 +119,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                           <!-- A K T  -->
+                        <!-- A K T  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -158,7 +131,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                            <!--Chadalawada  -->
+                        <!--Chadalawada  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -170,7 +143,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                            <!--Sri Kanyaka -->
+                        <!--Sri Kanyaka -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -182,7 +155,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                             <!--Sri Krishna  -->
+                        <!--Sri Krishna  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -206,7 +179,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                            <!--koshys -->
+                        <!--koshys -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -218,7 +191,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                            <!--Akkineni Nageswara Rao College -->
+                        <!--Akkineni Nageswara Rao College -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -231,7 +204,7 @@
                             </div>
                         </div>
                         <!-- jai -->
-                            <!--Nirmala college  -->
+                        <!--Nirmala college  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -243,8 +216,8 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                          <!-- M G R -->
-                       <div class="swiper-slide">
+                        <!-- M G R -->
+                        <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
                                     <a href="M-G-R-educational-and-research-institute-nov-13-event.php">
@@ -255,8 +228,55 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-<!-----vignesh ----->
-                         <div class="swiper-slide">
+                        <!-----vignesh ----->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="Sanketika-Vidya-Parishad-Engineering-College2-event.php">
+                                        <img src="assets/img/upcomeing-event/Sanketika-Vidya-Parishad-Engineering-College2-28-10.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/Saiva-Bhanu-Kshatriya-College-28-10-event.php">
+                                        <img src="assets/img/upcomeing-event/Saiva-Bhanu-Kshatriya-College1-28-10.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="Sanketika-Vidya-Parishad-Engineering-College1-event.php">
+                                        <img src="assets/img/upcomeing-event/Sanketika-Vidya-Parishad-Engineering-College1-28-10.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="Sanketika-Vidya-Parishad-Engineering-College-event.php">
+                                        <img src="assets/img/upcomeing-event/Sanketika-Vidya-Parishad-Engineering-College-28-10.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
                                     <a href="erode-sengunthar-engineering-college-02-nov-event.php">
@@ -268,7 +288,7 @@
                             </div>
                         </div>
 
-                          <div class="swiper-slide">
+                        <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
                                     <a href="sanskar-educational-group-14-nov-event.php">
@@ -280,7 +300,7 @@
                             </div>
                         </div>
 
-                          <div class="swiper-slide">
+                        <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
                                     <a href="sree-venkateshwara-28-oct-event.php">
@@ -292,7 +312,7 @@
                             </div>
                         </div>
 
-                         <div class="swiper-slide">
+                        <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
                                     <a href="BSVP-frist-grade-college-06-nov-event.php">
@@ -318,15 +338,15 @@
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
                                     <a href="kandula-lakshumma-memorial-college-nov-1-event.php">
-                                        <img src="assets/img/upcomeing-event/kandula-lakshumma-memorial-nov-1.jpg" alt="Event 5">
+                                        <img src="assets/img/upcomeing-event/kandula-lakshumma-memorial-nov-1-new.jpg" alt="Event 5">
                                     </a>
                                 </div>
                             </div>
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                      
-                           <!--Akkineni Nageswara Rao College -->
+
+                        <!--Akkineni Nageswara Rao College -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -338,8 +358,19 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                      
-                         <!-- Mea   -->
+                           <!-- Shailabala-women  -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="Shailabala-women-autonomous-college-nov-18-20-event.php">
+                                        <img src="assets/img/upcomeing-event/Shailabala-women-autonomous-college-nov-18-20-event.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!-- Mea   -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -351,7 +382,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                         <!--SRM  -->
+                        <!--SRM  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -363,16 +394,19 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                        
-                       
-                       
-
-                    </div>
-                    <!-- Navigation -->
-                    <div class="services-button-prev"></div>
-                    <div class="services-button-next"></div>
-                    <!-- Pagination -->
-                    <div class="services-pagination text-center"></div>
+                   </div>
+                    <!-- Navigation / Pagination -->
+                    <button class="services-button-prev absolute left-2 top-1/2 -translate-y-1/2 z-50 w-10 h-10 bg-white/90 hover:bg-white rounded-full flex items-center justify-center shadow-md">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-gray-700" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+                        </svg>
+                    </button>
+                    <button class="services-button-next absolute right-2 top-1/2 -translate-y-1/2 z-50 w-10 h-10 bg-white/90 hover:bg-white rounded-full flex items-center justify-center shadow-md">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-gray-700" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+                        </svg>
+                    </button>
+                    <div class="services-pagination mt-4 text-center"></div>
                 </div>
             </div>
         </div>
@@ -392,12 +426,45 @@
         </div>
     </div>
     <!-- Right Sidebar -->
-
-
-      <?php include_once 'completed-event.php'; ?> 
+    <?php include_once 'completed-event.php'; ?>
     </div>
     <footer>
         <?php require_once "footer.php"; ?>
-   </footer>
+    </footer>
 
+    <!-- Swiper JS (use a version that matches your CSS) -->
+    <script src="https://unpkg.com/swiper@9/swiper-bundle.min.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const swiper = new Swiper('.services-carousel', {
+          loop: true,
+          slidesPerView: 4,
+          spaceBetween: 16,
+          speed: 800,
+          grabCursor: true,
+          autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+            pauseOnMouseEnter: true
+          },
+          navigation: {
+            nextEl: '.services-button-next',
+            prevEl: '.services-button-prev',
+          },
+          pagination: {
+            el: '.services-pagination',
+            clickable: true,
+          },
+          breakpoints: {
+            320:  { slidesPerView: 1 },
+            640:  { slidesPerView: 2 },
+            1024: { slidesPerView: 3 },
+            1280: { slidesPerView: 4 }
+          },
+          observer: true,
+          observeParents: true
+        });
+      });
+    </script>
 </body>
+</html>
