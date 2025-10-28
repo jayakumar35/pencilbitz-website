@@ -107,6 +107,96 @@
                             <?php
                             // Array of books
                             $books = [
+                                 //Natural Language Processing
+                                [
+                                    'img' => 'assets/img/new/natural-language-procesing.png',
+                                    'alt' => ' Natural Language Processing',
+                                    'title' => 'Natural Language Processing',
+                                    'authors' => 'Dr. SWARNA SUREKHA',
+                                    'link' => 'natural-language-procesing-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                //Principles of Management
+                                [
+                                    'img' => 'assets/img/new/principles-of-management1.png',
+                                    'alt' => ' Principles of Management',
+                                    'title' => 'Principles of Management ',
+                                    'authors' => 'Mr.M.Saravanan | Mr.S.Rajkamal',
+                                    'link' => 'principles-of-management1-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                //AUDITING AND CORPORATE GOVERNANCE
+                                [
+                                    'img' => 'assets/img/new/auditing-and-corporate-governance.png',
+                                    'alt' => ' Auditing and Corporate Governance',
+                                    'title' => 'Auditing and Corporate Governance ',
+                                    'authors' => 'Dr.Prita Davidson | G.Sridevi',
+                                    'link' => 'auditing-and-corporate-governance-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                 //Mastering Deep Learning Architecture
+                                [
+                                    'img' => 'assets/img/new/mastering-deep-learning-Dr-SWARNA-SUREKHA.png',
+                                    'alt' => ' Mastering Deep Learning Architecture',
+                                    'title' => 'Mastering Deep Learning Architecture ',
+                                    'authors' => 'Dr. SWARNA SUREKHA',
+                                    'link' => 'mastering-deep-learning-swarna-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                 //Java Programming : Unlocking the Power of Object Oriented Design
+                                [
+                                    'img' => 'assets/img/new/Java-Programming-Unlocking-the Power-of-Object Oriented-Design.png',
+                                    'alt' => ' Java Programming : Unlocking the Power of Object Oriented Design',
+                                    'title' => 'Java Programming : Unlocking the Power of Object Oriented Design    ',
+                                    'authors' => 'Mr.K.Vimal | Mrs.Lakshmi K | Mrs.M.Niranjani | Ms.Priya Pandey',
+                                    'link' => 'Java-Programming-Unlocking-the Power-of-Object Oriented-Design-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                 //Corporate Accounting
+                                [
+                                    'img' => 'assets/img/new/corporate-accounting.png',
+                                    'alt' => ' Corporate Accounting',
+                                    'title' => 'Corporate Accounting ',
+                                    'authors' => 'Dr. Suman Roy Barman | Dr. K. Uma Parameswari | Ms.Savitha.N.L | Mrs.Chaithanya B Ajay kumar',
+                                    'link' => 'corporate-accounting-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                //Organizational Behaviour : Leading with Emotional Intelligence
+                                [
+                                    'img' => 'assets/img/new/organizational-behaviour-leading-with.png',
+                                    'alt' => ' Organizational Behaviour : Leading with Emotional Intelligence',
+                                    'title' => 'Organizational Behaviour : Leading with Emotional Intelligence ',
+                                    'authors' => 'Dr. Shruti Punj',
+                                    'link' => 'organizational-behaviour-leading-with-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                  //Quantum Computing the Next Frontier In Computer Science
+                                [
+                                    'img' => 'assets/img/new/quantum-computing-the-next-computer.png',
+                                    'alt' => ' Quantum Computing the Next Frontier In Computer Science ',
+                                    'title' => 'Quantum Computing the Next Frontier In Computer Science ',
+                                    'authors' => 'Mrs.A.PRAVEENA | Dr.E.S.SHAMILA | Dr.S.USHA | Dr. R N Devendra Kumar',
+                                    'link' => 'quantum-computing-the-next-computer-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                  //Mastering Deep Learning Architecture
+                                [
+                                    'img' => 'assets/img/new/mastering-deep-learning-arch.png',
+                                    'alt' => ' Mastering Deep Learning Architecture ',
+                                    'title' => 'Mastering Deep Learning Architecture  ',
+                                    'authors' => 'L Sowjanya Upadhyayula',
+                                    'link' => 'mastering-deep-learning-arch-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                 //PROBABILITY AND STATISTICS
+                                [
+                                    'img' => 'assets/img/new/probability-and-statistics.png',
+                                    'alt' => ' Probability and statistics ',
+                                    'title' => 'Probability and statistics  ',
+                                    'authors' => 'Mrs.SANGEETHA B | Dr.R MEGANATHAN,Mrs.MALATHI K | Dr.R SATHIYA SHANTHI',
+                                    'link' => 'probability-and-statistics-book.php',
+                                    'btn' => 'Read More'
+                                ],
                                   //Fundamentals of Antenna Theory and Design
                                 [
                                     'img' => 'assets/img/new/fundamentals-of-antenna-theory-and-design.png',
