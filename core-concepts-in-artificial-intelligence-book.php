@@ -149,14 +149,14 @@
             </ul>
             <div class="flex flex-wrap gap-4 items-center mt-3">
               <!-- Flipkart -->
-              <a href="#" target="_blank"
+              <a href="https://www.flipkart.com/core-concepts-artificial-intelligence-1-disc/p/itm1f4f1c6c17066?pid=9788199223080" target="_blank"
                 class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition">
                 <i data-lucide="shopping-bag"></i>
                 <span>Flipkart</span>
               </a>
 
               <!-- Amazon -->
-              <a href="#" target="_blank"
+              <a href="https://www.amazon.in/dp/8199223081" target="_blank"
                 class="flex items-center gap-2 text-yellow-500 hover:text-yellow-700 font-semibold transition">
                 <i data-lucide="shopping-cart"></i>
                 <span>Amazon</span>

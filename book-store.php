@@ -107,7 +107,16 @@
                             <?php
                             // Array of books
                             $books = [
-                                 //Natural Language Processing
+                                //PROBABILITY AND STATISTICS
+                                [
+                                    'img' => 'assets/img/new/probability-and-statistics.png',
+                                    'alt' => ' Probability and statistics ',
+                                    'title' => 'Probability and statistics  ',
+                                    'authors' => 'Mrs.SANGEETHA B | Dr.R MEGANATHAN, | Mrs.MALATHI K | Dr.R SATHIYA SHANTHI',
+                                    'link' => 'probability-and-statistics-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                //Natural Language Processing
                                 [
                                     'img' => 'assets/img/new/natural-language-procesing.png',
                                     'alt' => ' Natural Language Processing',
@@ -134,7 +143,7 @@
                                     'link' => 'auditing-and-corporate-governance-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                 //Mastering Deep Learning Architecture
+                                //Mastering Deep Learning Architecture
                                 [
                                     'img' => 'assets/img/new/mastering-deep-learning-Dr-SWARNA-SUREKHA.png',
                                     'alt' => ' Mastering Deep Learning Architecture',
@@ -143,7 +152,7 @@
                                     'link' => 'mastering-deep-learning-swarna-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                 //Java Programming : Unlocking the Power of Object Oriented Design
+                                //Java Programming : Unlocking the Power of Object Oriented Design
                                 [
                                     'img' => 'assets/img/new/Java-Programming-Unlocking-the Power-of-Object Oriented-Design.png',
                                     'alt' => ' Java Programming : Unlocking the Power of Object Oriented Design',
@@ -152,7 +161,7 @@
                                     'link' => 'Java-Programming-Unlocking-the Power-of-Object Oriented-Design-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                 //Corporate Accounting
+                                //Corporate Accounting
                                 [
                                     'img' => 'assets/img/new/corporate-accounting.png',
                                     'alt' => ' Corporate Accounting',
@@ -170,7 +179,7 @@
                                     'link' => 'organizational-behaviour-leading-with-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                  //Quantum Computing the Next Frontier In Computer Science
+                                //Quantum Computing the Next Frontier In Computer Science
                                 [
                                     'img' => 'assets/img/new/quantum-computing-the-next-computer.png',
                                     'alt' => ' Quantum Computing the Next Frontier In Computer Science ',
@@ -179,7 +188,7 @@
                                     'link' => 'quantum-computing-the-next-computer-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                  //Mastering Deep Learning Architecture
+                                //Mastering Deep Learning Architecture
                                 [
                                     'img' => 'assets/img/new/mastering-deep-learning-arch.png',
                                     'alt' => ' Mastering Deep Learning Architecture ',
@@ -188,16 +197,8 @@
                                     'link' => 'mastering-deep-learning-arch-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                 //PROBABILITY AND STATISTICS
-                                [
-                                    'img' => 'assets/img/new/probability-and-statistics.png',
-                                    'alt' => ' Probability and statistics ',
-                                    'title' => 'Probability and statistics  ',
-                                    'authors' => 'Mrs.SANGEETHA B | Dr.R MEGANATHAN,Mrs.MALATHI K | Dr.R SATHIYA SHANTHI',
-                                    'link' => 'probability-and-statistics-book.php',
-                                    'btn' => 'Read More'
-                                ],
-                                  //Fundamentals of Antenna Theory and Design
+
+                                //Fundamentals of Antenna Theory and Design
                                 [
                                     'img' => 'assets/img/new/fundamentals-of-antenna-theory-and-design.png',
                                     'alt' => ' Fundamentals of Antenna Theory and Design ',
@@ -215,7 +216,7 @@
                                     'link' => 'communicative-english-shakila-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                  //Grammar and Composition Skills for Success
+                                //Grammar and Composition Skills for Success
                                 [
                                     'img' => 'assets/img/new/grammer-and-composition-skill.png',
                                     'alt' => ' Grammar and Composition Skills for Success ',
@@ -224,7 +225,7 @@
                                     'link' => 'grammer-and-composition-skills-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                  //Core Concepts in Artificial Intelligence
+                                //Core Concepts in Artificial Intelligence
                                 [
                                     'img' => 'assets/img/new/core-concepts-in-artificial-intelligence.png',
                                     'alt' => ' Core Concepts in Artificial Intelligence ',
@@ -284,6 +285,7 @@
                                     'alt' => ' Digital Marketing ',
                                     'title' => 'Digital Marketing ',
                                     'authors' => 'K VANITHA | P NIRMALA',
+                                    
                                     'link' => 'digital-marketing-book.php',
                                     'btn' => 'Read More'
                                 ],

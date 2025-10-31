@@ -9,7 +9,7 @@
   <meta name="description" content="Pencil Bitz">
 
   <!-- ========== Page Title ========== -->
-  <title>Book Page</title>
+  <title>Corporate Accounting | Pencil Bitz Book</title>
 
   <!-- ========== Favicon Icon ========== -->
   <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -61,10 +61,10 @@
             <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
           </li>
           <li class="flex items-center">
-            <a href="fundamentals-of-antenna-theory-and-design-book.php" class="hover:underline text-blue-600 flex items-center">
+            <a href="artifical-intelligence-in-modern-approach-book.php" class="hover:underline text-blue-600 flex items-center">
               <i class="fas fa-building mr-1"></i>
               <i class="fas fa-coins mr-1"></i>
-             Fundamentals of Antenna Theory and Design
+           Corporate Accounting
             </a>
             <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
           </li>
@@ -76,7 +76,7 @@
         <div class="flex flex-col gap-2 mb-4">
           <!-- Thumbnails -->
           <img
-            src="assets/img/new/book-page/fundamental-of antana-theory-p1.png"
+            src="assets/img/new/book-page/corporate-accounting-p1.png"
             class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
             style="image-rendering: auto;"
             onclick="
@@ -84,38 +84,38 @@
           // Remove highlight from all thumbnails
           var thumbs = this.parentElement.querySelectorAll('img');
           thumbs.forEach(function(img) {
-            img.classList.remove('border-sky-600');
+            img.classList.remove('border-orange-500');
             img.classList.add('border-gray-200');
           });
           // Add highlight to clicked thumbnail
-          this.classList.remove('border-sky-600');
+          this.classList.remove('border-orange-500');
           this.classList.add('border-gray-600');
         "
             alt="Thumbnail 1">
           <img
-            src="assets/img/new/book-page/fundamental-of antana-theory-p2.png"
+            src="assets/img/new/book-page/corporate-accounting-p2.png"
             class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
             style="image-rendering: auto;"
             onclick="
           document.getElementById('main-book-img').src=this.src;
           var thumbs = this.parentElement.querySelectorAll('img');
           thumbs.forEach(function(img) {
-            img.classList.remove('border-sky-600');
+            img.classList.remove('border-orange-500');
             img.classList.add('border-gray-200');
           });
-          this.classList.remove('border-sky-600');
+          this.classList.remove('border-orange-500');
           this.classList.add('border-gray-600');
         "
             alt="Thumbnail 2">
           <img
-            src="assets/img/new/book-page/fundamental-of antana-theory-p3.png"
+            src="assets/img/new/book-page/corporate-accounting-p3.png"
             class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
             style="image-rendering: auto;"
             onclick="
           document.getElementById('main-book-img').src=this.src;
           var thumbs = this.parentElement.querySelectorAll('img');
           thumbs.forEach(function(img) {
-            img.classList.remove('border-sky-600');
+            img.classList.remove('border-orange-500');
             img.classList.add('border-gray-200');
           });
           this.classList.remove('border-gray-200');
@@ -130,7 +130,7 @@
         <!-- Main Book Image -->
         <img
           id="main-book-img"
-          src="assets/img/new/book-page/fundamental-of antana-theory-p3.png"
+          src="assets/img/new/book-page/corporate-accounting-p3.png"
           class="w-75 h-auto sm:w-56 sm:h-56 md:w-72 md:h-72 object-contain rounded border shadow-lg p-3 m-2 border-gray-200 mb-2 transition-all"
           alt="Book Main Image"
           style="image-rendering: auto;">
@@ -138,29 +138,30 @@
       <!-- Right: Book Details -->
       <div class="col-lg-6 col-md-6 col-sm-12 col-xl-6 flex flex-col justify-between pl-0 md:pl-8 mt-6 md:mt-0">
         <div>
-          <h2 id="book-name" class="text-3xl font-semibold text-sky-600 mb-2">Fundamentals of Antenna Theory and Design</h2>
+          <h2 id="book-name" class="text-3xl font-semibold text-red-400 mb-2">Corporate Accounting </h2>
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-              <li class="uppercase">Dr. Kakade Sandeep Kishanrao | Prof.Kuldip Kamalakar Dadpe | Prof.Zarkar Geetanjalee Ashok</li>
+              <li class="uppercase">Dr. Suman Roy Barman | Dr.K.Uma Parameswari | Ms.Savitha.N.L | Mrs.Chaithanya B Ajay kumar</li>
               <li>
-                <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-992599-7-3| 2025 |</span></div>
+                <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-991695-6-2| 2025 |</span></div>
               </li>
             </ul>
             <div class="flex flex-wrap gap-4 items-center mt-3">
-              <!-- Flipkart -->
-              <a href="https://www.flipkart.com/fundamentals-antenna-theory-design-1-disc/p/itmc3b3448b437bf?pid=9788199259973" target="_blank"
+               <!-- Flipkart -->
+              <a href="https://www.flipkart.com/corporate-accounting-1-disc/p/itmc7aceebc0b60e?pid=9788199169562" target="_blank"
                 class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition">
                 <i data-lucide="shopping-bag"></i>
                 <span>Flipkart</span>
               </a>
 
               <!-- Amazon -->
-              <a href="https://www.amazon.in/dp/8199259973" target="_blank"
+              <a href="https://www.amazon.in/dp/8199169567" target="_blank"
                 class="flex items-center gap-2 text-yellow-500 hover:text-yellow-700 font-semibold transition">
                 <i data-lucide="shopping-cart"></i>
                 <span>Amazon</span>
-              </a>
+              </a>  
+              
 
               <!-- Get Certificate -->
               <!-- Trigger Button -->
@@ -202,22 +203,27 @@
 
                     <!-- Author 1 -->
                     <div id="author1" class="hidden flex gap-4 flex-wrap">
-                      <a href="assets/img/books-certificate/Fundamentals of Antenna Theory and Design a1.pdf" download
-                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Kakade Sandeep Kishanrao - PDF</a>
+                      <a href="assets/img/books-certificate/Corporate Accounting a1.pdf" download
+                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Suman Roy Barman - PDF</a>
                     </div>
 
                     <!-- Author 2 -->
                     <div id="author2" class="hidden flex gap-4 flex-wrap">
-                      <a href="assets/img/books-certificate/Fundamentals of Antenna Theory and Design a2.pdf" download
-                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> Prof.Kuldip Kamalakar Dadpe - PDF</a>
+                      <a href="assets/img/books-certificate/Corporate Accounting a2.pdf" download
+                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> Dr. K. Uma Parameswari  - PDF</a>
                     </div>
 
                     <!-- Author 3 -->
                     <div id="author3" class="hidden flex gap-4 flex-wrap">
-                      <a href="assets/img/books-certificate/Fundamentals of Antenna Theory and Design a3.pdf" download
-                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Prof.Zarkar Geetanjalee Ashok- PDF</a>
+                      <a href="assets/img/books-certificate/Corporate Accounting a3.pdf" download
+                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> Ms.Savitha.N.L - PDF</a>
                     </div>
 
+                    <!-- Author 4 -->
+                    <div id="author4" class="hidden flex gap-4 flex-wrap">
+                      <a href="assets/img/books-certificate/Corporate Accounting a4.pdf" download
+                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mrs.Chaithanya B Ajay kumar - PDF</a>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -250,9 +256,10 @@
 
                   // Author database (phone => section ID)
                   const authors = {
-                    "9673002008": "author1",
-                    "9923663817": "author2",
-                    "8149182777": "author3",
+                    "7005944626": "author1",
+                    "9445250744": "author2",
+                    "9538303195": "author3",
+                    "9353255043": "author4"
                   };
 
                   verifyBtn.addEventListener("click", () => {
@@ -320,14 +327,14 @@
             <span class="text-base text-gray-500 line-through ml-2">₹1226</span>
             <span class="text-xs text-gray-600 ml-2">(Inclusive of all taxes)</span>
           </div>
-          <a href="fundamentals-of-antenna-theory-and-design-order.php" class="mt-2 inline-block w-full md:w-auto text-white bg-sky-600 font-bold py-2 px-6 rounded transition text-center hover:text-white hover:bg-yellow-600">
+          <a href="corporate-accounting-order.php" class="mt-2 inline-block w-full md:w-auto text-white bg-orange-500 font-bold py-2 px-6 rounded transition text-center hover:text-white hover:bg-yellow-600">
             <span class="mr-2"><i class="fas fa-arrow-right"></i></span>Buy Now
           </a>
         </div>
         <div class="mt-6 pt-4 border border-gray-200 rounded-t-lg ps-3 shadow-md">
           <h2 class="text-2xl font-semibold text-indigo-700 mb-3 border-b pb-2">📘 Summary</h2>
           <p class="text-gray-700 leading-relaxed p-2">
-            <span class="font-medium text-gray-800">Fundamentals of Antenna Theory and Design provides a comprehensive understanding of antenna principles, characteristics, and applications. It covers essential topics such as radiation mechanisms, antenna parameters, impedance matching, and radiation patterns. The book explains different types of antennas including dipole, loop, patch, array, and broadband antennas, with emphasis on their design and performance optimization. It also introduces modern computational and measurement techniques used in antenna analysis. By linking theoretical concepts with practical design methods, the book serves as a valuable resource for students, researchers, and engineers working in communication, radar, and wireless system development.
+            <span class="font-medium text-gray-800">Corporate accounting focuses on the preparation and interpretation of financial statements for external users, ensuring compliance with applicable standards and regulations. It emphasizes accurate reporting of assets, liabilities, equity, and cash flows to provide a true and fair view of the company’s financial position.
           </p>
         </div>
 
@@ -339,7 +346,7 @@
             <li><span class="font-semibold">Edition:</span> 1st Edition</li>
             <li><span class="font-semibold">Language:</span> English</li>
             <li><span class="font-semibold">Binding:</span> paperback</li>
-            <li><span class="font-semibold">Pages:</span>217</li>
+            <li><span class="font-semibold">Pages:</span>216</li>
             <li><span class="font-semibold">Dimensions:</span> 24 x 18 x 1.5 cm</li>
             <li><span class="font-semibold">Weight:</span> 320g</li>
           </ul>
@@ -351,15 +358,15 @@
             <a href="https://wa.me/919944307413?text=Hello%2C%20I%20would%20like%20to%20order%20Cloud%20Computing%20book." target="_blank" class="text-green-600 text-2xl" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
             <a href="https://www.facebook.com/pencilbitz" target="_blank" class="text-blue-600 text-2xl" title="Facebook"><i class="fab fa-facebook"></i></a>
             <a href="https://www.instagram.com/pencilbitz" target="_blank" class="text-pink-500 text-2xl" title="Instagram"><i class="fab fa-instagram"></i></a>
-            <a href="mailto:info@pencilbitz.com" class="text-sky-600 text-2xl" title="Email"><i class="fas fa-envelope"></i></a>
-            <a href="tel:+919944307413" class="text-blue-600 text-2xl" title="Call"><i class="fas fa-phone"></i></a>
+            <a href="mailto:info@pencilbitz.com" class="text-orange-500 text-2xl" title="Email"><i class="fas fa-envelope"></i></a>
+            <a href="tel:+919944307413" class="text-blue-600 text-2xl" title="Call"><i class="fas fa-phone-alt"></i></a>
           </div>
           <div class="text-sm text-gray-500 mt-2 md:mt-0 md:ml-6">
             For bulk or institutional orders, <a href="contact.php" class="text-primary underline">contact us</a>.
           </div>
         </div>
-        <div class="mt-4 text-sm text-gray-600 py-3">
-          <span class="font-semibold">Contact:</span> +91 7200741307 | <span class="font-semibold">Email:</span> textbookmanager@pencilbitz.com
+        <div class="mt-4 text-sm text-gray-600">
+          <span class="font-semibold">Contact:</span> +91 99443 07413 | <span class="font-semibold">Email:</span> Eventmanager@pencilbitz.com
         </div>
       </div>
     </div>

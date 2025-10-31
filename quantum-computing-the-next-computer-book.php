@@ -44,84 +44,84 @@
   <?php require_once "navbar.php"; ?>
   <!-- navbar file  -->
 
-  <div  style="max-width: 1520px; background-image: none;" class="container my-10 ">
+  <div style="max-width: 1520px; background-image: none;" class="container my-10 ">
     <div class="row mx-auto  shadow-xl rounded-lg flex flex-col md:flex-row">
-    <nav class="mb-6 bg-gray-50 rounded-lg px-4 py-3 ">
-      <ol class="flex flex-wrap items-center text-gray-700 space-x-2 text-sm font-medium">
-      <li class="flex items-center">
-        <a href="index.php" class="hover:underline text-blue-600 flex items-center">
-        <i class="fas fa-home mr-1"></i> Home
-        </a>
-        <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
-      </li>
-      <li class="flex items-center">
-        <a href="book-store.php" class="hover:underline text-blue-600 flex items-center">
-        <i class="fas fa-book mr-1"></i> Book Store
-        </a>
-        <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
-      </li>
-    <li class="flex items-center">
-      <a href="design-and-implementation-book.php" class="hover:underline text-blue-600 flex items-center">
-        <i class="fas fa-building mr-1"></i>
-        <i class="fas fa-coins mr-1"></i>
-      IoT Based Monitoring and Control System for Solar Power Plants
-      </a>
-      <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
-    </li>
-    </ol>
-    </nav>
+      <nav class="mb-6 bg-gray-50 rounded-lg px-4 py-3 ">
+        <ol class="flex flex-wrap items-center text-gray-700 space-x-2 text-sm font-medium">
+          <li class="flex items-center">
+            <a href="index.php" class="hover:underline text-blue-600 flex items-center">
+              <i class="fas fa-home mr-1"></i> Home
+            </a>
+            <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
+          </li>
+          <li class="flex items-center">
+            <a href="book-store.php" class="hover:underline text-blue-600 flex items-center">
+              <i class="fas fa-book mr-1"></i> Book Store
+            </a>
+            <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
+          </li>
+          <li class="flex items-center">
+            <a href="quantum-computing-the-next-computer-book.php" class="hover:underline text-blue-600 flex items-center">
+              <i class="fas fa-building mr-1"></i>
+              <i class="fas fa-coins mr-1"></i>
+            Quantum Computing the Next Frontier In Computer Science
+            </a>
+            <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
+          </li>
+        </ol>
+      </nav>
 
       <!-- Left: Multiple Images (Flipkart style) -->
       <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 flex flex-row items-center md:items-start">
         <div class="flex flex-col gap-2 mb-4">
           <!-- Thumbnails -->
           <img
-        src="assets/img/new/book-page/iot-based-monitoring-p1.png"
-        class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
-        style="image-rendering: auto;"
-        onclick="
+            src="assets/img/new/book-page/quantum-computing-the-next-computer-p1.png"
+            class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
+            style="image-rendering: auto;"
+            onclick="
           document.getElementById('main-book-img').src=this.src;
           // Remove highlight from all thumbnails
           var thumbs = this.parentElement.querySelectorAll('img');
           thumbs.forEach(function(img) {
-            img.classList.remove('border-orange-400');
+            img.classList.remove('border-orange-500');
             img.classList.add('border-gray-200');
           });
           // Add highlight to clicked thumbnail
-          this.classList.remove('border-orange-400');
+          this.classList.remove('border-orange-500');
           this.classList.add('border-gray-600');
         "
-        alt="Thumbnail 1">
+            alt="Thumbnail 1">
           <img
-        src="assets/img/new/book-page/iot-based-monitoring-p2.png"
-        class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
-        style="image-rendering: auto;"
-        onclick="
+            src="assets/img/new/book-page/quantum-computing-the-next-computer-p2.png"
+            class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
+            style="image-rendering: auto;"
+            onclick="
           document.getElementById('main-book-img').src=this.src;
           var thumbs = this.parentElement.querySelectorAll('img');
           thumbs.forEach(function(img) {
-            img.classList.remove('border-orange-400');
+            img.classList.remove('border-orange-500');
             img.classList.add('border-gray-200');
           });
-          this.classList.remove('border-orange-400');
+          this.classList.remove('border-orange-500');
           this.classList.add('border-gray-600');
         "
-        alt="Thumbnail 2">
-                  <img
-        src="assets/img/new/book-page/iot-based-monitoring-p3.png"
-        class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
-        style="image-rendering: auto;"
-        onclick="
+            alt="Thumbnail 2">
+          <img
+            src="assets/img/new/book-page/quantum-computing-the-next-computer-p3.png"
+            class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
+            style="image-rendering: auto;"
+            onclick="
           document.getElementById('main-book-img').src=this.src;
           var thumbs = this.parentElement.querySelectorAll('img');
           thumbs.forEach(function(img) {
-            img.classList.remove('border-orange-400');
+            img.classList.remove('border-orange-500');
             img.classList.add('border-gray-200');
           });
           this.classList.remove('border-gray-200');
           this.classList.add('border-gray-600');
         "
-        alt="Thumbnail 2">
+            alt="Thumbnail 2">
 
 
 
@@ -130,7 +130,7 @@
         <!-- Main Book Image -->
         <img
           id="main-book-img"
-          src="assets/img/new/book-page/iot-based-monitoring-p3.png"
+          src="assets/img/new/book-page/quantum-computing-the-next-computer-p3.png"
           class="w-75 h-auto sm:w-56 sm:h-56 md:w-72 md:h-72 object-contain rounded border shadow-lg p-3 m-2 border-gray-200 mb-2 transition-all"
           alt="Book Main Image"
           style="image-rendering: auto;">
@@ -138,56 +138,53 @@
       <!-- Right: Book Details -->
       <div class="col-lg-6 col-md-6 col-sm-12 col-xl-6 flex flex-col justify-between pl-0 md:pl-8 mt-6 md:mt-0">
         <div>
-          <h2 id="book-name" class="text-3xl font-semibold text-orange-400 mb-2">  IoT Based Monitoring and Control System for Solar Power Plants </h2>
+          <h2 id="book-name" class="text-3xl font-semibold text-lime-500 mb-2">Quantum Computing the Next Frontier In Computer Science </h2>
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-                <li class="uppercase">Mr.John De Britto C  | Dr. Arokiya Prasad P | Dr.Raja Elangovan | Dr. Neeraj Kumar     </li>
-              <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-87-5| 2025 |</span></div></li>
+              <li class="uppercase">Mrs.A.PRAVEENA | Dr.E.S.SHAMILA | Dr.S.USHA  | Dr. R N Devendra Kumar </li>
+              <li>
+                <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-992230-1-1| 2025 |</span></div>
+              </li>
             </ul>
-          </div>
-        <!-- Book More Details -->
-        <div class="mt-3 border-t pt-2">
-          <h3 class="text-xl font-semibold mb-2">Key Features</h3>
-            <ul class="list-disc list-inside text-gray-700 mb-2 text-md ps-3 text-justify text-sm sm:text-base">
-                <li>Real-time Monitoring: Tracks solar panel performance, energy generation, and system health.</li>
-                <li>Remote Control: Enables operators to control devices and settings from anywhere.</li>
-                <li>Sensors Integration: Uses temperature, irradiance, and current/voltage sensors for accurate data.</li>
-                <li>Data Transmission: Employs IoT protocols (Wi-Fi, Zigbee, LoRa, or GSM) for communication.</li>
-                <li class="hidden" id="more-features">
-                  Fault Detection: Identifies issues such as shading, overheating, or inverter faults quickly.<br>
-                   Energy Optimization: Helps maximize efficiency by analyzing performance trends.<br>
-                    Cloud Storage & Analytics: Stores data on cloud platforms for visualization and decision-making.<br>
-                    Automation: Automates switching, load balancing, and preventive maintenance.<br>
-                 Cost & Efficiency: Reduces operational costs and improves energy yield.
-                </li>
-            </ul>
-            </ul>
-          <button id="read-more-btn" class="text-blue-500 text-lg  focus:outline-none" onclick="toggleFeatures()">Read more...</button>
-          <script>
-            function toggleFeatures() {
-              var more = document.getElementById('more-features');
-              var btn = document.getElementById('read-more-btn');
-              if (more.classList.contains('hidden')) {
-          more.classList.remove('hidden');
-          btn.textContent = 'Read less';
-              } else {
-          more.classList.add('hidden');
-          btn.textContent = 'Read more...';
-              }
-            }
-          </script>
-        </div>
-            <div class="text-2xl font-bold text-purple-900 mb-3">
-            <p class="text-black-400 font-medium ">MRP: <span class="text-gray-600 mb-2"> ₹1238</span></p>
-           
-            <span class="text-base text-gray-500 line-through ml-2">₹1338</span>
-            <span class="text-xs text-gray-600 ml-2">(Inclusive of all taxes)</span>
+            <div class="flex flex-wrap gap-4 items-center mt-3">
+              <!-- Flipkart -->
+              <a href="https://www.flipkart.com/quantum-computing-next-frontier-computer-science-1-disc/p/itmeab2afb61f63b?pid=9788199223042" target="_blank"
+                class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition">
+                <i data-lucide="shopping-bag"></i>
+                <span>Flipkart</span>
+              </a>
+
+              <!-- Amazon -->
+              <a href="https://www.amazon.in/dp/8199223049" target="_blank"
+                class="flex items-center gap-2 text-yellow-500 hover:text-yellow-700 font-semibold transition">
+                <i data-lucide="shopping-cart"></i>
+                <span>Amazon</span>
+              </a>
+
+
+
             </div>
-            <a href="iot-based-monitoring-order.php" class="mt-2 inline-block w-full md:w-auto text-white bg-orange-400 font-bold py-2 px-6 rounded transition text-center hover:text-white hover:bg-sky-600">
-            <span class="mr-2"><i class="fas fa-arrow-right"></i></span>Buy Now  
-            </a>
+
+          </div>
+          <!-- Book More Details -->
+          <div class="text-2xl font-bold text-purple-900 mb-3">
+            <p class="text-black-400 font-medium ">MRP: <span class="text-gray-600 mb-2"> ₹1013</span></p>
+
+            <span class="text-base text-gray-500 line-through ml-2">₹1113</span>
+            <span class="text-xs text-gray-600 ml-2">(Inclusive of all taxes)</span>
+          </div>
+          <a href="quantum-computing-the-next-computer-order.php" class="mt-2 inline-block w-full md:w-auto text-white bg-orange-500 font-bold py-2 px-6 rounded transition text-center hover:text-white hover:bg-yellow-600">
+            <span class="mr-2"><i class="fas fa-arrow-right"></i></span>Buy Now
+          </a>
         </div>
+        <div class="mt-6 pt-4 border border-gray-200 rounded-t-lg ps-3 shadow-md">
+          <h2 class="text-2xl font-semibold text-indigo-700 mb-3 border-b pb-2">📘 Summary</h2>
+          <p class="text-gray-700 leading-relaxed p-2">
+            <span class="font-medium text-gray-800">Quantum computing is poised to revolutionize problem-solving by tackling certain complex tasks far beyond classical capabilities. It promises breakthroughs in fields like cryptography, materials science, and optimization, redefining the limits of what computers can achieve.
+          </p>
+        </div>
+
         <!-- Product Details Section -->
         <div class="mt-6 pt-4 border border-gray-200 rounded-t-lg ps-3 shadow-md">
           <h3 class="text-xl font-semibold mb-2 border border-start inline bg-gray-200 text-gray-900 p-2 py-2 rounded-t">Product Details</h3>
@@ -196,9 +193,9 @@
             <li><span class="font-semibold">Edition:</span> 1st Edition</li>
             <li><span class="font-semibold">Language:</span> English</li>
             <li><span class="font-semibold">Binding:</span> paperback</li>
-            <li><span class="font-semibold">Pages:</span>247</li>
+            <li><span class="font-semibold">Pages:</span>187</li>
             <li><span class="font-semibold">Dimensions:</span> 24 x 18 x 1.5 cm</li>
-            <li><span class="font-semibold">Weight:</span> 280g</li>
+            <li><span class="font-semibold">Weight:</span> 320g</li>
           </ul>
         </div>
 
@@ -208,7 +205,7 @@
             <a href="https://wa.me/919944307413?text=Hello%2C%20I%20would%20like%20to%20order%20Cloud%20Computing%20book." target="_blank" class="text-green-600 text-2xl" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
             <a href="https://www.facebook.com/pencilbitz" target="_blank" class="text-blue-600 text-2xl" title="Facebook"><i class="fab fa-facebook"></i></a>
             <a href="https://www.instagram.com/pencilbitz" target="_blank" class="text-pink-500 text-2xl" title="Instagram"><i class="fab fa-instagram"></i></a>
-            <a href="mailto:info@pencilbitz.com" class="text-yellow-500 text-2xl" title="Email"><i class="fas fa-envelope"></i></a>
+            <a href="mailto:info@pencilbitz.com" class="text-orange-500 text-2xl" title="Email"><i class="fas fa-envelope"></i></a>
             <a href="tel:+919944307413" class="text-blue-600 text-2xl" title="Call"><i class="fas fa-phone-alt"></i></a>
           </div>
           <div class="text-sm text-gray-500 mt-2 md:mt-0 md:ml-6">
@@ -216,7 +213,7 @@
           </div>
         </div>
         <div class="mt-4 text-sm text-gray-600">
-          <span class="font-semibold">Contact:</span> +91 99443 07413 | <span class="font-semibold">Email:</span> info@pencilbitz.com
+          <span class="font-semibold">Contact:</span> +91 99443 07413 | <span class="font-semibold">Email:</span> Eventmanager@pencilbitz.com
         </div>
       </div>
     </div>

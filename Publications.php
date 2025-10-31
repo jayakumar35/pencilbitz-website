@@ -146,7 +146,7 @@
             <p class="">Journal Publications is a premier platform for disseminating scholarly research and academic knowledge. We publish peer-reviewed journals across diverse fields, ensuring rigorous standards and impactful contributions to the global academic community. Our commitment to excellence fosters collaboration between researchers, institutions, and readers, promoting innovation and discovery. With a focus on accessibility and visibility, we support authors in sharing their work with a wide audience, advancing knowledge and understanding in their respective disciplines.</p>
             <div class="publicjournal  d-flex">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <img class="d-none d-lg-block d-md-block" src="assets/img/journal.jpg" alt="">
+                    <img class="d-none d-lg-block d-md-block" src="assets/img/journal-new.jpg" alt="">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="journalbox">

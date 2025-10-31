@@ -193,7 +193,11 @@
     <!-- End navbar file  -->
 
     <!-- Header Section -->
-    <div class="header-section">
+   
+
+    <!-- Main Content -->
+    <div class="container mx-auto px-4 pb-12" style="max-width: 1520px;">
+         <div class="header-section">
         <div class="container mx-auto px-4">
             <div class="text-center">
                 <h1 class="text-4xl font-bold mb-4">Call for Book Chapters</h1>
@@ -206,20 +210,32 @@
             </div>
         </div>
     </div>
+            <div class="bg-green-50 border-l-4 border-blue-500 p-3 rounded-lg shadow-md max-w-4xl mx-auto mt-2 py-5 my-3">
+                <h3 class="text-xl font-semibold text-gray-800 text-center mb-2">Edited Book Chapters</h3>
+                <p class="text-gray-700 text-center mb-4 text-lg">
+                    For Editer Book Proposal, Writing, and Publication Support, please contact:
+                </p>
+                <div class="flex justify-center gap-6">
+                    <!-- Call Button -->
+                    <a href="tel:+919629476711"
+                        class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition flex items-center w-max">
+                        <i class="fas fa-phone mr-2 text-lg"></i>+91 9629476711
+                    </a>
+                    <!-- WhatsApp Button -->
+                    <a href="https://wa.me/+919629476711" target="_blank" rel="noopener"
+                        class="px-3 py-1 bg-green-500 text-white rounded hover:bg-green-600 transition flex items-center">
+                        <i class="fab fa-whatsapp mr-1 text-xl"></i> WhatsApp
+                    </a>
+                </div>
+            </div>
 
-    <!-- Main Content -->
-    <div class="container mx-auto px-4 pb-12" style="max-width: 1520px;">
-        <div class="section-title">
-            <h1>Edited Books</h1>
-            <p>Explore our current calls for book chapters. Click on any book to learn more and submit your chapter.</p>
-        </div>
                <div class=" flex justify-content-center mr-2 py-4"> 
                 <h2 class="text-3xl font-bold text-sky-600">Upcoming Books</h2>
                </div>
         <div class="books-grid">
             <!-- Book 1 -->
             <div class="book-card">
-                <div class="book-cover " style="background-image: url('https://th.bing.com/th/id/R.7937c1cb42cd6cea6071b27641410db5?rik=3kERbcw%2bqjZHcA&riu=http%3a%2f%2fzephyrtechnologies.in%2fimages%2fzephyrlearn-datascience.jpg&ehk=7kc3BUy3bkPDOBAXF1zPWwR13XOCFmcf9onNVXuGFnc%3d&risl=&pid=ImgRaw&r=0');">
+                <div class="book-cover " style="background-image: url('https://thumbs.dreamstime.com/b/data-flow-concept-big-data-technology-data-science-illustration-visualizing-complex-information-generative-ai-data-flow-315961875.jpg');">
                     <div class="book-badge">Coming Soon</div>
                 </div>
                 <div class="book-content">
