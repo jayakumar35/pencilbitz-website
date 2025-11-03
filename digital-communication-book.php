@@ -9,7 +9,7 @@
   <meta name="description" content="Pencil Bitz">
 
   <!-- ========== Page Title ========== -->
-  <title>Book Page</title>
+  <title> Digital Communication | Pencil Bitz Book </title>
 
   <!-- ========== Favicon Icon ========== -->
   <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -154,7 +154,7 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-                <li class="uppercase">Dr. Gyanandre Tripathi | Dr.P. Jeya Brigth | Dr.P. Maria Jesi | Lalbabu Prashad</li>
+                <li class="">Dr. Gyanandre Tripathi <br> Dr.P. Jeya Brigth <br> Dr.P. Maria Jesi <br> Lalbabu Prashad</li>
               <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-979572-5-3| 2024 |</span></div></li>
             </ul>
           </div>

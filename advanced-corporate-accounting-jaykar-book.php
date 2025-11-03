@@ -61,7 +61,7 @@
                         <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
                     </li>
                     <li class="flex items-center">
-                        <a href="digital-marketing-book.php" class="hover:underline text-blue-600 flex items-center">
+                        <a href="advanced-corporate-accounting-jaykar-book.php" class="hover:underline text-blue-600 flex items-center">
                             <i class="fas fa-building mr-1"></i>
                             <i class="fas fa-coins mr-1"></i>
                          Advaced Corporate Accounting
@@ -142,8 +142,9 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase">Dr. Jaykar L. Jadhav | Dr. Anishkumar Karia |Shivaji Rajmane </li>
+                            <li class="">Dr. Jaykar L. Jadhav <br> Dr. Anishkumar Karia <br>CMA Shivaji Rajmane </li>
                             <li>
+                                <br>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-992230-5-9| 2025 |</span></div>
                             </li>
                         </ul>

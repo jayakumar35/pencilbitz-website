@@ -61,7 +61,7 @@
             <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
           </li>
           <li class="flex items-center">
-            <a href="artifical-intelligence-in-modern-approach-book.php" class="hover:underline text-blue-600 flex items-center">
+            <a href="organizational-behaviour-leading-with-book.php" class="hover:underline text-blue-600 flex items-center">
               <i class="fas fa-building mr-1"></i>
               <i class="fas fa-coins mr-1"></i>
              Organizational Behaviour : Leading with Emotional Intelligence
@@ -84,11 +84,11 @@
           // Remove highlight from all thumbnails
           var thumbs = this.parentElement.querySelectorAll('img');
           thumbs.forEach(function(img) {
-            img.classList.remove('border-orange-500');
+            img.classList.remove('border-pink-400');
             img.classList.add('border-gray-200');
           });
           // Add highlight to clicked thumbnail
-          this.classList.remove('border-orange-500');
+          this.classList.remove('border-pink-400');
           this.classList.add('border-gray-600');
         "
             alt="Thumbnail 1">
@@ -100,10 +100,10 @@
           document.getElementById('main-book-img').src=this.src;
           var thumbs = this.parentElement.querySelectorAll('img');
           thumbs.forEach(function(img) {
-            img.classList.remove('border-orange-500');
+            img.classList.remove('border-pink-400');
             img.classList.add('border-gray-200');
           });
-          this.classList.remove('border-orange-500');
+          this.classList.remove('border-pink-400');
           this.classList.add('border-gray-600');
         "
             alt="Thumbnail 2">
@@ -115,7 +115,7 @@
           document.getElementById('main-book-img').src=this.src;
           var thumbs = this.parentElement.querySelectorAll('img');
           thumbs.forEach(function(img) {
-            img.classList.remove('border-orange-500');
+            img.classList.remove('border-pink-400');
             img.classList.add('border-gray-200');
           });
           this.classList.remove('border-gray-200');
@@ -138,11 +138,11 @@
       <!-- Right: Book Details -->
       <div class="col-lg-6 col-md-6 col-sm-12 col-xl-6 flex flex-col justify-between pl-0 md:pl-8 mt-6 md:mt-0">
         <div>
-          <h2 id="book-name" class="text-3xl font-semibold text-red-300 mb-2">Organizational Behaviour : Leading with Emotional Intelligence </h2>
+          <h2 id="book-name" class="text-3xl font-semibold text-pink-400 mb-2">Organizational Behaviour : Leading with Emotional Intelligence </h2>
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Author</h5>
             <ul class="list-disc list-inside text-gray-700">
-              <li class="uppercase">Dr. Shruti Punj </li>
+              <li class="">Dr. Shruti Punj </li>
               <li>
                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-80-6| 2025 |</span></div>
               </li>
@@ -150,7 +150,7 @@
             <div class="flex flex-wrap gap-4 items-center mt-3">
 
             <?php /*
-              <!-- Flipkart -->
+               <!-- Flipkart -->
               <a href="https://www.flipkart.com/artificial-intelligence-modern-approach-1-disc/p/itm60501f39015ae?pid=9788199223097" target="_blank"
                 class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition">
                 <i data-lucide="shopping-bag"></i>
@@ -162,9 +162,145 @@
                 class="flex items-center gap-2 text-yellow-500 hover:text-yellow-700 font-semibold transition">
                 <i data-lucide="shopping-cart"></i>
                 <span>Amazon</span>
-              </a> */ ?>
-             
+              </a>  */ ?>
+              
 
+              <!-- Get Certificate -->
+              <!-- Trigger Button -->
+              <div class="flex justify-center">
+                <button id="openPopupBtn"
+                  class="px-4 py-1 bg-sky-500 text-white text-lg rounded-lg shadow hover:bg-sky-600 transition">
+                  Get Certificate
+                </button>
+              </div>
+
+              <!-- Popup Modal -->
+              <div id="certificatePopup"
+                class="fixed inset-0 bg-black/50 hidden items-center justify-center z-50 transition">
+                <div class="bg-white p-6 rounded-2xl shadow w-full max-w-md relative">
+
+                  <!-- Close Button -->
+                  <button id="closePopupBtn"
+                    class="absolute top-3 right-3 text-gray-500 hover:text-gray-700 text-xl font-bold">&times;</button>
+
+                  <h2 class="text-xl font-semibold mb-4">Get Your Certificate</h2>
+
+                  <label class="block mb-3">
+                    <span class="text-sm text-gray-600">Enter Author Phone Number</span>
+                    <input id="authorPhoneNumber" type="text" maxlength="10"
+                      placeholder="Enter 10-digit phone number"
+                      class="mt-2 block w-full rounded border border-gray-300 p-2 focus:ring-2 focus:ring-indigo-500" />
+                  </label>
+
+                  <div id="message" class="text-sm text-red-600 mb-3 hidden"></div>
+
+                  <button id="verifyBtn"
+                    class="px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700">
+                    Verify
+                  </button>
+
+                  <!-- Download Section (Hidden Initially) -->
+                  <div id="downloadSection" class="mt-5 hidden">
+                    <p class="text-sm text-gray-600 mb-2">Download your certificate:</p>
+
+                    <!-- Author 1 -->
+                    <div id="author1" class="hidden flex gap-4 flex-wrap">
+                      <a href="assets/img/books-certificate/Organizational Behaviour  Leading with Emotional Intelligence (1).pdf" download
+                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Shruti Punj  - PDF</a>
+                    </div>
+
+
+                  </div>
+                </div>
+              </div>
+
+              <script>
+                document.addEventListener("DOMContentLoaded", () => {
+                  // Popup controls
+                  const openPopupBtn = document.getElementById("openPopupBtn");
+                  const closePopupBtn = document.getElementById("closePopupBtn");
+                  const certificatePopup = document.getElementById("certificatePopup");
+
+                  openPopupBtn.addEventListener("click", () => {
+                    certificatePopup.classList.remove("hidden");
+                    certificatePopup.classList.add("flex");
+                  });
+
+                  closePopupBtn.addEventListener("click", () => {
+                    certificatePopup.classList.add("hidden");
+                    certificatePopup.classList.remove("flex");
+
+                    // Reset form when popup closes
+                    resetForm();
+                  });
+
+                  // Author phone verification
+                  const input = document.getElementById("authorPhoneNumber");
+                  const message = document.getElementById("message");
+                  const verifyBtn = document.getElementById("verifyBtn");
+                  const downloadSection = document.getElementById("downloadSection");
+
+                  // Author database (phone => section ID)
+                  const authors = {
+                    "9584172333": "author1",
+                   
+                  };
+
+                  verifyBtn.addEventListener("click", () => {
+                    const phone = input.value.trim();
+                    const phoneRegex = /^[0-9]{10}$/;
+
+                    if (!phoneRegex.test(phone)) {
+                      message.textContent = "Please enter a valid 10-digit phone number.";
+                      message.classList.remove("hidden");
+                      return;
+                    }
+
+                    // Hide all author sections before showing correct one
+                    Object.values(authors).forEach(id => {
+                      document.getElementById(id).classList.add("hidden");
+                    });
+
+                    if (authors[phone]) {
+                      message.classList.add("hidden");
+                      downloadSection.classList.remove("hidden");
+                      document.getElementById(authors[phone]).classList.remove("hidden");
+
+                      input.disabled = true;
+                      verifyBtn.disabled = true;
+                      verifyBtn.textContent = "Verified ✅";
+
+                      // Add click listener to reset form when a download link is clicked
+                      document.getElementById(authors[phone]).querySelectorAll("a").forEach(link => {
+                        link.addEventListener("click", () => {
+                          setTimeout(() => resetForm(), 100); // small delay to allow download
+                        });
+                      });
+
+                    } else {
+                      message.textContent = "Invalid Author Phone Number!";
+                      message.classList.remove("hidden");
+                    }
+                  });
+
+                  // Hide error message when typing again
+                  input.addEventListener("input", () => {
+                    message.classList.add("hidden");
+                  });
+
+                  function resetForm() {
+                    input.value = "";
+                    input.disabled = false;
+                    verifyBtn.disabled = false;
+                    verifyBtn.textContent = "Verify";
+                    message.classList.add("hidden");
+                    downloadSection.classList.add("hidden");
+                    Object.values(authors).forEach(id => {
+                      document.getElementById(id).classList.add("hidden");
+                    });
+                  }
+                });
+              </script>
             </div>
 
           </div>
@@ -175,7 +311,7 @@
             <span class="text-base text-gray-500 line-through ml-2">₹1563</span>
             <span class="text-xs text-gray-600 ml-2">(Inclusive of all taxes)</span>
           </div>
-          <a href="organizational-behaviour-leading-with-order.php" class="mt-2 inline-block w-full md:w-auto text-white bg-orange-500 font-bold py-2 px-6 rounded transition text-center hover:text-white hover:bg-yellow-600">
+          <a href="organizational-behaviour-leading-with-order.php" class="mt-2 inline-block w-full md:w-auto text-white bg-pink-400 font-bold py-2 px-6 rounded transition text-center hover:text-white hover:bg-yellow-600">
             <span class="mr-2"><i class="fas fa-arrow-right"></i></span>Buy Now
           </a>
         </div>

@@ -138,7 +138,7 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase">Dr.R.Kiruba Buri | Dr.B.Rajappa | Dr.K.Swaminathan</li>
+                            <li class="">Dr.R.Kiruba Buri <br> Dr.B.Rajappa <br> Dr.K.Swaminathan</li>
                             <li>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-95-0| 2025 |</span></div>
                             </li>

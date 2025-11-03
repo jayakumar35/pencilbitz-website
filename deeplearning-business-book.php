@@ -9,7 +9,7 @@
   <meta name="description" content="Pencil Bitz">
 
   <!-- ========== Page Title ========== -->
-  <title>Book Page</title>
+  <title> Deep Learning for Business Analytics Beginner's Handbook | Pencil Bitz Book</title>
 
   <!-- ========== Favicon Icon ========== -->
   <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -157,7 +157,7 @@
           <div class="mb-3">
         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline text-center sm:text-left">Authors</h5>
         <ul class="list-disc list-inside text-gray-700 text-center sm:text-left">
-            <li class="uppercase">Dr.D. Ravindran | Dr. Vinothina V | Dr. Chandrakhanthan J | Dr. Jisha V G</li>
+            <li class="">Dr.D. Ravindran <br> Dr. Vinothina V <br> Dr. Chandrakhanthan J <br> Dr. Jisha V G</li>
           <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-58-5 | 2025 |</span></div></li>
         </ul>
           </div>

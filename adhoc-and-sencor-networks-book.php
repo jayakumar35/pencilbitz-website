@@ -63,7 +63,7 @@
     <li class="flex items-center">
       <a href="adhoc-and-sencor-networks-book.php" class="hover:underline text-blue-600 flex items-center">
       <i class="fa-solid fa-network-wired"></i>
-     Adhoc And Sencor Networks
+     Adhoc And Sensor Networks
       </a>
       <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
     </li>
@@ -134,12 +134,12 @@
       <!-- Right: Book Details -->
       <div class="col-lg-6 col-md-6 col-sm-12 col-xl-6 flex flex-col justify-between pl-0 md:pl-8 mt-6 md:mt-0">
         <div>
-          <h2 id="book-name" class="text-3xl font-semibold text-blue-600 mb-2"> Adhoc And Sencor Networks</h2>
+          <h2 id="book-name" class="text-3xl font-semibold text-blue-600 mb-2"> Adhoc And Sensor Networks</h2>
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-                <li class="uppercase">R. Dinesh Kumar | Dr.P.Chinniah</li>
-              <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-18-9| 2025 |</span></div></li>
+                <li class="">R. Dinesh Kumar <br> Dr.P.Chinniah</li>
+              <li><br><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-18-9| 2025 |</span></div></li>
             </ul>
           </div>
         <!-- Book More Details -->

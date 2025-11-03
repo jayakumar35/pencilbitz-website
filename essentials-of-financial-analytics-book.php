@@ -9,7 +9,7 @@
     <meta name="description" content="Pencil Bitz">
 
     <!-- ========== Page Title ========== -->
-    <title>Book Page</title>
+    <title> Essentials of Financial Analytics using Excel and R | Pencil Bitz Book</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -146,7 +146,7 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase">Dr. Vinoth Kumar J </li>
+                            <li class="">Dr. Vinoth Kumar J </li>
                             <li>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-16-5| 2025 |</span></div>
                             </li>

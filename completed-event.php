@@ -24,6 +24,70 @@
             <?php
             // Sample event data - this is the source of your images and info
             $events = [
+                 // 29-10-2025
+                [
+                    'image' => 'assets/img/complete-event/29-oct-25.jpg',
+                    'title' => "Sri Krishna Degree College ",
+                    'date' => '2025-10-29',
+                    'location' => ' Bengaluru, Karnataka',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/28-oct-25.jpg',
+                    'title' => "Shree Venkateshwara Hi-Tech Engineering College ",
+                    'date' => '2025-10-28',
+                    'location' => 'Gobichettipalayam, Tamil Nadu',
+                ],
+                 [
+                    'image' => 'assets/img/complete-event/26-oct-25-1.jpg',
+                    'title' => "Sanketika Vidya Parishad Engineering College",
+                    'date' => '2025-10-26',
+                    'location' => 'Visakhapatnam, Andhra Pradesh',
+                ],
+                 [
+                    'image' => 'assets/img/complete-event/26-oct-25.jpg',
+                    'title' => "Annapoorana Engineering College",
+                    'date' => '2025-10-26',
+                    'location' => 'Tamil nadu',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/13-oct-25-1.jpg',
+                    'title' => "VSB College of Engineering & Technical Campus",
+                    'date' => '2025-10-13',
+                    'location' => 'Coimbatore',
+                ],
+
+                [
+                    'image' => 'assets/img/complete-event/11-oct-25.jpg',
+                    'title' => "Sri Harshini College of Engineering and Technology for women",
+                    'date' => '2025-10-11',
+                    'location' => ' Ongole, Andhra Pradesh',
+                ],
+
+                [
+                    'image' => 'assets/img/complete-event/08-oct-25.jpg',
+                    'title' => "Chadalawada Ramanamma Engineering College",
+                    'date' => '2025-10-08',
+                    'location' => ' Tirupati, Andhra Pradesh',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/06-oct-25.jpg',
+                    'title' => "SVS Institute of Pharmacy",
+                    'date' => '2025-10-06',
+                    'location' => ' Mungase, Maharashtra',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/06-oct-25-1.jpg',
+                    'title' => "Sri Parasakthi College For Women",
+                    'date' => '2025-10-06',
+                    'location' => ' Courtallam, Tamil Nadu',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/04-oct-25.jpg',
+                    'title' => "Brahmdevdada Mane Polytechnic",
+                    'date' => '2025-10-04',
+                    'location' => ' Maharashtra',
+                ],
+                //  29-10-2025 finish
                 [
                     'image' => 'assets/img/complete-event/29-sep-25.jpg',
                     'title' => 'Izee Business School',

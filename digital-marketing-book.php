@@ -9,7 +9,7 @@
     <meta name="description" content="Pencil Bitz">
 
     <!-- ========== Page Title ========== -->
-    <title>Book Page</title>
+    <title> Digital Marketing | Pencil Bitz Book</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -142,7 +142,7 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase">K VANITHA | P NIRMALA </li>
+                            <li class="">K.Vanitha <br>P.Nirmala</li>
                             <li>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-991695-9-3| 2025 |</span></div>
                             </li>

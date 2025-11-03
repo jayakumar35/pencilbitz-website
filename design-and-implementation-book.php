@@ -9,7 +9,7 @@
   <meta name="description" content="Pencil Bitz">
 
   <!-- ========== Page Title ========== -->
-  <title>Book Page</title>
+  <title>   Design and Implementation of Smart Inverters for Solar Energy Grid Integration | Pencil Bitz Book</title>
 
   <!-- ========== Favicon Icon ========== -->
   <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -142,7 +142,7 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-                <li class="uppercase">Mr.John De Britto C  | Dr.Mamidala Vijay Karthik | Mr.P.Manikandan | Mr.Mahendiran C R </li>
+                <li class="">Mr.John De Britto C  <br> Dr.Mamidala Vijay Karthik <br> Mr.P.Manikandan <br> Mr.Mahendiran C R </li>
               <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-07-3| 2025 |</span></div></li>
             </ul>
           </div>

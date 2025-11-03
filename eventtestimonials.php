@@ -209,7 +209,7 @@
 <body class="bg-gray-200">
     <div class="py-12 bg-gray-200 px-2 sm:px-1 lg:px-3">
         <div class="text-center mb-10">
-            <h3 class="text-3xl md:text-4xl font-semibold text-gray-800 mb-2">What People Say</h3>
+            <h3 class="text-3xl md:text-4xl font-semibold text-gray-800 mb-2">what institution say about pencilbitz</h3>
             <div class="w-20 h-1 bg-orange-500 mx-auto"></div>
         </div>
 

@@ -80,12 +80,35 @@
                 <div class="services-carousel swiper">
                     <!-- Additional required wrapper -->
                     <div class="swiper-wrapper">
-                         <!--Siddhivinayak -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
                                     <a href="siddhivinayak-technical-campus-nov-11-event.php">
-                                        <img src="assets/img/upcomeing-event/siddhivinayak -technical-campus-nov-11.jpg" alt="Sri Krishna Event 2">
+                                        <img src="assets/img/upcomeing-event/siddhivinayak -technical-campus-nov-11-new.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                         <!--Siddhivinayak -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="jkk-munirajah-college-of-technology-nov-11-event.php">
+                                        <img src="assets/img/upcomeing-event/jkk-munirajah-college-of-technology-nov-11.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                          <!--Siddhivinayak -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="acharya-institute-of-graduate-studies-nov-21-event.php">
+                                        <img src="assets/img/upcomeing-event/acharya-institute-of-graduate-studies-nov-21.jpg" alt="Sri Krishna Event 2">
                                     </a>
                                 </div>
                             </div>
@@ -93,11 +116,10 @@
                             </div>
                         </div>
                         <!--Nilgiri college nov-19 -->
-                        <!--Nilgiri college nov-19 -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="bgs-first-grade-college-nov-18-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/bgs-first-grade-college-nov-18.jpg" alt="Sri Krishna Event 2">
                                     </a>
                                 </div>
@@ -109,7 +131,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="nilgiri-college-of-arts-and-science-nov-19-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/nilgiri-college-of-arts-and-science-nov-19.jpg" alt="Sri Krishna Event 2">
                                     </a>
                                 </div>
@@ -121,8 +143,8 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="C-Abdul-Hakeem-College-of-Engineering-Technology-nov-5-event.php">
-                                        <img src="assets/img/upcomeing-event/c-abdul-hakeem-college-nov-5-event.jpg" alt="Sri Krishna Event 2">
+                                    <a href="#">
+                                        <img src="assets/img/upcomeing-event/c-abdul-hakeem-college-nov-5-event-new.jpg" alt="Sri Krishna Event 2">
                                     </a>
                                 </div>
                             </div>
@@ -205,7 +227,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="sri-krishna-degree-college-oct-29-event-certificate.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/sri-krishns-degree-new.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -217,7 +239,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="saintmary's-college-nov-6-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/saintmary's-college.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -229,7 +251,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="koshys-institute-of-management-nov-7-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/koshys-nov-7.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -241,7 +263,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="akkineni-nageswara-rao-college-nov-11-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/akkineni-nageswara-reo-colleg-new.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -254,7 +276,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="Nirmala-college-for-women-nov-15-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/Nirmala-college-nov-15-event.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -266,7 +288,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="M-G-R-educational-and-research-institute-nov-13-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/M.G.R-nov-13.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -278,7 +300,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="erode-sengunthar-engineering-college-02-nov-event.php">
+                                    <a href="">
                                         <img src="assets/img/upcomeing-event/erode-sengunthar-02-nov-event.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -290,7 +312,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="sanskar-educational-group-14-nov-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/sanskar-nov-14-event.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -302,7 +324,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="sree-venkateshwara-28-oct-event-certificate.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/shree-venkateshwara-28-oct-event.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -314,7 +336,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="BSVP-frist-grade-college-06-nov-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/BSVP-first-06-nov-event.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -325,7 +347,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="vishwakarma-institute-technology-nov-11-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/vishwakarma-nov-11-event-1.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -336,7 +358,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="kandula-lakshumma-memorial-college-nov-1-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/kandula-lakshumma-memorial-nov-1-new.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -349,7 +371,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="pencilbitz-nov-12-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/pencilbitz-nov-12-event.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -361,7 +383,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="Shailabala-women-autonomous-college-nov-18-20-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/Shailabala-women-autonomous-college-nov-18-20-event.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -373,7 +395,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="Sanketika-Vidya-Parishad-Engineering-College-nov-15-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/Sanketika-Vidya-Parishad-Engineering-College-nov-15.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -384,7 +406,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="Saiva-Bhanu-Kshatriya-College-28-10-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/Saiva-Bhanu-Kshatriya-College1-28-10.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -396,7 +418,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="Sanketika-Vidya-Parishad-Engineering-College-dec-7-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/Sanketika-Vidya-Parishad-Engineering-College-dec-7.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -408,7 +430,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="Sanketika-Vidya-Parishad-Engineering-College-dec-26-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/Sanketika-Vidya-Parishad-Engineering-College-dec-26.jpg" alt="Event 5">
                                     </a>
                                 </div>
@@ -419,7 +441,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="Government-Arts-and-Science-Colllege-28-10-event.php">
+                                    <a href="#">
                                         <img src="assets/img/upcomeing-event/Government-Arts-and-Science-Colllege-28-10.jpg" alt="Event 5">
                                     </a>
                                 </div>

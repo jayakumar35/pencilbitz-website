@@ -142,7 +142,7 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-              <li class="uppercase">Dr. Suman Roy Barman | Dr.K.Uma Parameswari | Ms.Savitha.N.L | Mrs.Chaithanya B Ajay kumar</li>
+              <li class="uppercase">Dr. Suman Roy Barman <br> Dr.K.Uma Parameswari <br> Ms.Savitha.N.L <br> Mrs.Chaithanya B Ajay kumar</li>
               <li>
                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-991695-6-2| 2025 |</span></div>
               </li>

@@ -148,7 +148,7 @@
               </li>
             </ul>
             <div class="flex flex-wrap gap-4 items-center mt-3">
-               <!-- Flipkart -->
+              <!-- Flipkart -->
               <a href="https://www.flipkart.com/java-programming-unlocking-power-object-oriented-design-1-disc/p/itm375f0fae26798?pid=9788199259997" target="_blank"
                 class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition">
                 <i data-lucide="shopping-bag"></i>
@@ -160,9 +160,162 @@
                 class="flex items-center gap-2 text-yellow-500 hover:text-yellow-700 font-semibold transition">
                 <i data-lucide="shopping-cart"></i>
                 <span>Amazon</span>
-              </a>  
-              
+              </a>
 
+              <!-- Get Certificate -->
+              <!-- Trigger Button -->
+              <div class="flex justify-center">
+                <button id="openPopupBtn"
+                  class="px-4 py-1 bg-sky-500 text-white text-lg rounded-lg shadow hover:bg-sky-600 transition">
+                  Get Certificate
+                </button>
+              </div>
+
+              <!-- Popup Modal -->
+              <div id="certificatePopup"
+                class="fixed inset-0 bg-black/50 hidden items-center justify-center z-50 transition">
+                <div class="bg-white p-6 rounded-2xl shadow w-full max-w-md relative">
+
+                  <!-- Close Button -->
+                  <button id="closePopupBtn"
+                    class="absolute top-3 right-3 text-gray-500 hover:text-gray-700 text-xl font-bold">&times;</button>
+
+                  <h2 class="text-xl font-semibold mb-4">Get Your Certificate</h2>
+
+                  <label class="block mb-3">
+                    <span class="text-sm text-gray-600">Enter Author Phone Number</span>
+                    <input id="authorPhoneNumber" type="text" maxlength="10"
+                      placeholder="Enter 10-digit phone number"
+                      class="mt-2 block w-full rounded border border-gray-300 p-2 focus:ring-2 focus:ring-indigo-500" />
+                  </label>
+
+                  <div id="message" class="text-sm text-red-600 mb-3 hidden"></div>
+
+                  <button id="verifyBtn"
+                    class="px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700">
+                    Verify
+                  </button>
+
+                  <!-- Download Section (Hidden Initially) -->
+                  <div id="downloadSection" class="mt-5 hidden">
+                    <p class="text-sm text-gray-600 mb-2">Download your certificate:</p>
+                    <!-- Author 1 -->
+                    <div id="author1" class="hidden flex gap-4 flex-wrap">
+                      <a href="assets/img/books-certificate/Java Programming  Unlocking the Power of Object Oriented Design a1.pdf" download
+                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mr.K.Vimal - PDF</a>
+                    </div>
+
+                    <!-- Author 2 -->
+                    <div id="author2" class="hidden flex gap-4 flex-wrap">
+                      <a href="assets/img/books-certificate/Java Programming  Unlocking the Power of Object Oriented Design a2.pdf" download
+                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mrs.Lakshmi K - PDF</a>
+                    </div>
+
+                    <!-- Author 3 -->
+                    <div id="author3" class="hidden flex gap-4 flex-wrap">
+                      <a href="assets/img/books-certificate/Java Programming  Unlocking the Power of Object Oriented Design a3.pdf" download
+                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mrs.M.Niranjani - PDF</a>
+                    </div>
+
+                    <!-- Author 4 -->
+                    <div id="author4" class="hidden flex gap-4 flex-wrap">
+                      <a href="assets/img/books-certificate/Java Programming  Unlocking the Power of Object Oriented Design a4.pdf" download
+                        class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Ms.Priya Pandey - PDF</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <script>
+                document.addEventListener("DOMContentLoaded", () => {
+                  // Popup controls
+                  const openPopupBtn = document.getElementById("openPopupBtn");
+                  const closePopupBtn = document.getElementById("closePopupBtn");
+                  const certificatePopup = document.getElementById("certificatePopup");
+
+                  openPopupBtn.addEventListener("click", () => {
+                    certificatePopup.classList.remove("hidden");
+                    certificatePopup.classList.add("flex");
+                  });
+
+                  closePopupBtn.addEventListener("click", () => {
+                    certificatePopup.classList.add("hidden");
+                    certificatePopup.classList.remove("flex");
+
+                    // Reset form when popup closes
+                    resetForm();
+                  });
+
+                  // Author phone verification
+                  const input = document.getElementById("authorPhoneNumber");
+                  const message = document.getElementById("message");
+                  const verifyBtn = document.getElementById("verifyBtn");
+                  const downloadSection = document.getElementById("downloadSection");
+
+                  // Author database (phone => section ID)
+                  const authors = {
+                    "9791803101": "author1",
+                    "9964653198": "author2",
+                    "9600788122": "author3",
+                    "8884327526": "author4"
+                  };
+
+                  verifyBtn.addEventListener("click", () => {
+                    const phone = input.value.trim();
+                    const phoneRegex = /^[0-9]{10}$/;
+
+                    if (!phoneRegex.test(phone)) {
+                      message.textContent = "Please enter a valid 10-digit phone number.";
+                      message.classList.remove("hidden");
+                      return;
+                    }
+
+                    // Hide all author sections before showing correct one
+                    Object.values(authors).forEach(id => {
+                      document.getElementById(id).classList.add("hidden");
+                    });
+
+                    if (authors[phone]) {
+                      message.classList.add("hidden");
+                      downloadSection.classList.remove("hidden");
+                      document.getElementById(authors[phone]).classList.remove("hidden");
+
+                      input.disabled = true;
+                      verifyBtn.disabled = true;
+                      verifyBtn.textContent = "Verified ✅";
+
+                      // Add click listener to reset form when a download link is clicked
+                      document.getElementById(authors[phone]).querySelectorAll("a").forEach(link => {
+                        link.addEventListener("click", () => {
+                          setTimeout(() => resetForm(), 100); // small delay to allow download
+                        });
+                      });
+
+                    } else {
+                      message.textContent = "Invalid Author Phone Number!";
+                      message.classList.remove("hidden");
+                    }
+                  });
+
+                  // Hide error message when typing again
+                  input.addEventListener("input", () => {
+                    message.classList.add("hidden");
+                  });
+
+                  function resetForm() {
+                    input.value = "";
+                    input.disabled = false;
+                    verifyBtn.disabled = false;
+                    verifyBtn.textContent = "Verify";
+                    message.classList.add("hidden");
+                    downloadSection.classList.add("hidden");
+                    Object.values(authors).forEach(id => {
+                      document.getElementById(id).classList.add("hidden");
+                    });
+                  }
+                });
+              </script>
+            </div>
           </div>
           <!-- Book More Details -->
           <div class="text-2xl font-bold text-purple-900 mb-3">

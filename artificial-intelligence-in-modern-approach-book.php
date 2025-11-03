@@ -142,7 +142,7 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-              <li class="uppercase">Dr Jothimani Ponnusamy | Biju Thomas | P.Sakthiprakash | Ashok Kumar Manda" </li>
+              <li class="">Dr Jothimani Ponnusamy <br> Biju Thomas <br> P.Sakthiprakash <br> Ashok Kumar Manda </li>
               <li>
                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-992230-9-7| 2025 |</span></div>
               </li>

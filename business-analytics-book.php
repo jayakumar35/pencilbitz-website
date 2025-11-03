@@ -154,7 +154,7 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-                <li class="uppercase">Dr.Jaya Shankar | Ahalya. A | Nandana Jayakumar | Dr. Priya prasad</li>
+                <li class="">Dr.Jaya Shankar <br> Ahalya. A <br> Nandana Jayakumar <br> Dr. Priya prasad</li>
               <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-25-7| 2025 |</span></div></li>
             </ul>
           </div>

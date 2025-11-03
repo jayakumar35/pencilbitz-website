@@ -9,7 +9,7 @@
   <meta name="description" content="Pencil Bitz">
 
   <!-- ========== Page Title ========== -->
-  <title>Book Order Page</title>
+  <title> Deep Learning for Business Analytics Beginner's Handbook | Pencil Bitz Book</title>
 
   <!-- ========== Favicon Icon ========== -->
   <link rel="shortcut icon" href="assets/img/PB-new-logo.png" type="image/x-icon">

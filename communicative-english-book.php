@@ -9,7 +9,7 @@
   <meta name="description" content="Pencil Bitz">
 
   <!-- ========== Page Title ========== -->
-  <title>Book Page</title>
+  <title>Communicative English | Pencil Bitz Book</title>
 
   <!-- ========== Favicon Icon ========== -->
   <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
