@@ -138,8 +138,8 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase">R.Bhuvaneswari  | R.Tamilselvi | P.Abinaya  | R.Bhuvaneswari</li>
-                            <li>
+                            <li class="uppercase">R.Bhuvaneswari  <br> R.Tamilselvi <br> P.Abinaya  <br> R.Bhuvaneswari</li>
+                            <li><br>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-49129-47-4 | 2025 |</span></div>
                             </li>
                         </ul>

@@ -138,8 +138,8 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase"> Dr.P. Mathuraswamy  | Dr.M.P. Prabakaran  | Dr.P. Maria Jesi  |Dr.P. Jeya Bright</li>
-                            <li>
+                            <li class="uppercase"> Dr.P. Mathuraswamy  <br> Dr.M.P. Prabakaran  <br> Dr.P. Maria Jesi  <br>Dr.P. Jeya Bright</li>
+                            <li><br>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-84-4| 2025 |</span></div>
                             </li>
                         </ul>

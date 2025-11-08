@@ -138,8 +138,8 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase">Dr.C.Caleb Johnson Paranjothi  |  Dr.R.Jeyapandi | Mrs. A.Helen Febial |  Dr. H. Jacena Begum</li>
-                            <li>
+                            <li class="uppercase">Dr.C.Caleb Johnson Paranjothi  <br>  Dr.R.Jeyapandi <br> Mrs. A.Helen Febial <br>  Dr. H. Jacena Begum</li>
+                            <li><br>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-08-0 | 2025 |</span></div>
                             </li>
                         </ul>

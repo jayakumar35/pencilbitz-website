@@ -198,7 +198,7 @@
                                 <div class="text-center">
                                     <div class="flex justify-center mb-6">
                                         <div class="gradient-bg rounded-full w-48 h-48 flex items-center justify-center overflow-hidden shadow-md">
-                                            <img src="assets/img/team/sangeetha-mam.png" alt="Sangeetha Subramaniam" class="w-full h-full object-cover">
+                                            <img src="assets/img/team/ " alt="Sangeetha Subramaniam" class="w-full h-full object-cover">
                                         </div>
                                     </div>
                                     <h3 class="text-2xl font-bold text-gray-800 mb-2">Sangeetha Subramaniam</h3>

@@ -156,9 +156,9 @@
           <h2 id="book-name" class="text-3xl font-semibold text-blue-700 mb-2 text-center sm:text-left">Deep Learning for Business Analytics Beginner's Handbook</h2>
           <div class="mb-3">
         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline text-center sm:text-left">Authors</h5>
-        <ul class="list-disc list-inside text-gray-700 text-center sm:text-left">
-            <li class="uppercase">Dr.D. Ravindran | Dr. Vinothina V | Dr. Chandrakhanthan J | Dr. Jisha V G</li>
-          <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-58-5 | 2025 |</span></div></li>
+        <ul class="list-disc list-inside text-gray-700 ">
+            <li class="uppercase">Dr.D. Ravindran <br> Dr. Vinothina V <br> Dr. Chandrakhanthan J <br> Dr. Jisha V G</li>
+          <li><br><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-58-5 | 2025 |</span></div></li>
         </ul>
           </div>
         <!-- Book More Details -->

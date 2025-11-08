@@ -154,8 +154,8 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-                <li class="uppercase">Dr. Gyanandre Tripathi | Dr.P. Jeya Brigth | Dr.P. Maria Jesi | Lalbabu Prashad</li>
-              <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-979572-5-3| 2024 |</span></div></li>
+                <li class="uppercase">Dr. Gyanandre Tripathi <br> Dr.P. Jeya Brigth <br>  Dr.P. Maria Jesi <br>  Lalbabu Prashad</li>
+              <li> <br><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-979572-5-3| 2024 |</span></div></li>
             </ul>
           </div>
         <!-- Book More Details -->

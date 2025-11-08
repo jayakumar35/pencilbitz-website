@@ -142,8 +142,9 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-                <li class="uppercase">	Dr.K.Gokila | Ms.C.K.Nishana | Ms.M.Shalini | Ms.T.Divya Bharathi | Ms.M.S.Selva Preethi</li>
-              <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-89911-81-7| 2025 |</span></div></li>
+                <li class="uppercase">	Dr.K.Gokila <br> Ms.C.K.Nishana <br> Ms.M.Shalini <br> Ms.T.Divya Bharathi <br> Ms.M.S.Selva Preethi</li>
+              <br>
+                <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-89911-81-7| 2025 |</span></div></li>
             </ul>
           </div>
         <!-- Book More Details -->

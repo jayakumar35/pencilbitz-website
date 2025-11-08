@@ -210,6 +210,21 @@
                     $testimonials = [
                              // Testimonilals
                         [
+                            "image" => "jothimani.png",
+                            "titel" => "Artificial Intelligence in Modern Approach ",
+                            "author" => "Dr.Jothimani Ponnusamy ",
+                            "designation" => " Professor of Practice",
+                            "department" => " Computer Science and Engineering",
+                            "college" => "Academy of Maritime Education and Training (AMET) ",
+                            "location" => "Latur, Maharashtra ",
+                            "review" => " Sincere thanks for you and your team for the professionalism, timely communication in the publishing journey. The process was a valuable learning experience, and I truly appreciate the editorial insights, cover design, and production quality.
+The book Artificial Intelligence in Modern Approach wherein which I am the Lead author is a well-structured resource for understanding AI principles, basic concepts, problem solving, knowledge presentation and machine learning in a clear and concise manner.  Another Book Data, Information and Security (Fourth Author) is about focussed python concepts, logical and algorithmic thinking in solving real world problems.  
+I look forward to continuing this journey together in the future and achieving quicker results in scheduled time. I truly appreciate the effort and dedication in completing the publication successfully",
+                            "rating" => 5,
+                        ],
+                             
+                             // Testimonilals
+                        [
                             "image" => "priya.jpg",
                             "titel" => "Postcolonial Narratives in the World Literature",
                             "author" => "Dr. A. Priya  ",
@@ -680,7 +695,7 @@
                         modalReview.textContent = review;
                         modalAuthor.innerHTML = `
                             <p class="font-semibold text-orange-600">Name : ${name}</p>
-                            <p> Desiignation : ${designation}</p>
+                            <p> Designation : ${designation}</p>
                             <p> Department : ${dept}</p>
                             <p> College : ${college}</p>
                         `;

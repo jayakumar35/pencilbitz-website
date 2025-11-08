@@ -154,8 +154,8 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-                <li class="uppercase">Dr.VR. Balasaraswathi |  Dr.L. Mary Shamala</li>
-              <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-6260-221-3| 2024 |</span></div></li>
+                <li class="uppercase">Dr.VR. Balasaraswathi <br>  Dr.L. Mary Shamala</li>
+              <li><br><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-6260-221-3| 2024 |</span></div></li>
             </ul>
           </div>
         <!-- Book More Details -->

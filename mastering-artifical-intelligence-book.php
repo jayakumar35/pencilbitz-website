@@ -142,8 +142,8 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-                <li class="uppercase">Dr.M.Kavitha | Dr.M.Padmavathi | Mrs. J. Stephy Christina | Mrs N Sudha </li>
-              <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-96-7| 2025 |</span></div></li>
+                <li class="uppercase">Dr.M.Kavitha <br> Dr.M.Padmavathi <br> Mrs. J. Stephy Christina <br> Mrs N Sudha </li>
+              <li><br><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-96-7| 2025 |</span></div></li>
             </ul>
           </div>
         <!-- Book More Details -->

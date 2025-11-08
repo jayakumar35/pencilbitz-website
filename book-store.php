@@ -106,15 +106,34 @@
                         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 mt-10">
                             <?php
                             // Array of books
-                            
+
                             $books = [
+                                // probability-and-queing-theory
+                                [
+                                    'img' => 'assets/img/new/probability-and-queing-theory.png',
+                                    'alt' => ' Probability and Queuing theory',
+                                    'title' => 'Probability and Queuing theory',
+                                    'authors' => '"Dr. M.Ramesh | Dr.K.Ramesh babu | Dr.G.Jaya Lalitha | Dr.Sivaiah Sreeramula',
+                                    'link' => 'probability-and-queing-theory-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                // Intellectual Property Rights
+                                [
+                                    'img' => 'assets/img/new/intellectual-property.png',
+                                    'alt' => ' Intellectual Property Rights',
+                                    'title' => 'Intellectual Property Rights',
+                                    'authors' => '"Dr.Jemimah Winston | Dr.Mobi Rajendran | Dr. Jenifer Thangam J.',
+                                    'link' => 'intellectual-property-book.php',
+                                    'btn' => 'Read More'
+                                ],
 
                                 //Natural Language Processing
                                 [
                                     'img' => 'assets/img/new/natural-language-procesing.png',
                                     'alt' => ' Natural Language Processing',
                                     'title' => 'Natural Language Processing',
-                                    'authors' => 'Dr. SWARNA SUREKHA',
+                                    'authors' => 'Dr. Swarna Surekha',
                                     'link' => 'natural-language-procesing-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -133,33 +152,39 @@
                                     'alt' => ' Auditing and Corporate Governance',
                                     'title' => 'Auditing and Corporate Governance ',
                                     'authors' => 'Dr.Prita Davidson | G.Sridevi',
+                                    'amazon' => 'https://www.amazon.in/dp/8199223030',
+                                    'flipkart' => 'https://www.flipkart.com/auditing-corporate-governance-1-disc/p/itmb28d97aa09554?pid=9788199223035',
                                     'link' => 'auditing-and-corporate-governance-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                 //Mastering Deep Learning Architecture
+                                //Mastering Deep Learning Architecture
                                 [
                                     'img' => 'assets/img/new/mastering-deep-learning-Dr-SWARNA-SUREKHA.png',
                                     'alt' => ' Mastering Deep Learning Architecture',
                                     'title' => 'Mastering Deep Learning Architecture ',
-                                    'authors' => 'Dr. SWARNA SUREKHA',
+                                    'authors' => 'Dr. Swarna Surekha ',
                                     'link' => 'mastering-deep-learning-swarna-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                 //Java Programming : Unlocking the Power of Object Oriented Design
+                                //Java Programming : Unlocking the Power of Object Oriented Design
                                 [
                                     'img' => 'assets/img/new/Java-Programming-Unlocking-the Power-of-Object Oriented-Design.png',
                                     'alt' => ' Java Programming : Unlocking the Power of Object Oriented Design',
                                     'title' => 'Java Programming : Unlocking the Power of Object Oriented Design    ',
+                                    'amazon' => 'https://www.amazon.in/dp/819925999X',
+                                    'flipkart' => 'https://www.flipkart.com/java-programming-unlocking-power-object-oriented-design-1-disc/p/itm375f0fae26798?pid=9788199259997',
                                     'authors' => 'Mr.K.Vimal | Mrs.Lakshmi K | Mrs.M.Niranjani | Ms.Priya Pandey',
                                     'link' => 'Java-Programming-Unlocking-the Power-of-Object Oriented-Design-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                 //Corporate Accounting
+                                //Corporate Accounting
                                 [
                                     'img' => 'assets/img/new/corporate-accounting.png',
                                     'alt' => ' Corporate Accounting',
                                     'title' => 'Corporate Accounting ',
                                     'authors' => 'Dr. Suman Roy Barman | Dr. K. Uma Parameswari | Ms.Savitha.N.L | Mrs.Chaithanya B Ajay kumar',
+                                    'amazon' => 'https://www.amazon.in/dp/8199169567',
+                                    'flipkart' => 'https://www.flipkart.com/corporate-accounting-1-disc/p/itmc7aceebc0b60e?pid=9788199169562',
                                     'link' => 'corporate-accounting-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -172,16 +197,18 @@
                                     'link' => 'organizational-behaviour-leading-with-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                  //Quantum Computing the Next Frontier In Computer Science
+                                //Quantum Computing the Next Frontier In Computer Science
                                 [
                                     'img' => 'assets/img/new/quantum-computing-the-next-computer.png',
                                     'alt' => ' Quantum Computing the Next Frontier In Computer Science ',
                                     'title' => 'Quantum Computing the Next Frontier In Computer Science ',
-                                    'authors' => 'Mrs.A.PRAVEENA | Dr.E.S.SHAMILA | Dr.S.USHA | Dr. R N Devendra Kumar',
+                                    'authors' => 'Mrs. A. Praveena | Dr. E. S. Shamila | Dr. S. Usha | Dr. R N Devendra Kumar',
+                                    'amazon' => 'https://www.amazon.in/dp/8199223049',
+                                    'flipkart' => 'https://www.flipkart.com/quantum-computing-next-frontier-computer-science-1-disc/p/itmeab2afb61f63b?pid=9788199223042',
                                     'link' => 'quantum-computing-the-next-computer-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                  //Mastering Deep Learning Architecture
+                                //Mastering Deep Learning Architecture
                                 [
                                     'img' => 'assets/img/new/mastering-deep-learning-arch.png',
                                     'alt' => ' Mastering Deep Learning Architecture ',
@@ -190,20 +217,24 @@
                                     'link' => 'mastering-deep-learning-arch-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                 //PROBABILITY AND STATISTICS
+                                //PROBABILITY AND STATISTICS
                                 [
                                     'img' => 'assets/img/new/probability-and-statistics.png',
                                     'alt' => ' Probability and statistics ',
                                     'title' => 'Probability and statistics  ',
-                                    'authors' => 'Mrs.SANGEETHA B | Dr.R MEGANATHAN,Mrs.MALATHI K | Dr.R SATHIYA SHANTHI',
+                                    'authors' => 'Mrs. Sangeetha B | Dr. R Meganathan | Mrs. Malathi K | Dr. R Sathiya Shanthi',
+                                    'amazon' => 'https://www.amazon.in/dp/8199223022',
+                                    'flipkart' => 'https://www.flipkart.com/fundamentals-iot-1-disc/p/itmc434025019bab?pid=9789349129313',
                                     'link' => 'probability-and-statistics-book.php',
                                     'btn' => 'Read More'
                                 ],
-                                  //Core Concepts in Artificial Intelligence
+                                //Core Concepts in Artificial Intelligence
                                 [
                                     'img' => 'assets/img/new/core-concepts-in-artificial-intelligence.png',
                                     'alt' => ' Core Concepts in Artificial Intelligence ',
                                     'title' => 'Core Concepts in Artificial Intelligence ',
+                                    'amazon' => 'https://www.amazon.in/dp/8199223081',
+                                    'flipkart' => 'https://www.flipkart.com/core-concepts-artificial-intelligence-1-disc/p/itm1f4f1c6c17066?pid=9788199223080',
                                     'authors' => 'Dr.T.Kamaleshwar | L Sowjanya Upadhyayula | Dr.M.Kavitha | Dr. Sapna Singh"',
                                     'link' => '#',
                                     'btn' => 'Read More'
@@ -222,6 +253,8 @@
                                     'img' => 'assets/img/new/essentials-of-financial-analytics.png',
                                     'alt' => ' Essentials of Financial Analytics using Excel and R ',
                                     'title' => 'Essentials of Financial Analytics using Excel and R ',
+                                    'amazon' => 'https://www.amazon.in/dp/9348556169',
+                                    'flipkart' => 'https://www.flipkart.com/fundamentals-iot-1-disc/p/itmc434025019bab?pid=9789349129313',
                                     'authors' => 'Dr. Vinoth Kumar J',
                                     'link' => 'essentials-of-financial-analytics-book.php',
                                     'btn' => 'Read More'
@@ -241,6 +274,8 @@
                                     'alt' => ' Artificial Intelligence in Modern Approach ',
                                     'title' => 'Artificial Intelligence in Modern Approach ',
                                     'authors' => 'Dr Jothimani Ponnusamy | Biju Thomas | P.Sakthiprakash | Ashok Kumar Manda',
+                                    'amazon' => 'https://www.amazon.in/dp/819922309X',
+                                    'flipkart' => 'https://www.flipkart.com/artificial-intelligence-modern-approach-1-disc/p/itm60501f39015ae?pid=9788199223097',
                                     'link' => 'artificial-intelligence-in-modern-approach-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -250,6 +285,8 @@
                                     'alt' => ' Advanced Corporate Accounting ',
                                     'title' => 'Advanced Corporate Accounting',
                                     'authors' => 'Dr. Jaykar L. Jadhav | Dr. Anishkumar Karia |Shivaji Rajmane',
+                                    'amazon' => 'https://www.amazon.in/dp/8199223057',
+                                    'flipkart' => 'https://www.flipkart.com/advance-corporate-accounting-1-disc/p/itm8285b94da63e3?pid=9788199223059',
                                     'link' => 'advanced-corporate-accounting-jaykar-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -258,7 +295,9 @@
                                     'img' => 'assets/img/new/digital-marketing.png',
                                     'alt' => ' Digital Marketing ',
                                     'title' => 'Digital Marketing ',
-                                    'authors' => 'K VANITHA | P NIRMALA',
+                                    'amazon' => ' #',
+                                    'flipkart' => 'https://www.flipkart.com/strategic-human-resource-management-1-disc/p/itm3ad6ea8feab13?pid=9789348556653',
+                                    'authors' => 'K Vanitha | P Nirmala',
                                     'link' => 'digital-marketing-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -268,6 +307,8 @@
                                     'alt' => ' Strategic Human Resource Management ',
                                     'title' => 'Strategic Human Resource Management ',
                                     'authors' => 'Mrs. Neelima Nishikant Bhoomkar | Dr. Tripti Arvind | Dr.J.Greeta Mary |Dr.K.Manikandarajan',
+                                    'amazon' => 'https://www.amazon.in/dp/9348556657',
+                                    'flipkart' => 'https://www.flipkart.com/strategic-human-resource-management-1-disc/p/itm3ad6ea8feab13?pid=9789348556653',
                                     'link' => 'strategic-human-resource-management-neelima-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -276,6 +317,8 @@
                                     'img' => 'assets/img/new/cloud-computing-concepts-and-practice.png',
                                     'alt' => ' Cloud Computing: Concepts and Practice ',
                                     'title' => 'Cloud Computing: Concepts and Practice ',
+                                    'amazon' => 'https://www.amazon.in/dp/934855624X',
+                                    'flipkart' => 'https://www.flipkart.com/cloud-computing-concepts-practice-1-disc/p/itmbed1a6fc31104?pid=9789348556240',
                                     'authors' => 'Atma Prakash Singh | E Jansirani | Dr Nanda Kishor S | Isha Das',
                                     'link' => 'cloud-computing-concepts-and-practice-book.php',
                                     'btn' => 'Read More'
@@ -285,6 +328,8 @@
                                     'img' => 'assets/img/new/advanced-reinforced-concrete-design.png',
                                     'alt' => ' Advanced Reinforced Concrete Design ',
                                     'title' => 'Advanced Reinforced Concrete Design ',
+                                    'amazon' => 'https://www.amazon.in/dp/8199169575',
+                                    'flipkart' => 'https://www.flipkart.com/advanced-reinforced-concrete-design-1-disc/p/itm619ebef96a49f?pid=9788199169579',
                                     'authors' => 'Dr A. Swetha',
                                     'link' => 'advanced-reinforced-concrete-design-book.php',
                                     'btn' => 'Read More'
@@ -295,6 +340,8 @@
                                     'alt' => ' Digital Electronics and logic design ',
                                     'title' => 'Digital Electronics and logic design ',
                                     'authors' => 'Prof. Gopika Fattepurkar | Prof. Rupali Wagh | Dr. Vandana Navale',
+                                    'amazon' => 'https://www.amazon.in/dp/9348556231',
+                                    'flipkart' => 'https://www.flipkart.com/digital-electronics-logic-design-1-disc/p/itm8cb8e3ab9acd9?pid=9789348556233',
                                     'link' => 'digital-electronics-and-logic-design-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -303,7 +350,7 @@
                                     'img' => 'assets/img/new/advanced-corporate-accounting.png',
                                     'alt' => ' Advanced Corporate Accounting ',
                                     'title' => 'Advanced Corporate Accounting',
-                                    'authors' => 'Dr.S.AMUDHA  | Dr.S.K.ARUNKUMAR ',
+                                    'authors' => 'Dr. S. Amudha | Dr. S. K. Arunkumar ',
                                     'link' => 'advanced-corporate-accounting-amudha-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -312,6 +359,8 @@
                                     'img' => 'assets/img/new/electronic-commerce.png',
                                     'alt' => ' Electronic Commerce ',
                                     'title' => 'Electronic Commerce ',
+                                    'amazon' => 'https://www.amazon.in/dp/9348556762',
+                                    'flipkart' => 'https://www.flipkart.com/electronic-commerce-1-disc/p/itm655a1597bfe40?pid=9789348556769',
                                     'authors' => 'Dr.S.Ramamurthy | Dr Ashok kumar T | Dr Priya S',
                                     'link' => 'electronic-commerce-book.php',
                                     'btn' => 'Read More'
@@ -340,6 +389,8 @@
                                     'img' => 'assets/img/new/architecture-and-the-metaverse.png',
                                     'alt' => ' Architecture and the Metaverse: Designing the Future of Digital Space ',
                                     'title' => 'Architecture and the Metaverse: Designing the Future of Digital Space ',
+                                    'amazon' => 'https://www.amazon.in/dp/9348556274',
+                                    'flipkart' => 'https://www.flipkart.com/architeture-metaverse-designing-furture-digital-space-1-disc/p/itmc50127473020e?pid=9789348556271',
                                     'authors' => 'Ar.Tauseef Rahi',
                                     'link' => 'architecture-and-the-metaverse-book.php',
                                     'btn' => 'Read More'
@@ -349,6 +400,8 @@
                                     'img' => 'assets/img/new/biomedical-signal-processing.png',
                                     'alt' => ' Biomedical Signal Processing and Analysis: ECG & EEG Perspectives ',
                                     'title' => 'Biomedical Signal Processing and Analysis: ECG & EEG Perspectives ',
+                                    'amazon' => 'https://www.amazon.in/dp/9348556177',
+                                    'flipkart' => 'https://www.flipkart.com/biomedical-signal-processing-1-disc/p/itm0e1e7021b0d4c?pid=9789348556172',
                                     'authors' => '	Dr.Manjunatha Siddappa,  | Mr.Ravi M V',
                                     'link' => 'biomedical-signal-processing-book.php',
                                     'btn' => 'Read More'
@@ -358,6 +411,8 @@
                                     'img' => 'assets/img/new/postcolonial-narratives-in-world-literature.png',
                                     'alt' => 'Postcolonial Narratives in the World Literature',
                                     'title' => 'Postcolonial Narratives in the World Literature ',
+                                    'amazon' => 'https://www.amazon.in/dp/9348556851',
+                                    'flipkart' => 'https://www.flipkart.com/postcolonial-narratives-world-literature-1-disc/p/itme94209b9e7f47?pid=9789348556851',
                                     'authors' => 'Dr. A. Priya, |  Dr. J. Charles Arockiasamy',
                                     'link' => 'postcolonial-narratives-book.php',
                                     'btn' => 'Read More'
@@ -403,6 +458,8 @@
                                     'img' => 'assets/img/new/iot-based-monitoring-and-control.png',
                                     'alt' => '  IoT Based Monitoring and Control System for Solar Power Plants ',
                                     'title' => ' IoT Based Monitoring and Control System for Solar Power Plants ',
+                                    'amazon' => 'https://www.amazon.in/dp/9348556878',
+                                    'flipkart' => 'https://www.flipkart.com/iot-based-monitoring-control-system-solar-power-plants-1-disc/p/itmb29e16a73d22d?pid=9789348556875',
                                     'authors' => 'Mr.John De Britto C | Dr. Arokiya Prasad P | Dr.Raja Elangovan | Dr. Neeraj Kumar',
                                     'link' => 'iot-based-monitoring-book.php',
                                     'btn' => 'Read More'
@@ -413,6 +470,9 @@
                                     'alt' => '  Design and Implementation of Smart Inverters for Solar Energy Grid Integration ',
                                     'title' => ' Design and Implementation of Smart Inverters for Solar Energy Grid Integration ',
                                     'authors' => 'Mr.John De Britto C  | Dr.Mamidala Vijay Karthik | Mr.P.Manikandan | Mr.Mahendiran C R',
+                                    'amazon' => 'https://www.amazon.in/dp/934855607X',
+                                    'flipkart' => '#',
+
                                     'link' => 'design-and-implementation-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -421,6 +481,8 @@
                                     'img' => 'assets/img/new/fundamentals-of-sustainabilty.png',
                                     'alt' => '  Fundamentals of Sustainability in Civil Engineering   ',
                                     'title' => ' Fundamentals of Sustainability in Civil Engineering  ',
+                                    'amazon' => 'https://www.amazon.in/dp/9348556363',
+                                    'flipkart' => 'https://www.flipkart.com/fundamentals-sustainability-civil-engineering-1-disc/p/itma7fbce1274ef6?pid=9789348556363',
                                     'authors' => 'Dr. A. Tamilarasan | Dr. Dharanidharan S | Dr. Manikandan Periyasamy | Dr. Prem Kumar Vagestan',
                                     'link' => 'fundamentals-of-sustainability-book.php',
                                     'btn' => 'Read More'
@@ -587,7 +649,7 @@
                                     'img' => 'assets/img/new/engineering-chemistry.png',
                                     'alt' => ' Engineering Chemistry ',
                                     'title' => 'Engineering Chemistry',
-                                    'authors' => 'Dr.V.USHA  | Isha Das  | Dr.Renu S Nair  | Dr.Meena Devi',
+                                    'authors' => 'Dr. V. Usha | Isha Das | Dr. Renu S Nair | Dr. Meena Devi',
                                     'link' => 'engineering-chemistry-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -662,6 +724,8 @@
                                     'alt' => 'Intelligent Systems',
                                     'title' => 'Intelligent Systems Ai Fundamentals And Applications',
                                     'authors' => 'Dr.D.Muruganandam | Dr.J.Jayapriya | Ryan A Pins',
+                                    'amazon' => 'https://www.amazon.in/dp/9348556487',
+                                    'flipkart' => 'https://www.flipkart.com/intelligent-systems-ai-fundamentals-applications-1-disc/p/itmdbdc135d6bc12?pid=9789348556486',
                                     'link' => 'intelligent-systems-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -785,7 +849,7 @@
                                     'img' => 'assets/img/new/SHRM.png',
                                     'alt' => 'Book 8',
                                     'title' => 'Strategic Human Resource Management',
-                                    'authors' => 'Dr. B. SIVARAJ, MBA., Ph.D',
+                                    'authors' => 'Dr. B. Sivaraj, MBA., Ph.D',
                                     'link' => 'strategic-human-resource-management-book.php',
                                     'amazon' => 'https://www.amazon.in/example-amazon-link',
                                     'flipkart' => 'https://www.flipkart.com/r-programming-introduction-r-language-data-science-mastering-analysis-getting-started-power-science-statistics-made-easy/p/itm9b00af594aa36?pid=9789348556011',

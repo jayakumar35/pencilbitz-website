@@ -220,6 +220,28 @@
                     <?php
                     $testimonials = [
                        // New Testimonilals October
+                        //Testmonilals -10
+                       [
+                            "image" => "https://www.admissionduniya.com/assets/college/logo_1745100414_105.png",
+                            "author" => " Mrs.Leena J P",
+                            "department" => " English ",
+                            "designation" => "Professor",
+                            "college" => "BGS First Grade College, Adichunchanagiri University",
+                            "location" => "Mysore, Karnataka",
+                            "review" => "My deep appreciation to the FDP organizers for putting together an exceptional learning experience. Your tireless efforts, coordination, and attention to detail made this program a success.Very happy to be the part of this.....And also thankful for the immediate corrections and responses given by all the  team......🙏 ",
+                            "rating" => 5,
+                       ],
+                        //Testmonilals -9
+                       [
+                            "image" => "https://www.skdc.edu.in/images/skit-logo.png",
+                            "author" => "Kannan D. S., M.C.A., M.Phil.",
+                            "department" => "Department of Computer Science ",
+                            "designation" => "HOD ",
+                            "college" => " Sri Krishna Degree College",
+                            "location" => "Bengaluru",
+                            "review" => "“Empowering Faculty with AI for Effective Ph.D. Research and Paper Publications”It was a privilege to have Dr. Nidhi Mishra as the Resource Person for our FDP.Her insightful and engaging session was truly inspiring and highly appreciated by all. 👏Special thanks to Pencil Britz for their wonderful support and association — and heartfelt appreciation to Regan and Revathi for their excellent coordination throughout. ",
+                            "rating" => 5,
+                       ],
                         //Testmonilals -8
                        [
                             "image" => "https://s3.collegedisha.com/collegedisha/institutes/college/logo/Sanskar_College_Of_Pharmacy_And_Research_logo_1.webp",

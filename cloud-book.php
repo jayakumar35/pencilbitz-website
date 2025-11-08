@@ -138,8 +138,8 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700  sm:pl-0">
-              <li>V.MAHALAKSHMI, G.ASHISH, R.MENAGADEVI, S.B.NARMADA</li>
-              <li>
+              <li>V.MAHALAKSHMI <br> G.ASHISH <br> R.MENAGADEVI <br> S.B.NARMADA</li>
+              <li><br>
                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-37-0| 2025 |</span></div>
               </li>
             </ul>

@@ -138,8 +138,8 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase"> Dr. Manoj Kumar G  | Dr. Smitha Vas P </li>
-                            <li>
+                            <li class="uppercase"> Dr. Manoj Kumar G  <br> Dr. Smitha Vas P </li>
+                            <li><br>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-67-7| 2025 |</span></div>
                             </li>
                         </ul>

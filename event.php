@@ -229,6 +229,180 @@
                             </div>
                         </div>
                         <!-----vignesh ----->
+
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/malla-reddy-Institute-Of-technology-12-12-25-event.php">
+                                        <img src="assets/img/upcomeing-event/malla-reddy-Institute-Of-technology-12-12-25.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/j-p-college-of-engineering-28-11-25-event.php">
+                                        <img src="assets/img/upcomeing-event/j-p-college-of-engineering-28-11-25.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/chadalawada-Ramanamma-Engineering-College-1-12-event.php">
+                                        <img src="assets/img/upcomeing-event/chadalawada-Ramanamma-Engineering-College-1-12.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="Madurai-Kamaraj-University-17-12-25-event.php">
+                                        <img src="assets/img/upcomeing-event/Madurai-Kamaraj-University-17-12-25.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/syed-ammal-arts-and-science-college-24-11-2-event.php">
+                                        <img src="assets/img/upcomeing-event/syed-ammal-arts-and-science-college-24-11-2.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/syed-ammal-arts-and-science-college-24-11-1-event.php">
+                                        <img src="assets/img/upcomeing-event/syed-ammal-arts-and-science-college-24-11-1.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/syed-ammal-arts-and-science-college-24-11-event.php">
+                                        <img src="assets/img/upcomeing-event/syed-ammal-arts-and-science-college-24-11.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/acharya-institute-of-graduate-studies-21-11-event.php">
+                                        <img src="assets/img/upcomeing-event/acharya-institute-of-graduate-studies-21-11.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/jkk-munirajah-college-of-technology-11-11-event.php">
+                                        <img src="assets/img/upcomeing-event/jkk-munirajah-college-of-technology-11-11.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="siddhivinayak -technical-campus-11-11-event.php">
+                                        <img src="assets/img/upcomeing-event/siddhivinayak -technical-campus-11-11.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/bgs-first-grade-college-18-11-event.php">
+                                        <img src="assets/img/upcomeing-event/bgs-first-grade-college-18-11.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="nilgiri-college-of-arts-and-science-30-10-event.php">
+                                        <img src="assets/img/upcomeing-event/nilgiri-college-of-arts-and-science-30-10.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="C-Abdul-Hakeem-College-of-Engineering-Technology-29-10-event.php">
+                                        <img src="assets/img/upcomeing-event/C-Abdul-Hakeem-College-of-Engineering-Technology-29-10.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="Government-Arts-and-Science-Colllege-28-10-event.php">
+                                        <img src="assets/img/upcomeing-event/Government-Arts-and-Science-Colllege-28-10.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -240,6 +414,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -334,6 +509,24 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
+
+
+
+                        <!----Vignesh-->
+
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="aps-college-of-commerce-13-11-event.php">
+                                        <img src="assets/img/upcomeing-event/aps-college-of-commerce-13-11.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -358,7 +551,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                           <!-- Shailabala-women  -->
+                        <!-- Shailabala-women  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -394,7 +587,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                   </div>
+                    </div>
                     <!-- Navigation / Pagination -->
                     <button class="services-button-prev absolute left-2 top-1/2 -translate-y-1/2 z-50 w-10 h-10 bg-white/90 hover:bg-white rounded-full flex items-center justify-center shadow-md">
                         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-gray-700" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -414,6 +607,20 @@
     <div class="">
         <?php require_once "eventtestimonials.php"; ?>
     </div>
+    <div class="">
+        <div class="row"><br>
+            <div class="col-lg-8 offset-lg-2">
+                <div class="secondary text-center">
+                    <h4 class="sub-heading fs-1">Completed Payed Events</h4>
+                    <div class="devider"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Right Sidebar -->
+    <?php include_once 'completed-payed-event'; ?>
+
 
     <div class="">
         <div class="row"><br>
@@ -426,6 +633,7 @@
         </div>
     </div>
     <!-- Right Sidebar -->
+
     <?php include_once 'completed-event.php'; ?>
     </div>
     <footer>
@@ -435,36 +643,45 @@
     <!-- Swiper JS (use a version that matches your CSS) -->
     <script src="https://unpkg.com/swiper@9/swiper-bundle.min.js"></script>
     <script>
-      document.addEventListener('DOMContentLoaded', function () {
-        const swiper = new Swiper('.services-carousel', {
-          loop: true,
-          slidesPerView: 4,
-          spaceBetween: 16,
-          speed: 800,
-          grabCursor: true,
-          autoplay: {
-            delay: 3000,
-            disableOnInteraction: false,
-            pauseOnMouseEnter: true
-          },
-          navigation: {
-            nextEl: '.services-button-next',
-            prevEl: '.services-button-prev',
-          },
-          pagination: {
-            el: '.services-pagination',
-            clickable: true,
-          },
-          breakpoints: {
-            320:  { slidesPerView: 1 },
-            640:  { slidesPerView: 2 },
-            1024: { slidesPerView: 3 },
-            1280: { slidesPerView: 4 }
-          },
-          observer: true,
-          observeParents: true
+        document.addEventListener('DOMContentLoaded', function() {
+            const swiper = new Swiper('.services-carousel', {
+                loop: true,
+                slidesPerView: 4,
+                spaceBetween: 16,
+                speed: 800,
+                grabCursor: true,
+                autoplay: {
+                    delay: 3000,
+                    disableOnInteraction: false,
+                    pauseOnMouseEnter: true
+                },
+                navigation: {
+                    nextEl: '.services-button-next',
+                    prevEl: '.services-button-prev',
+                },
+                pagination: {
+                    el: '.services-pagination',
+                    clickable: true,
+                },
+                breakpoints: {
+                    320: {
+                        slidesPerView: 1
+                    },
+                    640: {
+                        slidesPerView: 2
+                    },
+                    1024: {
+                        slidesPerView: 3
+                    },
+                    1280: {
+                        slidesPerView: 4
+                    }
+                },
+                observer: true,
+                observeParents: true
+            });
         });
-      });
     </script>
 </body>
+
 </html>

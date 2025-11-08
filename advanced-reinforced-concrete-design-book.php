@@ -143,6 +143,7 @@
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
                 <li class="uppercase">Dr A. Swetha</li>
+                <br>
               <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-991695-7-9| 2025 |</span></div></li>
             </ul>
           </div>

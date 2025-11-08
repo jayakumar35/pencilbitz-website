@@ -138,8 +138,8 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase">Mr.A.Aravinth  | Mahalaxmi L.N | Venusha.R.S | Tamilezhili K</li>
-                            <li>
+                            <li class="uppercase">Mr.A.Aravinth  <br> Mahalaxmi L.N <br> Venusha.R.S <br> Tamilezhili K</li>
+                            <li><br>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-75-2 | 2025 |</span></div>
                             </li>
                         </ul>

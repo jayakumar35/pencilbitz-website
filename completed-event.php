@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,12 +12,14 @@
         .box {
             transition: transform 0.3s, box-shadow 0.3s;
         }
+
         .box:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
+
 <body class="bg-gray-50 min-h-screen">
     <main class="max-w-8xl mx-auto px-4 py-8">
 
@@ -24,6 +27,121 @@
             <?php
             // Sample event data - this is the source of your images and info
             $events = [
+                // 29-10-2025
+                [
+                    'image' => 'assets/img/complete-event/29-oct-25.jpg',
+                    'title' => "Sri Krishna Degree College ",
+                    'date' => '2025-10-29',
+                    'location' => ' Bengaluru, Karnataka',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/28-oct-25.jpg',
+                    'title' => "Shree Venkateshwara Hi-Tech Engineering College ",
+                    'date' => '2025-10-28',
+                    'location' => 'Gobichettipalayam, Tamil Nadu',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/27-oct-25.jpg',
+                    'title' => "BGS First Grade College ",
+                    'date' => '2025-10-27',
+                    'location' => 'Mysore, Karnataka',
+                ],
+                 [
+                    'image' => 'assets/img/complete-event/26-oct-25-1.jpg',
+                    'title' => "Sanketika Vidya Parishad Engineering College",
+                    'date' => '2025-10-26',
+                    'location' => 'Visakhapatnam, Andhra Pradesh',
+                ],
+                 [
+                    'image' => 'assets/img/complete-event/26-oct-25-2.jpg',
+                    'title' => "Annapoorana Engineering College",
+                    'date' => '2025-10-26',
+                    'location' => 'Tamil nadu',
+                ],
+                 [
+                    'image' => 'assets/img/complete-event/26-oct-25.jpg',
+                    'title' => "Annapoorana Engineering College",
+                    'date' => '2025-10-26',
+                    'location' => 'Tamil nadu',
+                ],
+
+
+                [
+                    'image' => 'assets/img/complete-event/25-oct-25.jpg',
+                    'title' => "JKK Munirajah College of Technology",
+                    'date' => '2025-10-25',
+                    'location' => 'Tamil nadu',
+                ],
+                
+                [
+                    'image' => 'assets/img/complete-event/20-oct-25.jpg',
+                    'title' => "Kandula Lakshumma Memorial College of Engineering for Women",
+                    'date' => '2025-10-20',
+                    'location' => ' Krishnapuram, Andhra Pradesh',
+                ],
+                 
+
+                [
+                    'image' => 'assets/img/complete-event/17-oct-25.jpg',
+                    'title' => "East West College Of Managment",
+                    'date' => '2025-10-17',
+                    'location' => 'Bengaluru, Karnataka'
+                ],
+                [
+                    'image' => 'assets/img/complete-event/15-oct-25-2.jpg',
+                    'title' => "Siddartha Educational Academy Group of Institutions",
+                    'date' => '2025-10-15',
+                    'location' => 'Andhra Pradesh',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/14-oct-25-1.jpg',
+                    'title' => "Sanskar Educational Group",
+                    'date' => '2025-10-14',
+                    'location' => 'Parson, Uttar Pradesh',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/13-oct-25-1.jpg',
+                    'title' => "VSB College of Engineering & Technical Campus",
+                    'date' => '2025-10-13',
+                    'location' => 'Coimbatore',
+                ],
+
+                [
+                    'image' => 'assets/img/complete-event/11-oct-25.jpg',
+                    'title' => "Sri Harshini College of Engineering and Technology for women",
+                    'date' => '2025-10-11',
+                    'location' => ' Ongole, Andhra Pradesh',
+                ],
+
+                [
+                    'image' => 'assets/img/complete-event/08-oct-25.jpg',
+                    'title' => "Chadalawada Ramanamma Engineering College",
+                    'date' => '2025-10-08',
+                    'location' => ' Tirupati, Andhra Pradesh',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/06-oct-25.jpg',
+                    'title' => "SVS Institute of Pharmacy",
+                    'date' => '2025-10-06',
+                    'location' => ' Mungase, Maharashtra',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/06-oct-25-1.jpg',
+                    'title' => "Sri Parasakthi College For Women",
+                    'date' => '2025-10-06',
+                    'location' => ' Courtallam, Tamil Nadu',
+                ],
+                [
+                    'image' => 'assets/img/complete-event/04-oct-25.jpg',
+                    'title' => "Brahmdevdada Mane Polytechnic",
+                    'date' => '2025-10-04',
+                    'location' => ' Maharashtra',
+                ],
+
+
+
+
+                //  29-10-2025 finish
                 [
                     'image' => 'assets/img/complete-event/29-sep-25.jpg',
                     'title' => 'Izee Business School',
@@ -131,7 +249,7 @@
                     'image' => 'assets/img/complete-event/09-aug-25-1.png',
                     'title' => 'Chaitanya Bharathi Institute of Technology',
                     'date' => '2025-08-09',
-                    'location' => 'proddatur, Andhra Pradesh',  
+                    'location' => 'proddatur, Andhra Pradesh',
                 ],
                 [
                     'image' => 'assets/img/complete-event/06-aug-25.png',
@@ -168,7 +286,7 @@
                     'image' => 'assets/img/complete-event/29-july-25.png',
                     'title' => 'Sri Devaraj Urs Institute of Management',
                     'date' => '2025-07-29',
-                    'location' => 'Doduballapur, Karnataka',      
+                    'location' => 'Doduballapur, Karnataka',
                 ],
                 [
                     'image' => 'assets/img/complete-event/28-july-25.png',
@@ -200,18 +318,7 @@
                     'date' => '2025-07-25',
                     'location' => 'Coimbatore, Tamil Nadu',
                 ],
-                [
-                    'image' => 'assets/img/complete-event/21-july-25.png',
-                    'title' => 'Teerthanker Mahaveer University',
-                    'date' => '2025-07-21',
-                    'location' => 'Moradabad, Uttar Pradesh',
-                ],
-                [
-                    'image' => 'assets/img/complete-event/21-july-25.jpeg',
-                    'title' => 'TMU',
-                    'date' => '2025-07-21',
-                    'location' => 'Moradabad, Uttar Pradesh',
-                ],
+
                 [
                     'image' => 'assets/img/complete-event/17-july-25.png',
                     'title' => "Acharya Institute Of Graduate Studies",
@@ -252,14 +359,9 @@
                     'image' => 'assets/img/complete-event/15-july-25.jpeg',
                     'title' => 'Islamiah Women\'s Arts and Science College',
                     'date' => '2025-07-15',
-                    'location' => 'Vaniyambadi, Tamil Nadu',  
+                    'location' => 'Vaniyambadi, Tamil Nadu',
                 ],
-                [
-                    'image' => 'assets/img/complete-event/14-july-25.png',
-                    'title' => 'Haribhai V. Desai College of Arts and Commerce',
-                    'date' => '2025-07-14',
-                    'location' => 'pune, Maharashtra',
-                ],
+
                 [
                     'image' => 'assets/img/complete-event/12-july-25.jpg',
                     'title' => 'Sanketika Vidya Parishad Engineering College',
@@ -288,7 +390,7 @@
                     'image' => 'assets/img/complete-event/07-july-25.png',
                     'title' => 'Vidya pratishthan polytechnic College',
                     'date' => '2025-07-07',
-                    'location' => 'Indapur, Pune',  
+                    'location' => 'Indapur, Pune',
                 ],
                 [
                     'image' => 'assets/img/complete-event/05-july-25.jpg',
@@ -297,49 +399,49 @@
                     'location' => 'Hyderabad',
                 ],
                 //June 2025
-                 [
+                [
                     'image' => 'assets/img/complete-event/28-jun-25.png',
                     'title' => 'Vivekananda College Of Engineering For Woman ',
                     'date' => '2025-06-28',
                     'location' => 'Namakkal, Tamil Nadu',
                 ],
-                  [
+                [
                     'image' => 'assets/img/complete-event/28-jun-25.jpeg',
                     'title' => 'Brindavan College Of Engineering',
                     'date' => '2025-06-28',
                     'location' => 'Yelahanka, Bangaloru',
                 ],
-                  [
+                [
                     'image' => 'assets/img/complete-event/26-jun-25.png',
                     'title' => 'Bharathamatha College',
                     'date' => '2025-06-26',
                     'location' => 'Palakkadu, kerala',
                 ],
-                  [
+                [
                     'image' => 'assets/img/complete-event/26-jun-25.jpg',
                     'title' => 'Malla Reddy College Of Engineering',
                     'date' => '2025-06-26',
                     'location' => 'Secunderabad, Telangana',
                 ],
-                  [
+                [
                     'image' => 'assets/img/complete-event/26-jun-25-1.jpg',
                     'title' => 'Eswar College Of Engineering',
                     'date' => '2025-06-26',
                     'location' => 'Palandu, Andra Pradesh',
                 ],
-                  [
+                [
                     'image' => 'assets/img/complete-event/25-jun-25.jpg',
                     'title' => 'Institute Of Agri Business Management ',
                     'date' => '2025-06-25',
                     'location' => 'Bikaner, New Delhi',
                 ],
-                  [
+                [
                     'image' => 'assets/img/complete-event/23-jun-25.jpg',
                     'title' => 'PVKK Institute Of Technology',
                     'date' => '2025-06-23',
                     'location' => 'Anantapuramu, Andhra Pradesh,',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/21-jun-25.jpeg',
                     'title' => 'Hindusthan College Of Aris & Science',
                     'date' => '2025-06-23',
@@ -363,13 +465,13 @@
                     'date' => '2025-06-17',
                     'location' => 'Bikaner, Rajasthan',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/17-jun-25.png',
                     'title' => 'Aravali College Of Engineering & Management',
                     'date' => '2025-06-17',
                     'location' => 'Faridabad, Haryana',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/16-jun-25.jpg',
                     'title' => 'St. Thomas College Of Engineering & Technology',
                     'date' => '2025-06-16',
@@ -381,49 +483,49 @@
                     'date' => '2025-06-14',
                     'location' => 'ernakulam, kerala',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/14-jun-25.jpg',
                     'title' => 'AMC Engineering College',
                     'date' => '2025-06-14',
                     'location' => 'Bangaluru, karnataka',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/13-jun-25.jpg',
                     'title' => 'Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya',
                     'date' => '2025-06-17',
                     'location' => 'Kanchipuram',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/04-jun-25.png',
                     'title' => 'Malineni Lakshmaiah Women Engineering College',
                     'date' => '2025-06-04',
                     'location' => 'Prakasam, Andhra Pradesh',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/4-jun-25.png',
                     'title' => 'AVP College Of Arts And Science',
                     'date' => '2025-06-04',
                     'location' => 'T M Poondi Tirupur',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/03-jun-25.jpg',
                     'title' => 'Sri Krishna Adithya College Of Arts & Science',
                     'date' => '2025-06-03',
                     'location' => 'Coimbatore',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/03-jun-25.jpg',
                     'title' => 'Spurthy College Of Science Management Studies',
                     'date' => '2025-06-03',
                     'location' => 'Bangalore, Karnataka. ',
                 ],
-                   [
+                [
                     'image' => 'assets/img/complete-event/31-may-25.jpg',
                     'title' => 'Inderprastha Dental College And Hospital',
                     'date' => '2025-05-31',
                     'location' => 'Ghaziabad, Uttar Pradesh.',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/31-may-25.png',
                     'title' => 'R P Sarathy Institute Of Technology',
                     'date' => '2025-05-31',
@@ -463,7 +565,7 @@
                     'image' => 'assets/img/complete-event/20-may-25.jpeg',
                     'title' => 'Swami Keshwanand Rajasthan Agricultural University',
                     'date' => '2025-05-20',
-                    'location' => 'Beechhwal Rural, Rajasthan',  
+                    'location' => 'Beechhwal Rural, Rajasthan',
                 ],
                 [
                     'image' => 'assets/img/complete-event/09-may-25.jpg',
@@ -609,7 +711,7 @@
                     'date' => '2025-01-20',
                     'location' => 'Chennai , Tamil nadu ',
                 ],
-               [
+                [
                     'image' => 'assets/img/complete-event/09-jan-25.jpg',
                     'title' => "Ramachandra College of Engineering Eluru",
                     'date' => '2025-01-09',
@@ -639,7 +741,7 @@
                     'date' => '2024-12-17',
                     'location' => 'Andhra Pradesh',
                 ],
-                 [
+                [
                     'image' => 'assets/img/complete-event/16-dec-24.jpg',
                     'title' => "Vinayaka Mission's Kirupananda Variyar Engineering College",
                     'date' => '2024-12-16',
@@ -648,7 +750,7 @@
                 [
                     'image' => 'assets/img/complete-event/13-dec-24.jpg',
                     'title' => "BET Sadathunnisa Degree College",
-                    'date' => '2024-12-13', 
+                    'date' => '2024-12-13',
                     'location' => 'Bengaluru, Karnataka',
                 ],
                 [
@@ -692,7 +794,7 @@
                     'title' => "Pencil Bitz",
                     'date' => '2024-10-18',
                     'location' => 'Comibatore',
-                    
+
                 ],
                 [
                     'image' => 'assets/img/complete-event/05-oct-24.jpg',
@@ -760,7 +862,7 @@
                     'date' => '2024-07-08',
                     'location' => 'Coimbatore',
                 ],
-            
+
                 [
                     'image' => 'assets/img/complete-event/24-jun-24.jpg',
                     'title' => "Pencil Bitz",
@@ -782,17 +884,22 @@
 
 
 
-                              
-                
-                
 
-               
+
+
+
+
+
+
+
+
+
             ];
 
             // Generate event cards
             foreach ($events as $event) {
                 $formattedDate = date('F j, Y', strtotime($event['date']));
-                
+
                 echo "
                 <div class='box bg-white rounded-xl shadow-md overflow-hidden'>
                     <div class='relative overflow-hidden'>
@@ -809,10 +916,13 @@
                         </div>
                     </div>
                 </div>
+                
+
                 ";
             }
             ?>
         </div>
     </main>
 </body>
+
 </html>

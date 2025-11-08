@@ -142,8 +142,9 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-              <li class="uppercase">Mr.K.Vimal | Mrs.Lakshmi K | Mrs.M.Niranjani | Ms.Priya Pandey</li>
+              <li class="uppercase">Mr.K.Vimal <br> Mrs.Lakshmi K <br> Mrs.M.Niranjani <br> Ms.Priya Pandey</li>
               <li>
+                <br>
                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-992599-9-7| 2025 |</span></div>
               </li>
             </ul>

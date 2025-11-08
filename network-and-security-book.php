@@ -142,8 +142,8 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-                <li class="uppercase">RVS Praveen |  Sanjay arora |  Roshani phase</li>
-              <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-21-9| 2025 |</span></div></li>
+                <li class="uppercase">RVS Praveen <br>  Sanjay arora <br>  Roshani phase</li>
+              <li><br><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-21-9| 2025 |</span></div></li>
             </ul>
           </div>
         <!-- Book More Details -->

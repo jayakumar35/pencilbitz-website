@@ -127,8 +127,8 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-              <li>PROF.SUMAIYA FATHIMA | DR.SANTHI K | DR.SONIA RIYAT | MES.G.NITHYA</li>
-              <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-11-0| 2025 |</span></div></li>
+              <li>PROF.SUMAIYA FATHIMA <br> DR.SANTHI K <br> DR.SONIA RIYAT <br> MES.G.NITHYA</li>
+              <li><br><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-11-0| 2025 |</span></div></li>
             </ul>
           </div>
         <!-- Book More Details -->

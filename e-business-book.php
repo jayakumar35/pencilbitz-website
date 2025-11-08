@@ -138,8 +138,8 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase"> Dr. Prashantha Kumar O  | Mrs.Chaitra S  | Mr.Narendrakumar B  | Mrs.Chaithrakala R</li>
-                            <li>
+                            <li class="uppercase"> Dr. Prashantha Kumar O  <br> Mrs.Chaitra S  <br> Mr.Narendrakumar B  <br> Mrs.Chaithrakala R</li>
+                            <li><br>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-73-8  | 2025 |</span></div>
                             </li>
                         </ul>

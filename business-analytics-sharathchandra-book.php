@@ -138,8 +138,8 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase"> Mr. Sharathchandra Kamath K |  Mr. Subhash Kumar K |  Mrs.VK Durgadevi </li>
-                            <li>
+                            <li class="uppercase"> Mr. Sharathchandra Kamath K <br>  Mr. Subhash Kumar K <br>  Mrs.VK Durgadevi </li>
+                            <li><br>
                                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-48556-38-7| 2025 |</span></div>
                             </li>
                         </ul>

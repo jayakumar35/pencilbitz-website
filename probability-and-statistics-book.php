@@ -142,8 +142,9 @@
           <div class="mb-3">
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
-              <li class="uppercase">Mrs.SANGEETHA B | Dr.R MEGANATHAN,Mrs.MALATHI K | Dr.R SATHIYA SHANTHI" </li>
+              <li class="uppercase">Mrs.SANGEETHA B <br> Dr.R MEGANATHAN,Mrs.MALATHI K <br> Dr.R SATHIYA SHANTHI </li>
               <li>
+                <br>
                 <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-992230-2-8| 2025 |</span></div>
               </li>
             </ul>
