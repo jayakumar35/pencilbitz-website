@@ -61,7 +61,7 @@
                         <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
                     </li>
                     <li class="flex items-center">
-                        <a href="artifical-intelligence-in-modern-approach-book.php" class="hover:underline text-blue-600 flex items-center">
+                        <a href="/probability-and-queing-theory-book.php" class="hover:underline text-blue-600 flex items-center">
                             <i class="fas fa-building mr-1"></i>
                             Probability and Queuing theory  
                         </a>

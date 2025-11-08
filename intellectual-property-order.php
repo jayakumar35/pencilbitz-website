@@ -57,7 +57,7 @@
                     <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
                 </li>
                 <li class="flex items-center">
-                    <a href="/probability-and-queing-theory-book.php" class="hover:underline text-blue-600 flex items-center">
+                    <a href="/intellectual-property-book.php" class="hover:underline text-blue-600 flex items-center">
                         <i class="fas fa-microscope mr-1"></i>
                         <i class="fas fa-heartbeat mr-1"></i>
                         Intellectual Property Rights

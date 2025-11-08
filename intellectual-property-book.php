@@ -61,7 +61,7 @@
                         <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
                     </li>
                     <li class="flex items-center">
-                        <a href="artifical-intelligence-in-modern-approach-book.php" class="hover:underline text-blue-600 flex items-center">
+                        <a href="/intellectual-property-book.php" class="hover:underline text-blue-600 flex items-center">
                             <i class="fas fa-building mr-1"></i>
                             Intellectual Property Rights
                         </a>
