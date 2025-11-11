@@ -108,12 +108,151 @@
                             // Array of books
 
                             $books = [
+
+
+                                // A Manual For Basics of Food Microbiology Practical
+                                [
+                                    'img' => 'assets/img/new/a-manual-for basic-of-food-microbiolagy-10-11.png',
+                                    'alt' => ' A Manual For Basics of Food Microbiology Practical',
+                                    'title' => 'A Manual For Basics of Food Microbiology Practical',
+                                    'authors' => 'M.C. Anitha | R. Kalamani | C.Ajitha',
+                                    'link' => '/manual-for-basics-of-food-microbiology-practical-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                 
+
+                                //Bionanotechnology
+                                [
+                                    'img' => 'assets/img/new/bio-nannotechnology-10-11.png',
+                                    'alt' => ' Bionanotechnology',
+                                    'title' => 'Bionanotechnology',
+                                    'authors' => '"Dr C.Nirmala | Dr.M.Sridevi | Dr.A.Nirmala | Ms.S.Abinaya',
+                                    'link' => '/bionanotechnology-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],                                                                                  
+                                
+                                 
+
+                                //Mastering Communication and Soft Skills: A Holistic Guide to Personal and Professional Excellence
+                                [
+                                    'img' => 'assets/img/new/mastering-communication-and-skills-10-11.png',
+                                    'alt' => 'Mastering Communication and Soft Skills: A Holistic Guide to Personal and Professional Excellence',
+                                    'title' => 'Mastering Communication and Soft Skills: A Holistic Guide to Personal and Professional Excellence',
+                                    'authors' => 'Mrs.Adisha Manna',
+                                    'link' => '/mastering-communication-and-skills-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //Business Analytics
+                                [
+                                    'img' => 'assets/img/new/business-analytics-10-11.png',
+                                    'alt' => 'Business Analytics',
+                                    'title' => 'Business Analytics',
+                                    'authors' => 'Dr. Benita.S.Monica | Dr. Sohel Memon | Mrs. P. Rajitha | Mrs. Sagara M R',
+                                    'link' => '/business-analytics-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //ENVIRONMENTAL CHEMISTRY
+                                [
+                                    'img' => 'assets/img/new/environmental-chemistry-10-11.png',
+                                    'alt' => ' ENVIRONMENTAL CHEMISTRY',
+                                    'title' => 'ENVIRONMENTAL CHEMISTRY',
+                                    'authors' => 'Dr. Preeti Nand Kumar |  Dr. Pratibha S.Kurup',
+                                    'link' => '/environmental-chemistry-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //Internet of Things
+                                [
+                                    'img' => 'assets/img/new/internet-of-things-10-11.png',
+                                    'alt' => ' Internet of Things',
+                                    'title' => 'Internet of Things',
+                                    'authors' => 'Dr.B. Dhanasekaran | Dr.G. Srinivasan | Dr.R. Gunasekaran | Dr.Ramakrishna Reddy K',
+                                    'link' => '/internet-of-things-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //International Trade
+                                [
+                                    'img' => 'assets/img/new/international-trade-10-11.png',
+                                    'alt' => ' International Trade',
+                                    'title' => 'International Trade',
+                                    'authors' => 'Dr.K.DEVIKA | Dr.NIJINA JOSE | Ms.V.M.SAJITHA | Ms.P.REKHA',
+                                    'link' => ' international-tragde-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                                //Discrete Structure
+                                [
+                                    'img' => 'assets/img/new/descrete-structure-10-11.png',
+                                    'alt' => ' Discrete Structure',
+                                    'title' => 'Discrete Structure',
+                                    'authors' => 'Dr. Roopa R Anagod | Dr.M.Sneha Latha',
+                                    'link' => 'descrete-structure-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //Natural Language Processing Principles and Applications
+                                [
+                                    'img' => 'assets/img/new/natural-languvage-rocessinng-10-11.png',
+                                    'alt' => ' Natural Language Processing Principles and Applications',
+                                    'title' => 'Natural Language Processing Principles and Applications',
+                                    'authors' => 'Mrs. D Beulah pretty  | Mrs. Snigdha Smita Choubey | Dr.G.Chandrasekaran | Mrs. V.Maheswari Kumar',
+                                    'link' => '/natural-languvage-processinng-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //Quantum Computing
+                                [
+                                    'img' => 'assets/img/new/quantum-computing-10-11.png',
+                                    'alt' => ' Quantum Computing',
+                                    'title' => 'Quantum Computing',
+                                    'authors' => 'Dr.R. Krishnamoorthy | Dr.L.Godlin Atlas | Mrs.K.Sathiyapriya | Mrs.B. Benilin Leebha',
+                                    'link' => '/quantum-computing-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //Financial Markets
+                                [
+                                    'img' => 'assets/img/new/financial-markets-10-11.png',
+                                    'alt' => ' Financial Markets',
+                                    'title' => 'Financial Markets',
+                                    'authors' => 'Dr.Lavanya M.R | Dr. S.Jenifer Janani  | Dr.J.Franklin Jebaraj',
+                                    'link' => '/financial-markets-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                                // Principles of Management
+                                [
+                                    'img' => 'assets/img/new/principle-of-things-10-11.png',
+                                    'alt' => ' Principles of Management',
+                                    'title' => 'Principles of Management',
+                                    'authors' => 'Dr. Abdul Faraz | Ms. Arpita Sastri | Ms. Manisha G | Mr. Mir Faizan Hussain',
+                                    'link' => '/principle-of-things-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                // Fundamentals of Antenna Theory and Design
+                                [
+                                    'img' => 'assets/img/new/fundemental-of-antena-theory-and-design-10-11.png',
+                                    'alt' => ' Fundamentals of Antenna Theory and Design',
+                                    'title' => 'Fundamentals of Antenna Theory and Design',
+                                    'authors' => 'Dr. S. Parameswari | Dr. C. Chitra | Dr. S. Leones Sherwin Vimalraj |  Dr. J. Lydia',
+                                    'link' => 'fundemental-of-antena-theory-and-design-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                            // 10 nov 2025 (13) books update
+
                                 // probability-and-queing-theory
                                 [
                                     'img' => 'assets/img/new/probability-and-queing-theory.png',
                                     'alt' => ' Probability and Queuing theory',
                                     'title' => 'Probability and Queuing theory',
-                                    'authors' => '"Dr. M.Ramesh | Dr.K.Ramesh babu | Dr.G.Jaya Lalitha | Dr.Sivaiah Sreeramula',
+                                    'authors' => 'Dr. M.Ramesh | Dr.K.Ramesh babu | Dr.G.Jaya Lalitha | Dr.Sivaiah Sreeramula',
                                     'link' => 'probability-and-queing-theory-book.php',
                                     'btn' => 'Read More'
                                 ],

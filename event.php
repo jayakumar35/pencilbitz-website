@@ -234,6 +234,19 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
+                                    <a href="pet-engineering-college-08-12-25-event.php">
+                                        <img src="assets/img/upcomeing-event/pet-engineering-college-08-12-25.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
                                     <a href="/malla-reddy-Institute-Of-technology-12-12-25-event.php">
                                         <img src="assets/img/upcomeing-event/malla-reddy-Institute-Of-technology-12-12-25.jpg" alt="Event 5">
                                     </a>
