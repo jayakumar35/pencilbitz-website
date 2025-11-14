@@ -939,12 +939,11 @@
 
             <!-- End Emailjs Code -->
 
-            <!-- <a href="book-payment-parveshmuzaraf.php">book-payment-1</a> -->
-            <!-- <a href="book-payment-citrameni.php"> book-payment-2</a> -->
-            <!-- <a href="book-payment-pon-sridharan-kumar.php">book payment-3</a> -->
-            <!-- <a href="book-payment-tamilarasi.php">book payment-4</a> -->
-            <!-- <a href="new-book-payment-liks-1.php"> new book liks 1 </a> -->
-            <!-- <a href="new-book-payment-liks-2.php">new book liks 2</a>  -->
+            <!-- <a href="book-payment-parveshmuzaraf.php">book-payment-Parveshmuzaraf</a>
+            <a href="book-payment-citrameni.php"> book-payment-Citrameni</a>
+            <a href="book-payment-pon-sridharan-kumar.php">book payment-Pon Sridharan Kumar</a>
+            <a href="book-payment-tamilarasi.php">book payment-Tamilarasi</a>
+            <a href="book-payment-Kanthasami.php">Book-payment-Kanthasami</a> -->
 
 
 

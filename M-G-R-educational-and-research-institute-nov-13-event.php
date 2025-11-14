@@ -50,41 +50,11 @@
                 <!-- Event Image -->
                 <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
                     <div class="d-flex justify-content-center align-items-center h-100">
-                        <img src="assets/img/upcomeing-event/M.G.R-nov-13.jpg" alt="Event Image" class="img-fluid rounded-4 shadow-lg border border-0 rounded-2" style="max-height: 600px; object-fit: cover;">
+                        <img src="assets/img/upcomeing-event/dr-mgr.-educational-and-research-institute-13-11.jpeg" alt="Event Image" class="img-fluid rounded-4 shadow-lg border border-0 rounded-2" style="max-height: 600px; object-fit: cover;">
                     </div>
                 </div>
                 <!-- Event Details -->
                 <div class="col-lg-6 col-md-12">
-                    <div class="">
-                        <div class="">
-                            <ul>
-                                <li>1-Textbook Publications
-                                    [National & International with
-                                    Amazon, Flipkart Support ]
-                                </li>
-                                <li>2-National & International Patent
-                                    grant support( 12 Countries)</li>
-                                <li>Trademarks, Copyrights
-                                </li>
-                                <li>IEEE Conference Publications
-                                </li>
-                                <li>Scopus indexed Edited books
-                                </li>
-                                <li>Ph.D. Assistance
-                                </li>
-                                <li>Research Paper Writing Support
-                                </li>
-                                <li>SCI & Scopus Journal
-                                    Publication Support
-                                </li>
-                                <li>Organizing Educational
-                                    Events(Conferences,FDP,
-                                    Workshops,Seminars)
-                                </li>
-                                <li>Up Skilling Programs</li>
-                            </ul>
-                        </div>
-                    </div>
                     <div class="event-content px-2">
                         <div class="mb-2">
                             <h3 class="fw-medium fs-3 text-gray-500 ">College</h3>

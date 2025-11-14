@@ -51,10 +51,10 @@
         <div>
             <h4 class="text-green-300 font-semibold mb-4">Newsletter</h4>
             <div class="flex space-x-3 mb-4">
-                <a href="javascript:;" class="w-8 h-8 rounded-full flex justify-center items-center bg-blue-500 hover:bg-blue-400 transition-all"><i class="fab fa-facebook-f text-white"></i></a>
-                <a href="javascript:;" class="w-8 h-8 rounded-full flex justify-center items-center bg-pink-500 hover:bg-pink-400 transition-all"><i class="fab fa-instagram text-white"></i></a>
+                <a href="https://www.facebook.com/profile.php?id=61553596208895;" class="w-8 h-8 rounded-full flex justify-center items-center bg-blue-500 hover:bg-blue-400 transition-all"><i class="fab fa-facebook-f text-white"></i></a>
+                <a href="https://www.instagram.com/pencilbitz/;" class="w-8 h-8 rounded-full flex justify-center items-center bg-pink-500 hover:bg-pink-400 transition-all"><i class="fab fa-instagram text-white"></i></a>
                 <a href="javascript:;" class="w-8 h-8 rounded-full flex justify-center items-center bg-blue-700 hover:bg-blue-600 transition-all"><i class="fab fa-linkedin-in text-white"></i></a>
-                <a href="javascript:;" class="w-8 h-8 rounded-full flex justify-center items-center bg-red-600 hover:bg-red-500 transition-all"><i class="fab fa-youtube text-white"></i></a>
+                <a href="https://www.youtube.com/@PencilBitz;" class="w-8 h-8 rounded-full flex justify-center items-center bg-red-600 hover:bg-red-500 transition-all"><i class="fab fa-youtube text-white"></i></a>
             </div>
             <p class="text-gray-200"><strong>Address:</strong> 92 A, Sanganoor Rd, Ganapathy, Coimbatore, Tamil Nadu 641006</p>
             <p class="text-gray-200"><strong>Contact:</strong> +91 99443 07413 | <strong>Email:</strong> pencilbitz@gmail.com</p>

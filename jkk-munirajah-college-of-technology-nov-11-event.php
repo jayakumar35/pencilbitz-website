@@ -68,11 +68,11 @@
                         <h3 class="fw-medium fs-3 text-gray-500 ">Details</h3>
 
                         <ul class="list-unstyled mb-4 ps-3 ">
-                            <li class="mb-2"><i class="fas fa-calendar-alt text-primary me-2"></i> <strong>Date:</strong> 11 October     2025</li>
+                            <li class="mb-2"><i class="fas fa-calendar-alt text-primary me-2"></i> <strong>Date:</strong> 11 November 2025</li>
                             <li class="mb-2"><i class="fas fa-clock text-primary me-2"></i> <strong>Time:</strong> 7:00 PM To 9:00PM </li>
 
                             <li class="mb-2"><i class="fas fa-map-marker-alt text-primary me-2"></i> <strong>Location:</strong>Talamalai R.F., Tamil Nadu</li>
-                            <li class="mb-2"><i class="fas fa-user-tie text-primary me-2"></i> <strong>Speaker:</strong> +91 77088 28673</li>
+                            <li class="mb-2"><i class="fas fa-user-tie text-primary me-2"></i> <strong>Speaker:</strong> +91 9600581734</li>
                         </ul>
                         <a href="https://forms.gle/TKovPWhVxoawpoeB9" class="bg-gray-200 hover:bg-green-300 hover:text-gray-800 rounded-2 text-gray-800 shadow-lg fw-bold px-4 py-2">
                             Register Now <i class="fas fa-arrow-right ms-2"></i>

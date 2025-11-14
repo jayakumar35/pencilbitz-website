@@ -152,7 +152,12 @@
                             <?php if (basename($_SERVER['PHP_SELF']) == 'gallery.php') echo 'text-green-600 bg-green-100'; ?>"><i class="fas fa-image mr-2 text-sm"></i>Gallery
                         </a>
                     </li>
-                                        <li>
+                    <li>
+                        <a href="reviews.php" class="transition-colors duration-200 px-3 py-2 rounded-lg hover:text-green-600 hover:bg-green-50 flex items-center
+                            <?php if (basename($_SERVER['PHP_SELF']) == 'reviewer.php') echo 'text-green-600 bg-green-100'; ?>"><i class="fas fa-user-check mr-2 text-sm"></i>Reviews
+                        </a>
+                    </li>
+                    <li>
                         <a href="contact.php" class="transition-colors duration-200 px-3 py-2 rounded-lg hover:text-green-600 hover:bg-green-50 flex items-center
                             <?php if (basename($_SERVER['PHP_SELF']) == 'contact.php') echo 'text-green-600 bg-green-100'; ?>"><i class="fas fa-envelope mr-2 text-sm"></i>Contact
                         </a>
@@ -237,6 +242,12 @@
                             <?php if (basename($_SERVER['PHP_SELF']) == 'achievement.php') echo 'text-green-600 bg-green-100'; ?>"><i class="fas fa-image mr-3 text-sm w-5"></i>Gallery
                         </a>
                     </li>
+                                        <li>
+                        <a href="reviews.php" class="transition-colors duration-200 px-4 py-2 rounded-lg hover:text-green-600 hover:bg-green-50 flex items-center
+                            <?php if (basename($_SERVER['PHP_SELF']) == 'reviewer.php') echo 'text-green-600 bg-green-100'; ?>"><i class="fas fa-user-check mr-2 text-sm"></i>Reviews
+                        </a>
+                    </li>
+
                                         <li>
                         <a href="contact.php" class="block px-4 py-3 rounded-lg hover:bg-green-50 hover:text-green-600 flex items-center
                             <?php if (basename($_SERVER['PHP_SELF']) == 'gallery.php') echo 'text-green-600 bg-green-100'; ?>"><i class="fas fa-envelope mr-3 text-sm w-5"></i>Contact

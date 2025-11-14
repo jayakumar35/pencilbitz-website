@@ -208,7 +208,9 @@
                 <div class="slider-track" id="sliderTrack">
                     <?php
                     $testimonials = [
-                             // Testimonilals
+                         // Testimonilals
+                        
+                        // Testimonilals
                         [
                             "image" => "priya.jpg",
                             "titel" => "Postcolonial Narratives in the World Literature",
@@ -220,7 +222,7 @@
                             "review" => " It is a great pleasure to extend our gratitude for acknowledging our venture as Book authors. Everything is beautifully done. Thank you.With regards",
                             "rating" => 5,
                         ],
-                           // Testimonilals
+                        // Testimonilals
                         [
                             "image" => "Ghule-somnath-tukaram.jpg",
                             "titel" => "Problem Solving with Python Programming",
@@ -232,7 +234,7 @@
                             "review" => "I am Somnath Ghule from KSKW College, Nashik, Maharashtra.I am pleased to share my feedback on the book “Problem Solving with Python Programming.” The content is excellent, covering all the basic concepts of Python in a clear and comprehensive manner. It serves as valuable guidance for students and learners interested in advancing their Python knowledge.The front and back covers are attractive, and the book provides practical insights and in-depth understanding of Python programming. My best wishes to all the staff members of Pencil Bits Publication for their commendable work and dedication.",
                             "rating" => 5,
                         ],
-                           // Testimonilals -1
+                        // Testimonilals -1
                         [
                             "image" => "roshani-sachin-phuse.jpg",
                             "titel" => " Network Security",
@@ -244,7 +246,7 @@
                             "review" => "I would like to express my gratitude for the opportunity to work with your team on the publication of my book. The process was a valuable learning experience, and I truly appreciate the editorial insights, cover design, and production quality provided.",
                             "rating" => 5,
                         ],
-                         // Testimonilals -1
+                        // Testimonilals -1
                         [
                             "image" => "R.Suvetha.png",
                             "titel" => "Principles of Management",
@@ -266,6 +268,17 @@
                             "college" => "Sri Bharathi Arts and Science College for Women",
                             "location" => "Kaikurichi, Pudukkottai",
                             "review" => "The printing quality and cover design are very good, and I’m happy with the overall publishing experience with Pencil Bitz. However, I noticed that the book contains very few problems and more theoretical content. It would be better if more practical and numerical problems could be included in future editions. Overall, I appreciate the team’s effort and support.",
+                            "rating" => 5,
+                        ],
+                        [
+                            "image" => "Sowjanya-upadhyayula.jpg",
+                            "titel" => "Mastering Deep Learning Architecture",
+                            "author" => "L Sowjanya Upadhyayula  ",
+                            "designation" => "Research Scholar",
+                            "department" => "Computer Science",
+                            "college" => "S.V UNIVERSITY COLLEGE OF CM&CS",
+                            "location" => "Tirupati, Andhra Pradesh",
+                            "review" => " It's very good and clear explanation of each and every topic..and Design and printing format also very good. Thank you for your support and reference in future also.book",
                             "rating" => 5,
                         ],
                          // Testimonilals -3

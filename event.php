@@ -57,10 +57,10 @@
                         <!-- Call Button -->
                         <a href="tel:+919361313822"
                             class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition flex items-center w-max">
-                            <i class="fas fa-phone mr-2 text-lg"></i>+91 93613 13822
+                            <i class="fas fa-phone mr-2 text-lg"></i>+91 9600581734
                         </a>
                         <!-- WhatsApp Button -->
-                        <a href="https://wa.me/+919361313822" target="_blank" rel="noopener" class="px-3 py-1 bg-green-500 text-white rounded hover:bg-green-600 transition flex items-center">
+                        <a href="https://wa.me/+919600581734" target="_blank" rel="noopener" class="px-3 py-1 bg-green-500 text-white rounded hover:bg-green-600 transition flex items-center">
                             <i class="fab fa-whatsapp mr-1 text-xl"></i> WhatsApp
                         </a>
                     </div>
@@ -80,18 +80,211 @@
                 <div class="services-carousel swiper">
                     <!-- Additional required wrapper -->
                     <div class="swiper-wrapper">
+                           <!--shailabala  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="siddhivinayak-technical-campus-nov-11-event.php">
-                                        <img src="assets/img/upcomeing-event/siddhivinayak -technical-campus-nov-11-new.jpg" alt="Sri Krishna Event 2">
+                                    <a href="/sanskar-education-groups-14-dec-event.php">
+                                        <img src="assets/img/upcomeing-event/sanskar-education-groups-14-dec.jpeg" alt="Sri Krishna Event 2">
                                     </a>
                                 </div>
                             </div>
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                         <!--Siddhivinayak -->
+                         <!--shailabala  -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/shailabala-women's-autonomous-college-06-dec-event.php">
+                                        <img src="assets/img/upcomeing-event/shailabala-women's-autonomous-college-06-dec.jpeg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                          <!--Matoshri   -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="matoshri-pratishthan-group-of-institutions-23-nov-event.php">
+                                        <img src="assets/img/upcomeing-event/matoshri-pratishthan-group-of-institutions-23-nov.jpeg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                         <!--Padmashri   -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="padmashri-dr-v-b.-kolte-college-of-engineering-30-11-event.php">
+                                        <img src="assets/img/upcomeing-event/padmashri-dr-v-b.-kolte-college-of-engineering-30-11.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!--Mudurai Kamaraj   -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="Madurai-Kamaraj-University-dec-17-event.php">
+                                        <img src="assets/img/upcomeing-event/Madurai-Kamaraj-University-dec-17.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!--Malla reddy   -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="malla-reddy-Institute-Of-technology-dec-12-event.php">
+                                        <img src="assets/img/upcomeing-event/malla-reddy-Institute-Of-technology-dec-12.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                         <!--J P college   -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="j-p-college-of-engineering-nov-28-event.php">
+                                        <img src="assets/img/upcomeing-event/j-p-college-of-engineering-nov-28.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                         <!--chadalawada   -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="chadalawada-Ramanamma-Engineering-College-dec-01-event.php">
+                                        <img src="assets/img/upcomeing-event/chadalawada-Ramanamma-Engineering-College-dec-01.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                           <!--APS college  -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="aps-college-of-commerce-nov-13-event.php">
+                                        <img src="assets/img/upcomeing-event/aps-college-of-commerce-nov-13.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!--Thiruvalluvar College -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="Thiruvalluvar-College-Dec-05-event.php">
+                                        <img src="assets/img/upcomeing-event/Thiruvalluvar-College-05-Dec.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!--Nehru Institute nov-18 -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="Nehru-institute-of-technology-nov-18-event.php">
+                                        <img src="assets/img/upcomeing-event/Nehru-institute-of-technology-nov-18-new.jpeg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                       <!--B E T Sadathunnisa Dec-04  -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="B-E-T-sadathunnisa-college-dec-04-event.php">
+                                        <img src="assets/img/upcomeing-event/B-E-T-sadathunnisa-college-dec-04-new.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!--Syed Amal Arts dec-03  -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="syed-ammal-arts-and-science-college-nov-24-event.php">
+                                        <img src="assets/img/upcomeing-event/syed-ammal-arts-and-science-college-nov-24.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!--Syed Amal Arts dec-03  -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="syed-ammal-arts-and-science-college-dec-08-event.php">
+                                        <img src="assets/img/upcomeing-event/syed-ammal-arts-and-science-college-dec-08.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!--Syed Amal Arts dec-03  -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="syed-ammal-arts-and-science-college-dec-03-event.php">
+                                        <img src="assets/img/upcomeing-event/syed-ammal-arts-and-science-college-dec-03.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!-- Siddhivinayak -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="siddhivinayak-technical-campus-nov-11-event.php">
+                                        <img src="assets/img/upcomeing-event/siddhivinayak -technical-campus-nov-11-new-1.jpg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!-- mudhurai  -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="Madurai-kamaraj-university-nov-27-event.php">
+                                        <img src="assets/img/upcomeing-event/Madurai-kamaraj-university-nov-27.jpg" alt="Madurai">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                        <!--Siddhivinayak -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -103,7 +296,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                          <!--Siddhivinayak -->
+                        <!--Siddhivinayak -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
@@ -119,8 +312,8 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/bgs-first-grade-college-nov-18.jpg" alt="Sri Krishna Event 2">
+                                    <a href="bgs-first-grade-college-nov-18-event.php">
+                                        <img src="assets/img/upcomeing-event/bgs-first-grade-college-nov-18-new.jpg" alt="Sri Krishna Event 2">
                                     </a>
                                 </div>
                             </div>
@@ -139,54 +332,8 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                        <!-- saiva bhanu sep-15 -->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/c-abdul-hakeem-college-nov-5-event-new.jpg" alt="Sri Krishna Event 2">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-                        <!-- saiva bhanu sep-15 -->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/annapoorana.jpg" alt="Sri Krishna Event 2">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-                        <!--m.s.bidve sep -18 -->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="">
-                                        <img src="assets/img/upcomeing-event/sanketika.jpg" alt="Event 4">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-                        <!-- Ratnam  -->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/ratnam.jpg" alt="Event 5">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
+                      
+                       
                         <!-- A K T  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
@@ -211,54 +358,8 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                        <!--Sri Kanyaka -->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/sri-kanyaka-.jpg" alt="Event 5">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-                        <!--Sri Krishna  -->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/sri-krishns-degree-new.jpg" alt="Event 5">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-                        <!--saintmary's College -->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/saintmary's-college.jpg" alt="Event 5">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-                        <!--koshys -->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/koshys-nov-7.jpg" alt="Event 5">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
+                       
+                      
                         <!--Akkineni Nageswara Rao College -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
@@ -288,8 +389,8 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/M.G.R-nov-13.jpg" alt="Event 5">
+                                    <a href="M-G-R-educational-and-research-institute-nov-13-event.php">
+                                        <img src="assets/img/upcomeing-event/dr-mgr.-educational-and-research-institute-13-11.jpeg" alt="Event 5">
                                     </a>
                                 </div>
                             </div>
@@ -297,17 +398,6 @@
                             </div>
                         </div>
                         <!-----vignesh ----->
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="">
-                                        <img src="assets/img/upcomeing-event/erode-sengunthar-02-nov-event.jpg" alt="Event 5">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
 
                         <div class="swiper-slide">
                             <div class="services-style-three">
@@ -320,31 +410,8 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/shree-venkateshwara-28-oct-event.jpg" alt="Event 5">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/BSVP-first-06-nov-event.jpg" alt="Event 5">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
+              
+                            <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
                                     <a href="#">
@@ -355,18 +422,7 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
-                        <div class="swiper-slide">
-                            <div class="services-style-three">
-                                <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/kandula-lakshumma-memorial-nov-1-new.jpg" alt="Event 5">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="text-center mt-2">
-                            </div>
-                        </div>
-
+                       
                         <!--Akkineni Nageswara Rao College -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
@@ -438,11 +494,13 @@
                             <div class="text-center mt-2">
                             </div>
                         </div>
+                   
+                         <!-- PET   -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="#">
-                                        <img src="assets/img/upcomeing-event/Government-Arts-and-Science-Colllege-28-10.jpg" alt="Event 5">
+                                    <a href="pet-engineering-college-dec-08-event.php">
+                                        <img src="assets/img/upcomeing-event/pet-engineering-college-dec-08.jpg" alt="Event 5">
                                     </a>
                                 </div>
                             </div>
@@ -453,7 +511,7 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="#">
+                                    <a href="mea-engineering-college-5days-event-certificate.php">
                                         <img src="assets/img/upcomeing-event/mea-engineering-5days-nov.jpg" alt="Event 5">
                                     </a>
                                 </div>

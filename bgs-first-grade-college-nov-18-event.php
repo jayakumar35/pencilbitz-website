@@ -50,7 +50,7 @@
             <!-- Event Image -->
             <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
                 <div class="d-flex justify-content-center align-items-center h-100">
-                <img src="assets/img/upcomeing-event/bgs-first-grade-college-nov-18.jpg" alt="Event Image" class="img-fluid rounded-4 shadow-lg border border-0 rounded-2" style="max-height: 600px; object-fit: cover;">
+                <img src="assets/img/upcomeing-event/bgs-first-grade-college-nov-18-new.jpg" alt="Event Image" class="img-fluid rounded-4 shadow-lg border border-0 rounded-2" style="max-height: 600px; object-fit: cover;">
                 </div>
 
             </div>

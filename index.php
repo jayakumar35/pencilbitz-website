@@ -202,7 +202,7 @@
                                         <div class="swiper-slide p-3">
                                             <div class="info text-center">
                                                 <a href="digital-marketing-book.php"><img class="w-auto h-auto" src="assets/img/new/digital-marketing.png" alt=""></a>
-                                                <div class="mt-2 text-lg font-semibold text-gray-800"><a href="digital-marketing-book.php">Digital Marketing</a></div>
+                                                <div class="mt-2 text-lg font-semibold text-gray-800up"><a href="digital-marketing-book.php">Digital Marketing</a></div>
                                                 <div class="text-lg font-medium text-gray-700">Price: &#8377; 1013/-</div>
                                                 <div class="custom-icons mt-2">
                                                     <a href="https://wa.me/919944307413?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20this%20book." target="_blank"><i class="fab fa-whatsapp"></i></a>

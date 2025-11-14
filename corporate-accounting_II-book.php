@@ -9,7 +9,7 @@
   <meta name="description" content="Pencil Bitz">
 
   <!-- ========== Page Title ========== -->
-  <title>Book Page</title>
+  <title>Corporate-Accounting_II | Pencil Bitz Book</title>
 
   <!-- ========== Favicon Icon ========== -->
   <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -143,7 +143,7 @@
             <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
             <ul class="list-disc list-inside text-gray-700">
                 <li class="uppercase">	Dr.K.Gokila | Ms.C.K.Nishana | Ms.M.Shalini | Ms.T.Divya Bharathi | Ms.M.S.Selva Preethi</li>
-              <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-89911-81-7| 2025 |</span></div></li>
+              <li><div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-89911-81-7| 2025 </span></div></li>
             </ul>
           </div>
         <!-- Book More Details -->
@@ -159,7 +159,7 @@
         </div>
         <div class="mt-6 pt-4 border border-gray-200 rounded-t-lg ps-3 shadow-md">
                     <h2 class="text-2xl font-semibold text-indigo-700 mb-3 border-b pb-2">📘 Summary</h2>
-                    <p class="text-gray-700 leading-relaxed p-2">
+                    <p class="text-gray-700 leading-relaxed p-2 text-justify">
                     <span class="font-medium text-gray-800">Corporate Accounting II focuses on advanced accounting concepts for companies. It covers topics like amalgamation, absorption, reconstruction, and liquidation of companies. The course also deals with accounting for shares, debentures, and financial statement analysis.
                     </p>
                 </div>
