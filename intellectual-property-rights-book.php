@@ -170,12 +170,12 @@
 
                             <!-- Get Certificate -->
                             <!-- Trigger Button -->
-                            <!-- <div class="flex justify-center">
+                            <div class="flex justify-center">
                                 <button id="openPopupBtn"
                                     class="px-4 py-1 bg-sky-500 text-white text-lg rounded-lg shadow hover:bg-sky-600 transition">
                                     Get Certificate
                                 </button>
-                            </div> -->
+                            </div>
 
                             <!-- Popup Modal -->
                             <div id="certificatePopup"
@@ -256,9 +256,9 @@
 
                                     // Author database (phone => section ID)
                                     const authors = {
-                                        "8940310031": "author1",
-                                        "#": "author2",
-                                        "#": "author3",
+                                        "9944742429": "author1",
+                                        "9994864949": "author2",
+                                        "8940310031": "author3",
                                     };
 
                                     verifyBtn.addEventListener("click", () => {

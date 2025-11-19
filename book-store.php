@@ -84,7 +84,7 @@
                     <!-- Call Button -->
                     <a href="tel:+917200741307"
                         class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition flex items-center w-max">
-                        <i class="fas fa-phone mr-2 text-lg"></i>+91 7200741307
+                        <i class="fas fa-phone-alt mr-2 text-lg"></i>+91 7200741307
                     </a>
                     <!-- WhatsApp Button -->
                     <a href="https://wa.me/+917200741307" target="_blank" rel="noopener"
@@ -106,231 +106,369 @@
                         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 mt-10">
                             <?php
                             // Array of books
+                            
+                            
+                            
                             $books = [
+
+                                  // Fundamentals of Cyber Security
+                                [
+                                    'img' => 'assets/img/new/Fundamentals-of-Cyber-Security.png',
+                                    'alt' => 'Fundamentals of Cyber Security',
+                                    'title' => 'Fundamentals of Cyber Security',
+                                    'authors' => 'Mrs.A.Subha Priyadharshini | Dr. Sam Abraham | Mr.P.John William | Mr.Anik Acharjee',
+                                    'link' => 'Fundamentals-of-Cyber-Security-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                                  // Software Engineering @Nutshell
+                                [
+                                    'img' => 'assets/img/new/Software-Engineering-@Nutshell.png',
+                                    'alt' => 'Software Engineering @Nutshell',
+                                    'title' => 'Software Engineering @Nutshell',
+                                    'authors' => 'Mrs. Sneh A. Nagaonkar | Dr Sudhakar D Bhoite',
+                                    'link' => 'Software-Engineering-@Nutshell-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                 //  Mastering Python Through Problem Solving
+                                [
+                                    'img' => 'assets/img/new/Mastering-Python-Through-Problem-Solving.png',
+                                    'alt' => 'Mastering Python Through Problem Solving',
+                                    'title' => 'Mastering Python Through Problem Solving',
+                                    'authors' => 'Dr. Varun Tiwari | Mr.Perumala Maheshraj | Mr.RajendraPrasad M | Mr.D.Rajani Kumar',
+                                    'link' => 'Mastering-Python-Through-Problem-Solving-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //   Financial Accounting
+                                [
+                                    'img' => 'assets/img/new/Financial-Accounting.png',
+                                    'alt' => 'Financial Accounting',
+                                    'title' => 'Financial Accounting',
+                                    'authors' => 'Mrs. R. Kiruthika  | P. Gandhimathi | Dr.Priyadarshini. M | Mr.Sameer Ulla',
+                                    'link' => 'Financial-Accounting-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //   Corporate Accounting
+                                [
+                                    'img' => 'assets/img/new/Corporate-Accounting-veena.png',
+                                    'alt' => 'Corporate Accounting',
+                                    'title' => 'Corporate Accounting',
+                                    'authors' => 'Dr. Veena T S | Mrs. Shaheena Begum | Mr. Durgesh Motilal Bhavsar | Mr. Puneeth K',
+                                    'link' => 'Corporate-Accounting-veena-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                  //    Artificial Intelligence Essentials: A comprehensive Guide
+                                [
+                                    'img' => 'assets/img/new/Artificial-Intelligence-Essentials-A-Comprehensive-Guide.png',
+                                    'alt' => 'Artificial Intelligence Essentials: A comprehensive Guide',
+                                    'title' => 'Artificial Intelligence Essentials: A comprehensive Guide',
+                                    'authors' => 'Mr.Dontala Kiran Kumar | Mr.Thota Paramesh |  Prof. Ashima Mahendra | Mrs. Jeethu Philip',
+                                    'link' => 'Artificial-Intelligence-Essentials-A-Comprehensive-Guide-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                 // A Journey Through English Literature:from Chaucer To Contemporary
+                                [
+                                    'img' => 'assets/img/new/A-Journey-Through-English-Literature-from-Chaucer-To-Contemporary.png',
+                                    'alt' => 'A Journey Through English Literature:from Chaucer To Contemporary',
+                                    'title' => 'A Journey Through English Literature:from Chaucer To Contemporary',
+                                    'authors' => 'Dr. Mythili b | Dr.N.Sumathi | Dr.S.Revathi | Prof. Adisha Manna',
+                                    'link' => 'A-Journey-Through-English-Literature-from-Chaucer-To-Contemporary-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                 //Green Marketing
+                                [
+                                    'img' => 'assets/img/new/Green-Marketing.png',
+                                    'alt' => 'Green Marketing',
+                                    'title' => 'Green Marketing',
+                                    'authors' => 'Dr.T.Kokilapriya | Dr.S.Kirubharani | Mrs.V.Abirami  | Ms.G.S.Gayathri',
+                                    'link' => 'Green-Marketing-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //Quantitative Biology, Research Methodology And Bioinstrumentation
+                                [
+                                    'img' => 'assets/img/new/Quantitative-Biology-Research-Methodology-And-Bioinstrumentation.png',
+                                    'alt' => 'Quantitative Biology, Research Methodology And Bioinstrumentation',
+                                    'title' => 'Quantitative Biology, Research Methodology And Bioinstrumentation',
+                                    'authors' => ' Dr. Pratibha Mishra | Dr. Shikha Tripathi | Dr. Rekha Shukla',
+                                    'link' => 'Quantitative-Biology-Research-Methodology-And-Bioinstrumentation-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                 
+                                //Quantum Computing: Theory, Architecture and Practical Implementation
+                                [
+                                    'img' => 'assets/img/new/Quantum-Computing-Theory-Architecture-and-Practical-Implementation.png',
+                                    'alt' => 'Quantum Computing: Theory, Architecture and Practical Implementation',
+                                    'title' => 'Quantum Computing: Theory, Architecture and Practical Implementation',
+                                    'authors' => 'Dr.R.Poornima | Mr.M.Jothimani | Mr.R.Veeramani | Mrs.D.Gowthami',
+                                    'link' => 'Quantum-Computing-Theory-Architecture-and-Practical-Implementation-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //CEC358-Underwater Imaging Systems and Image Processing
+                                [
+                                    'img' => 'assets/img/new/CEC358-Underwater-Imaging-Systems-and-Image-Processing.png',
+                                    'alt' => ' CEC358-Underwater Imaging Systems and Image Processing',
+                                    'title' => 'CEC358-Underwater Imaging Systems and Image Processing',
+                                    'authors' => 'Mrs.Muppudhathi Sutha.S | Dr. S.D.Jayavathi | Mr.Vinoth Rajkumar G | Ms.P.Stella Rose Malar',
+                                    'link' => 'CEC358-Underwater-Imaging-Systems-and-Image-Processing-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //Corporate Accounting
+                                [
+                                    'img' => 'assets/img/new/Corporate-Accounting-monu.png',
+                                    'alt' => ' Corporate Accounting',
+                                    'title' => 'Corporate Accounting',
+                                    'authors' => 'Dr. Monu Rathore | Ms. Pooja Jhala',
+                                    'link' => 'Corporate-Accounting-monu-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                // Blockchain and Cryptocurrency: Concepts, Technology, and Applications
+                                [
+                                    'img' => 'assets/img/new/blockchain-and-cryptocurrency-concepts-technology-and-pplications-11-11.png',
+                                    'alt' => ' Blockchain and Cryptocurrency: Concepts, Technology, and Applications',
+                                    'title' => 'Blockchain and Cryptocurrency: Concepts, Technology, and Applications',
+                                    'authors' => 'CMA Dr.Jeelan Basha V | Sri.Kari Gooli',
+                                    'flipkart' => 'https://www.flipkart.com/blockchain-cryptocurrency-concepts-technology-applications-1-disc/p/itmf08aa75492511?pid=9788199311862',
+                                    'amazon' => 'https://www.amazon.in/dp/819931186X',
+                                    'link' => 'blockchain-and-cryptocurrency-concepts-technology-and-pplications-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                                // Artificial Intelligence Essentials: A Comprehensive Guide
+                                [
+                                    'img' => 'assets/img/new/artificial-intelligence-essentials-comprehensive-guide-11-11.png',
+                                    'alt' => ' Artificial Intelligence Essentials: A Comprehensive Guide',
+                                    'title' => 'Artificial Intelligence Essentials: A Comprehensive Guide',
+                                    'authors' => 'Dr. Swarna Surekha  | Dr. Payel Sengupta | Dr.V.Shanthi  | Dr. N.Thinaharan',
+                                     'flipkart' => 'https://www.flipkart.com/artificial-intelligence-essentials-comprehensive-guide-1-disc/p/itm55572be7887d7?pid=9788199311817',
+                                     'amazon' => 'https://www.amazon.in/dp/8199311819',
+                                    'link' => 'artificial-intelligence-essentials-comprehensive-guide-11-11-book.php
+                                    ',
+                                    'btn' => 'Read More'
+                                ],
+
+                                // Business Laws
+                                [
+                                    'img' => 'assets/img/new/business-laws-11-11.png',
+                                    'alt' => ' Business Laws',
+                                    'title' => 'Business Laws',
+                                    'authors' => 'Mr.Kari Gooli',
+                                    'flipkart' => 'https://www.flipkart.com/business-laws-1-disc/p/itm8ce8927ab3b0e?pid=9788199311831',
+                                   'amazon' => 'https://www.amazon.in/dp/8199311835',
+                                    'link' => '/business-laws-kari-gooli-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                // Ground Water Hydrology        
+                                [
+                                    'img' => 'assets/img/new/ground-water-hydralogy-11-11.png',
+                                    'alt' => ' Ground Water Hydrology',
+                                    'title' => 'Ground Water Hydrology ',
+                                    'authors' => 'Dr.Chitaranjan Dalai',
+                                    'link' => 'ground-water-hydralogy-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                                // Professional Ethics in Engineering        
+                                [
+                                    'img' => 'assets/img/new/professional-ethics-in-engeneering-11-11.png',
+                                    'alt' => ' Professional Ethics in Engineering',
+                                    'title' => 'Professional Ethics in Engineering ',
+                                    'authors' => 'Dr.L.Jayakumar | Dr. Anjali | Dr. Sivaprakasam',
+                                    'flipkart' => 'https://www.flipkart.com/professional-ethics-engineering-1-disc/p/itmabb4cf7364ed9?pid=9789389911688',
+                                    'link' => 'professional-ethics-in-engeneering-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                                // Quantum Computing: Theory, Architecture and Practical Implementation        
+                                [
+                                    'img' => 'assets/img/new/quantum-computing-Theory-architecture-and-practical-implementation-11-11.png',
+                                    'alt' => ' Quantum Computing: Theory, Architecture and Practical Implementation',
+                                    'title' => 'Quantum Computing: Theory, Architecture and Practical Implementation ',
+                                    'authors' => 'Mrs. Nivetha Kumaravel | Dr. N.Chandrakala | Dr. Yogita S. Patil |  Dr. Ganesh Kumar M',
+                                    'flipkart' => 'https://www.flipkart.com/quantum-computing-theory-architecture-practical-implementation-1-disc/p/itm735c511a58c35?pid=9789389911725',
+                                    'link' => 'quantum-computing-Theory-architecture-and-practical-implementation-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+
+                                // Basics of Modern Management        
+                                [
+                                    'img' => 'assets/img/new/basics-of-modern-management-11-11.png',
+                                    'alt' => ' Basics of Modern Management',
+                                    'title' => 'Basics of Modern Management ',
+                                    'authors' => 'Dr.L.Padmanabhan | Mr.Prathviraj | Dr. Mitali Palit | Dr.Priyanka Solanki',
+                                    'flipkart' => 'https://www.flipkart.com/basics-modern-management-1-disc/p/itm463d16a111fd0?pid=9789389911398',
+                                    'link' => '/basics-of-modern-management-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                // Core Concepts in AI
+                                [
+                                    'img' => 'assets/img/new/core-concepts-in-AI-11-11.png',
+                                    'alt' => ' Core Concepts in AI',
+                                    'title' => 'Core Concepts in AI',
+                                    'authors' => 'Prof. Gunwant Deoman Rahane | Prof. Vikas N. Nimbalkar | Prof. Manohar C. Chavan',
+                                   'flipkart' => 'https://www.flipkart.com/core-concepts-ai-1-disc/p/itmaed3ab0ddb97c?pid=9789389911558',
+                                    'link' => '/core-concepts-in-AI-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
                                 
-                                // // Blockchain and Cryptocurrency: Concepts, Technology, and Applications
-                                // [
-                                //     'img' => 'assets/img/new/blockchain-and-cryptocurrency-concepts-technology-and-pplications-11-11.png',
-                                //     'alt' => ' Blockchain and Cryptocurrency: Concepts, Technology, and Applications',
-                                //     'title' => 'Blockchain and Cryptocurrency: Concepts, Technology, and Applications',
-                                //     'authors' => 'CMA Dr.Jeelan Basha V | Sri.Kari Gooli',
-                                //     'link' => 'blockchain-and-cryptocurrency-concepts-technology-and-pplications-11-11-book.php
-                                //     ',
-                                //     'btn' => 'Read More'
-                                // ],
 
-
-                                // // Artificial Intelligence Essentials: A Comprehensive Guide
-                                // [
-                                //     'img' => 'assets/img/new/artificial-intelligence-essentials-comprehensive-guide-11-11.png',
-                                //     'alt' => ' Artificial Intelligence Essentials: A Comprehensive Guide',
-                                //     'title' => 'Artificial Intelligence Essentials: A Comprehensive Guide',
-                                //     'authors' => 'Dr. Swarna Surekha  | Dr. Payel Sengupta | Dr.V.Shanthi  | Dr. N.Thinaharan',
-                                //     'link' => 'artificial-intelligence-essentials-comprehensive-guide-11-11-book.php
-                                //     ',
-                                //     'btn' => 'Read More'
-                                // ],
-
-                                // // Business Law
-                                // [
-                                //     'img' => 'assets/img/new/business-laws-11-11.png',
-                                //     'alt' => ' Business Law',
-                                //     'title' => 'Business Law',
-                                //     'authors' => 'Mr.Kari Gooli',
-                                //     'link' => '/business-law-11-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
-
-                                // // Ground Water Hydrology        
-                                // [
-                                //     'img' => 'assets/img/new/ground-water-hydralogy-11-11.png',
-                                //     'alt' => ' Ground Water Hydrology',
-                                //     'title' => 'Ground Water Hydrology ',
-                                //     'authors' => 'Dr.Chitaranjan Dalai',
-                                //     'link' => 'ground-water-hydralogy-11-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
-
-
-                                // // Professional Ethics in Engineering        
-                                // [
-                                //     'img' => 'assets/img/new/professional-ethics-in-engeneering-11-11.png',
-                                //     'alt' => ' Professional Ethics in Engineering',
-                                //     'title' => 'Professional Ethics in Engineering ',
-                                //     'authors' => 'Dr.L.Jayakumar | Dr. Anjali | Dr. Sivaprakasam',
-                                //     'link' => 'professional-ethics-in-engeneering-11-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
-
-
-                                // // Quantum Computing: Theory, Architecture and Practical Implementation        
-                                // [
-                                //     'img' => 'assets/img/new/quantum-computing-Theory-architecture-and-practical-implementation-11-11.png',
-                                //     'alt' => ' Quantum Computing: Theory, Architecture and Practical Implementation',
-                                //     'title' => 'Quantum Computing: Theory, Architecture and Practical Implementation ',
-                                //     'authors' => 'Mrs. Nivetha Kumaravel | Dr. N.Chandrakala | Dr. Yogita S. Patil |  Dr. Ganesh Kumar M',
-                                //     'link' => 'quantum-computing-Theory-architecture-and-practical-implementation-11-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
-
-
-
-                                // // Basics of Modern Management        
-                                // [
-                                //     'img' => 'assets/img/new/basics-of-modern-management-11-11.png',
-                                //     'alt' => ' Basics of Modern Management',
-                                //     'title' => 'Basics of Modern Management ',
-                                //     'authors' => 'Dr.L.Padmanabhan | Mr.Prathviraj | Dr. Mitali Palit | Dr.Priyanka Solanki',
-                                //     'link' => '/basics-of-modern-management-11-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
-
-                                // // Core Concepts in AI
-                                // [
-                                //     'img' => 'assets/img/new/core-concepts-in-AI-11-11.png',
-                                //     'alt' => ' Core Concepts in AI',
-                                //     'title' => 'Core Concepts in AI',
-                                //     'authors' => 'Prof. Gunwant Deoman Rahane | Prof. Vikas N. Nimbalkar | Prof. Manohar C. Chavan',
-                                //     'link' => '/core-concepts-in-AI-11-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
-                                
-
-                                // // Business Law
-                                // [
-                                //     'img' => 'assets/img/new/business-law-1-11-11.png',
-                                //     'alt' => ' Business Law',
-                                //     'title' => 'Business Law',
-                                //     'authors' => 'Dr.Prita Davidson | Ms.K.B.Aishwarya ',
-                                //     'link' => '/business-law-1-11-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
+                                // Business Laws
+                                [
+                                    'img' => 'assets/img/new/business-law-1-11-11.png',
+                                    'alt' => ' Business Laws',
+                                    'title' => 'Business Laws',
+                                    'authors' => 'Dr.Prita Davidson | Ms.K.B.Aishwarya ',
+                                    'flipkart' => 'https://www.flipkart.com/business-laws-1-disc/p/itm8ce8927ab3b0e?pid=9788199311831',
+                                   'amazon' => 'https://www.amazon.in/dp/8199311835',
+                                    'link' => '/business-laws-prita-davidson-book.php',
+                                    'btn' => 'Read More'
+                                ],
 
                               
 
-                                // // Corporate Accounting_II
-                                // [
-                                //     'img' => 'assets/img/new/corporate-accounting_II-11-11.png',
-                                //     'alt' => 'Corporate Accounting_II',
-                                //     'title' => 'Corporate Accounting_II',
-                                //     'authors' => 'Dr.K.Gokila | Ms.C.K.Nishana | Ms.M.Shalini | Ms.T.Divya Bharathi | Ms.M.S.Selva Preethi',
-                                //     'link' => 'corporate-accounting_II-11-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
+                                // Corporate Accounting_II
+                                [
+                                    'img' => 'assets/img/new/corporate-accounting_II-11-11.png',
+                                    'alt' => 'Corporate Accounting_II',
+                                    'title' => 'Corporate Accounting_II',
+                                    'authors' => 'Dr.K.Gokila | Ms.C.K.Nishana | Ms.M.Shalini | Ms.T.Divya Bharathi | Ms.M.S.Selva Preethi',
+                                    'flipkart' => 'https://www.flipkart.com/corporate-accounting-ii-1-disc/p/itmdcb32ab313511?pid=9789389911817',
+                                    'link' => 'corporate-accounting_II-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
                                 
-                                // // A Manual For Basics of Food Microbiology Practical
-                                // [
-                                //     'img' => 'assets/img/new/a-manual-for basic-of-food-microbiolagy-10-11.png',
-                                //     'alt' => ' A Manual For Basics of Food Microbiology Practical',
-                                //     'title' => 'A Manual For Basics of Food Microbiology Practical',
-                                //     'authors' => 'M.C. Anitha | R. Kalamani | C.Ajitha',
-                                //     'link' => 'manual-for-basics-of-food-microbiology-practical-10-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
+                                // A Manual For Basics of Food Microbiology Practical
+                                [
+                                    'img' => 'assets/img/new/a-manual-for basic-of-food-microbiolagy-10-11.png',
+                                    'alt' => ' A Manual For Basics of Food Microbiology Practical',
+                                    'title' => 'A Manual For Basics of Food Microbiology Practical',
+                                    'authors' => 'M.C. Anitha | R. Kalamani | C.Ajitha',
+                                    'link' => 'manual-for-basics-of-food-microbiology-practical-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
                                  
 
                                
-                                // //Business Analytics
-                                // [
-                                //     'img' => 'assets/img/new/business-analytics-10-11.png',
-                                //     'alt' => 'Business Analytics',
-                                //     'title' => 'Business Analytics',
-                                //     'authors' => 'Dr. Benita.S.Monica | Dr. Sohel Memon | Mrs. P. Rajitha | Mrs. Sagara M R',
-                                //     'link' => 'business-analytics-10-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
+                                //Business Analytics
+                                [
+                                    'img' => 'assets/img/new/business-analytics-10-11.png',
+                                    'alt' => 'Business Analytics',
+                                    'title' => 'Business Analytics',
+                                    'authors' => 'Dr. Benita.S.Monica | Dr. Sohel Memon | Mrs. P. Rajitha | Mrs. Sagara M R',
+                                    'link' => 'business-analytics-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
 
-                                // //Environmental Chemistry
-                                // [
-                                //     'img' => 'assets/img/new/environmental-chemistry-10-11.png',
-                                //     'alt' => ' Environmental Chemistry',
-                                //     'title' => 'Environmental Chemistry ',
-                                //     'authors' => 'Dr. Preeti Nand Kumar |  Dr. Pratibha S.Kurup',
-                                //     'link' => 'environmental-chemistry-10-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
+                                //Environmental Chemistry
+                                [
+                                    'img' => 'assets/img/new/environmental-chemistry-10-11.png',
+                                    'alt' => ' Environmental Chemistry',
+                                    'title' => 'Environmental Chemistry ',
+                                    'authors' => 'Dr. Preeti Nand Kumar |  Dr. Pratibha S.Kurup',
+                                      'flipkart' => 'https://www.flipkart.com/environmental-chemistry-1-disc/p/itm92143dc5ed542?pid=9788199259928',
+                                    'link' => 'environmental-chemistry-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
 
-                                // //Internet of Things
-                                // [
-                                //     'img' => 'assets/img/new/internet-of-things-10-11.png',
-                                //     'alt' => ' Internet of Things',
-                                //     'title' => 'Internet of Things',
-                                //     'authors' => 'Dr.B. Dhanasekaran | Dr.G. Srinivasan | Dr.R. Gunasekaran | Dr.Ramakrishna Reddy K',
-                                //     'link' => 'internet-of-things-10-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
+                                //Internet of Things
+                                [
+                                    'img' => 'assets/img/new/internet-of-things-10-11.png',
+                                    'alt' => ' Internet of Things',
+                                    'title' => 'Internet of Things',
+                                    'authors' => 'Dr.B. Dhanasekaran | Dr.G. Srinivasan | Dr.R. Gunasekaran | Dr.Ramakrishna Reddy K',
+                                     'flipkart' => 'https://www.flipkart.com/internet-things-1-disc/p/itma96a74ccf43a1?pid=9788199223073',
+                                    'link' => 'internet-of-things-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
 
-                                // //International Trade
-                                // [
-                                //     'img' => 'assets/img/new/international-trade-10-11.png',
-                                //     'alt' => ' International Trade',
-                                //     'title' => 'International Trade',
-                                //     'authors' => 'Dr.K.DEVIKA | Dr.NIJINA JOSE | Ms.V.M.SAJITHA | Ms.P.REKHA',
-                                //     'link' => 'international-tragde-10-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
-
-
-                                // //Discrete Structure
-                                // [
-                                //     'img' => 'assets/img/new/descrete-structure-10-11.png',
-                                //     'alt' => ' Discrete Structure',
-                                //     'title' => 'Discrete Structure',
-                                //     'authors' => 'Dr. Roopa R Anagod | Dr.M.Sneha Latha',
-                                //     'link' => 'escrete-structure-10-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
-
-                                // //Natural Language Processing Principles and Applications
-                                // [
-                                //     'img' => 'assets/img/new/natural-languvage-rocessinng-10-11.png',
-                                //     'alt' => ' Natural Language Processing Principles and Applications',
-                                //     'title' => 'Natural Language Processing Principles and Applications',
-                                //     'authors' => 'Mrs. D Beulah pretty  | Mrs. Snigdha Smita Choubey | Dr.G.Chandrasekaran | Mrs. V.Maheswari Kumar',
-                                //     'link' => '/natural-languvage-processinng-10-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
-
-                                // //Quantum Computing
-                                // [
-                                //     'img' => 'assets/img/new/quantum-computing-10-11.png',
-                                //     'alt' => ' Quantum Computing',
-                                //     'title' => 'Quantum Computing',
-                                //     'authors' => 'Dr.R. Krishnamoorthy | Dr.L.Godlin Atlas | Mrs.K.Sathiyapriya | Mrs.B. Benilin Leebha',
-                                //     'link' => '/quantum-computing-10-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
-
-                                // //Financial Markets
-                                // [
-                                //     'img' => 'assets/img/new/financial-markets-10-11.png',
-                                //     'alt' => ' Financial Markets',
-                                //     'title' => 'Financial Markets',
-                                //     'authors' => 'Dr.Lavanya M.R | Dr. S.Jenifer Janani  | Dr.J.Franklin Jebaraj',
-                                //     'link' => '/financial-markets-10-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
+                                //International Trade
+                                [
+                                    'img' => 'assets/img/new/international-trade-10-11.png',
+                                    'alt' => ' International Trade',
+                                    'title' => 'International Trade',
+                                    'authors' => 'Dr.K.DEVIKA | Dr.NIJINA JOSE | Ms.V.M.SAJITHA | Ms.P.REKHA',
+                                    'link' => 'international-tragde-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
 
 
-                                // // Principles of Management
-                                // [
-                                //     'img' => 'assets/img/new/principle-of-things-10-11.png',
-                                //     'alt' => ' Principles of Management',
-                                //     'title' => 'Principles of Management',
-                                //     'authors' => 'Dr. Abdul Faraz | Ms. Arpita Sastri | Ms. Manisha G | Mr. Mir Faizan Hussain',
-                                //     'link' => '/principle-of-things-10-11-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
+                                //Discrete Structure
+                                [
+                                    'img' => 'assets/img/new/discrete-structure-10-11.png',
+                                    'alt' => ' Discrete Structure',
+                                    'title' => 'Discrete Structure',
+                                    'authors' => 'Dr. Roopa R Anagod | Dr.M.Sneha Latha',
+                                    'link' => 'discrete-structure-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
 
-                                // // Fundamentals of Antenna Theory and Design
-                                // [
-                                //     'img' => 'assets/img/new/fundemental-of-antena-theory-and-design-10-11.png',
-                                //     'alt' => ' Fundamentals of Antenna Theory and Design',
-                                //     'title' => 'Fundamentals of Antenna Theory and Design',
-                                //     'authors' => 'Dr. S. Parameswari | Dr. C. Chitra | Dr. S. Leones Sherwin Vimalraj |  Dr. J. Lydia',
-                                //     'link' => 'fundemental-of-antena-theory-and-design-parameswari-book.php',
-                                //     'btn' => 'Read More'
-                                // ],
+                                //Natural Language Processing Principles and Applications
+                                [
+                                    'img' => 'assets/img/new/natural-languvage-rocessinng-10-11.png',
+                                    'alt' => ' Natural Language Processing Principles and Applications',
+                                    'title' => 'Natural Language Processing Principles and Applications',
+                                    'authors' => 'Mrs. D Beulah pretty  | Mrs. Snigdha Smita Choubey | Dr.G.Chandrasekaran | Mrs. V.Maheswari Kumar',
+                                     'flipkart' => 'https://www.flipkart.com/natural-language-processing-principles-applications-1-disc/p/itme782b3e08432f?pid=9789389911114',
+                                    'link' => '/natural-languvage-processinng-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //Quantum Computing
+                                [
+                                    'img' => 'assets/img/new/quantum-computing-10-11.png',
+                                    'alt' => ' Quantum Computing',
+                                    'title' => 'Quantum Computing',
+                                    'authors' => 'Dr.R. Krishnamoorthy | Dr.L.Godlin Atlas | Mrs.K.Sathiyapriya | Mrs.B. Benilin Leebha',
+                                    'link' => '/quantum-computing-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                //Financial Markets
+                                [
+                                    'img' => 'assets/img/new/financial-markets-10-11.png',
+                                    'alt' => ' Financial Markets',
+                                    'title' => 'Financial Markets',
+                                    'authors' => 'Dr.Lavanya M.R | Dr. S.Jenifer Janani  | Dr.J.Franklin Jebaraj',
+                                    'link' => '/financial-markets-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                                // Principles of Management
+                                [
+                                    'img' => 'assets/img/new/principle-of-things-10-11.png',
+                                    'alt' => ' Principles of Management',
+                                    'title' => 'Principles of Management',
+                                    'authors' => 'Dr. Abdul Faraz | Ms. Arpita Sastri | Ms. Manisha G | Mr. Mir Faizan Hussain',
+                                    'link' => '/principle-of-things-10-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                // Fundamentals of Antenna Theory and Design
+                                [
+                                    'img' => 'assets/img/new/fundemental-of-antena-theory-and-design-10-11.png',
+                                    'alt' => ' Fundamentals of Antenna Theory and Design',
+                                    'title' => 'Fundamentals of Antenna Theory and Design',
+                                    'authors' => 'Dr. S. Parameswari | Dr. C. Chitra | Dr. S. Leones Sherwin Vimalraj |  Dr. J. Lydia',
+                                    'link' => 'fundemental-of-antena-theory-and-design-parameswari-book.php',
+                                    'btn' => 'Read More'
+                                ],
                                   // Architecture and the Metaverse: Designing the future of Digital Space
                                 [
                                     'img' => 'assets/img/new/architecture-and-the-metaverse-11-11.png',
@@ -347,6 +485,7 @@
                                     'alt' => ' Bionanotechnology',
                                     'title' => 'Bionanotechnology',
                                     'authors' => 'Dr C.Nirmala | Dr.M.Sridevi | Dr.A.Nirmala | Ms.S.Abinaya',
+                                    'flipkart' =>'https://www.flipkart.com/bionanotechnology-1-disc/p/itm8ec1c96964a50?pid=9789389911893',
                                     'link' => 'bionanotechnology-10-11-book.php',
                                     'btn' => 'Read More'
                                 ],                                                                                  
@@ -359,6 +498,7 @@
                                     'alt' => 'Mastering Communication and Soft Skills: A Holistic Guide to Personal and Professional Excellence',
                                     'title' => 'Mastering Communication and Soft Skills: A Holistic Guide to Personal and Professional Excellence',
                                     'authors' => 'Mrs.Adisha Manna',
+                                    'flipkart' => 'https://www.flipkart.com/mastering-communication-soft-skills-holistic-guide-personal-professional-excellence-1-disc/p/itmeb97f79662c94?pid=9788199259935',
                                     'link' => 'mastering-communication-and-skills-10-11-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -369,8 +509,8 @@
                                     'alt' => ' Intellectual Property Rights',
                                     'title' => 'Intellectual Property Rights ',
                                     'authors' => 'Dr.Jemimah Winston | Dr.Mobi Rajendran | Dr. Jenifer Thangam J',
-                                    'amazon' => '',
-                                    'flipkart' => '',
+                                    'amazon' => 'https://www.amazon.in/dp/8199259957',
+                                    'flipkart' => 'https://www.flipkart.com/intellectual-property-rights-1-disc/p/itmba47708a409ed?pid=9788199259959',
                                     'link' => 'intellectual-property-rights-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -892,6 +1032,7 @@
                                     'alt' => ' Business Analytics ',
                                     'title' => 'Business Analytics',
                                     'authors' => 'Dr. G Philomine Joan of Arc',
+                                    'flipkart' => 'https://www.flipkart.com/business-analytics-1-disc/p/itme90d71a61e5c9?pid=9789389911169',
                                     'link' => 'business-analytics-philomine-book.php',
                                     'btn' => 'Read More'
                                 ],

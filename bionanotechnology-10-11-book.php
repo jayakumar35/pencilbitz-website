@@ -145,7 +145,7 @@
                             <li class="uppercase"> Dr C.Nirmala
                                 <br>Dr.M.Sridevi
                                 <br>Dr.A.Nirmala
-                                <br>Ms.S.Abinaya"
+                                <br>Ms.S.Abinaya
                             </li>
                             <li>
                                 <br>
@@ -170,12 +170,12 @@
                         */ ?>
                             <!-- Get Certificate -->
                             <!-- Trigger Button -->
-                            <!-- <div class="flex justify-center">
+                            <div class="flex justify-center">
                                 <button id="openPopupBtn"
                                     class="px-4 py-1 bg-sky-500 text-white text-lg rounded-lg shadow hover:bg-sky-600 transition">
                                     Get Certificate
                                 </button>
-                            </div> -->
+                            </div>
 
                             <!-- Popup Modal -->
                             <div id="certificatePopup"
@@ -208,34 +208,26 @@
 
                                         <!-- Author 1 -->
                                         <div id="author1" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a1.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr Jothimani Ponnusamy - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author1.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. Vinoth Kumar J - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Bionanotechnology a1.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr C.Nirmala - PDF</a>
                                         </div>
 
                                         <!-- Author 2 -->
                                         <div id="author2" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a2.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> Biju Thomas - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author2.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. Saravanan - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Bionanotechnology a2.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> Dr.M.Sridevi - PDF</a>
                                         </div>
 
                                         <!-- Author 3 -->
                                         <div id="author3" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a3.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> P.Sakthiprakash - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author3.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. Priya Kumar - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Bionanotechnology a3.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr.A.Nirmala - PDF</a>
                                         </div>
 
                                         <!-- Author 4 -->
                                         <div id="author4" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a4.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Ashok Kumar Manda - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author4.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. David Raj - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Bionanotechnology a4.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Ms.S.Abinaya - PDF</a>
                                         </div>
                                     </div>
                                 </div>
@@ -269,10 +261,10 @@
 
                                     // Author database (phone => section ID)
                                     const authors = {
-                                        "8056742812": "author1",
-                                        "9496720475": "author2",
-                                        "9443368277": "author3",
-                                        "8985359277": "author4"
+                                        "9843526815": "author1",
+                                        "9942364284": "author2",
+                                        "7358445271": "author3",
+                                        "7558110236": "author4"
                                     };
 
                                     verifyBtn.addEventListener("click", () => {

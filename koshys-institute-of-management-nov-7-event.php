@@ -34,6 +34,7 @@
     <link href="assets/css/index.css" rel="stylesheet">
     <link href="assets/css/book-store.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/3708edbb88.js" crossorigin="anonymous"></script>
+     <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
 
 
 </head>
@@ -45,10 +46,138 @@
     <!-- End  file  -->
     <!-- Home page 1 -->
     <div style="max-width: 1520px;" class="relative container ">
-        <div class="container-event overflow-hidden py-5">
-            <div class="row align-items-center">
+        <div class="container-event overflow-hidden py-2">
+            <div class="row align-items-center py-2 mb-3">
+  <div class="max-w-7xl mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-3 text-gray-800">Our Services</h2>
+        
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 mb-3">
+            <!-- Textbook Publications -->
+            <div class="group bg-green-100 rounded-2xl p-4 shadow-md hover:shadow-xl transition-all duration-300 text-center flex flex-col items-center justify-start h-full relative overflow-hidden">
+                <div class="absolute -top-2 -right-2 w-16 h-16 bg-green-300 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
+                <div class="relative flex justify-center mb-4 mt-2">
+                    <div class="w-12 h-12 bg-green-300 rounded-full flex items-center justify-center group-hover:bg-green-400 transition-colors">
+                        <i data-lucide="book-open" class="w-6 h-6 text-green-800 group-hover:scale-110 transition-transform"></i>
+                    </div>
+                </div>
+                <h3 class="text-lg font-bold text-gray-800  relative z-10">Textbook Publications</h3>
+                <div class="mt-auto w-full">
+                    <p class="text-gray-700 text-sm font-medium mb-1 flex items-center justify-center">
+                       Karthik Alagusamy
+                    </p>
+                    <p class="text-gray-700 text-xs font-medium flex items-center justify-center">
+                      +91 7200741307
+                    </p>
+                </div>
+            </div>
+
+            <!-- Patent Grant Support -->
+            <div class="group bg-green-100 rounded-2xl p-4 shadow-md hover:shadow-xl transition-all duration-300 text-center flex flex-col items-center justify-start h-full relative overflow-hidden">
+                <div class="absolute -top-2 -right-2 w-16 h-16 bg-green-300 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
+                <div class="relative flex justify-center mb-4 mt-2">
+                    <div class="w-12 h-12 bg-green-300 rounded-full flex items-center justify-center group-hover:bg-green-400 transition-colors">
+                        <i data-lucide="award" class="w-6 h-6 text-green-800 group-hover:scale-110 transition-transform"></i>
+                    </div>
+                </div>
+                <h3 class="text-lg font-bold text-gray-800 mb-2 relative z-10">Patent Grant Support</h3>
+                <div class="mt-auto w-full">
+                    <p class="text-gray-700 text-sm font-medium mb-1 flex items-center justify-center">
+                        Rajkumar Kalyanasundaram
+                    </p>
+                    <p class="text-gray-700 text-xs font-medium flex items-center justify-center">
+                        +91 8468058012
+                    </p>
+                </div>
+            </div>
+
+            <!-- Edited Book Chapters -->
+            <div class="group bg-green-100 rounded-2xl p-4 shadow-md hover:shadow-xl transition-all duration-300 text-center flex flex-col items-center justify-start h-full relative overflow-hidden">
+                <div class="absolute -top-2 -right-2 w-16 h-16 bg-green-300 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
+                <div class="relative flex justify-center mb-4 mt-2">
+                    <div class="w-12 h-12 bg-green-300 rounded-full flex items-center justify-center group-hover:bg-green-400 transition-colors">
+                        <i data-lucide="edit-3" class="w-6 h-6 text-green-800 group-hover:scale-110 transition-transform"></i>
+                    </div>
+                </div>
+                <h3 class="text-lg font-bold text-gray-800 mb-2 relative z-10">Edited Book Chapters</h3>
+                <div class="mt-auto w-full">
+                    <p class="text-gray-700 text-sm font-medium mb-1 flex items-center justify-center">
+                        Harini Selvam
+                    </p>
+                    <p class="text-gray-700 text-xs font-medium flex items-center justify-center">
+                         +91 9629476711
+                    </p>
+                </div>
+            </div>
+
+            <!-- Ph.D. Assistance -->
+            <div class="group bg-green-100 rounded-2xl p-4 shadow-md hover:shadow-xl transition-all duration-300 text-center flex flex-col items-center justify-start h-full relative overflow-hidden">
+                <div class="absolute -top-2 -right-2 w-16 h-16 bg-green-300 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
+                <div class="relative flex justify-center mb-4 mt-2">
+                    <div class="w-12 h-12 bg-green-300 rounded-full flex items-center justify-center group-hover:bg-green-400 transition-colors">
+                        <i data-lucide="graduation-cap" class="w-6 h-6 text-green-800 group-hover:scale-110 transition-transform"></i>
+                    </div>
+                </div>
+                <h3 class="text-lg font-bold text-gray-800 mb-2 relative z-10">Ph.D. Assistance</h3>
+                <div class="mt-auto w-full">
+                    <p class="text-gray-700 text-sm font-medium mb-1 flex items-center justify-center">
+                        Sangeetha Subramaniam
+                    </p>
+                    <p class="text-gray-700 text-xs font-medium flex items-center justify-center">
+                        +91 9944304713
+                    </p>
+                </div>
+            </div>
+
+            <!-- SCI & Scopus Publications -->
+            <div class="group bg-green-100 rounded-2xl p-4 shadow-md hover:shadow-xl transition-all duration-300 text-center flex flex-col items-center justify-start h-full relative overflow-hidden">
+                <div class="absolute -top-2 -right-2 w-16 h-16 bg-green-300 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
+                <div class="relative flex justify-center mb-4 mt-2">
+                    <div class="w-12 h-12 bg-green-300 rounded-full flex items-center justify-center group-hover:bg-green-400 transition-colors">
+                        <i data-lucide="file-text" class="w-6 h-6 text-green-800 group-hover:scale-110 transition-transform"></i>
+                    </div>
+                </div>
+                <h3 class="text-lg font-bold text-gray-800 mb-2 relative z-10">SCI & Scopus Publications</h3>
+                <div class="mt-auto w-full">
+                    <p class="text-gray-700 text-sm font-medium mb-1 flex items-center justify-center">
+                        Sangeetha Subramaniam
+                    </p>
+                    <p class="text-gray-700 text-xs font-medium flex items-center justify-center">
+                       +91 9944304713
+                    </p>
+                </div>
+            </div>
+
+            <!-- Educational Events Organizing -->
+            <div class="group bg-green-100 rounded-2xl p-4 shadow-md hover:shadow-xl transition-all duration-300 text-center flex flex-col items-center justify-start h-full relative overflow-hidden">
+                <div class="absolute -top-2 -right-2 w-16 h-16 bg-green-300 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
+                <div class="relative flex justify-center mb-4 mt-2">
+                    <div class="w-12 h-12 bg-green-300 rounded-full flex items-center justify-center group-hover:bg-green-400 transition-colors">
+                        <i data-lucide="calendar" class="w-6 h-6 text-green-800 group-hover:scale-110 transition-transform"></i>
+                    </div>
+                </div>
+                <h3 class="text-lg font-bold text-gray-800 mb-2 relative z-10">Educational Events Organizing</h3>
+                <div class="mt-auto w-full">
+                    <p class="text-gray-700 text-sm font-medium mb-1 flex items-center justify-center">
+                        Aishwarya Murugan
+                    </p>
+                    <p class="text-gray-700 text-xs font-medium flex items-center justify-center">
+                        +91 9600581734
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        lucide.createIcons();
+    </script>            <div class="row align-items-center">
+                        <div class="flex justify-center">
+            <a href="assets/img/event-certificate/shree venkateswara-certificates.pdf"></a>
+
+        </div>
+
             <!-- Event Image -->
-            <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
+            <div class="col-lg-6 col-md-12 mb-4 mb-lg-0 ">
                 <div class="d-flex justify-content-center align-items-center h-100">
                 <img src="assets/img/upcomeing-event/koshys-nov-7.jpg" alt="Event Image" class="img-fluid rounded-4 shadow-lg border border-0 rounded-2" style="max-height: 600px; object-fit: cover;">
                 </div>
@@ -63,24 +192,25 @@
                    </h1>
                 </div>
                 <h3 class="fw-medium fs-3 text-gray-500  ">Topic</h3>
-                <h1 class="fw-semibold fs-2 text-red-500 mb-3 ps-3">Generative AI in Teaching Methodology</h1>
+                <h1 class="fw-semibold fs-2 text-red-500 mb-3 ps-3">Generative AI in Teaching Methodolagy</h1>
                 <h3 class="fw-medium fs-3 text-gray-500 ">Details</h3>
 
                 <ul class="list-unstyled mb-4 ps-3 ">
-                    <li class="mb-2"><i class="fas fa-calendar-alt text-primary me-2"></i> <strong>Date:</strong> 07 November 2025</li>
+                    <li class="mb-2"><i class="fas fa-calendar-alt text-primary me-2"></i> <strong>Date:</strong>07 November 2025</li>
                     <li class="mb-2"><i class="fas fa-clock text-primary me-2"></i> <strong>Time:</strong> 6:00PM To 8:00PM </li>
 
-                    <li class="mb-2"><i class="fas fa-map-marker-alt text-primary me-2"></i> <strong>Location:</strong>Bengaluru,karnataka</li>
-                    <li class="mb-2"><i class="fas fa-user-tie text-primary me-2"></i> <strong>Speaker:</strong> +91 77088 28673</li>
+                    <li class="mb-2"><i class="fas fa-map-marker-alt text-primary me-2"></i> <strong>Location:</strong>Bengaluru,Karnataka</li>
+                    <li class="mb-2"><i class="fas fa-user-tie text-primary me-2"></i> <strong>Speaker:</strong> +91 9600581734</li>
                 </ul>
-                <a href="https://forms.gle/38CnMj1zgG8gZe927" class="bg-gray-200 hover:bg-green-300 hover:text-gray-800 rounded-2 text-gray-800 shadow-lg fw-bold px-4 py-2">
+                <a href="https://forms.gle/xWcSeZGXs4jqhfZh7" class="bg-gray-200 hover:bg-green-300 hover:text-gray-800 rounded-2 text-gray-800 shadow-lg fw-bold px-4 py-2">
                     Register Now <i class="fas fa-arrow-right ms-2"></i>
                 </a>
+                 <a href="assets/img/event-certificate/Sri-Kanyaka-Participants-Certificates.pdf" class="bg-sky-400 hover:bg-sky-300 hover:text-gray-800 rounded-2 text-gray-800 shadow-lg fw-bold px-4 py-2 ms-5" download="" ><i class="fa-solid fa-download mr-2"></i>Download Certificate</a>
                 </div>
                 <div class="">
                     <p class="mt-4 ">
                         If you need an FDP, Workshop, or Seminar in association with Pencil Bitz,<br>for your institution kindly contact 
-                        <a href="tel:+919361313822" class="text-blue-600 hover:text-blue-500 underline font-semibold">+91 77088 28673</a>
+                        <a href="tel:+919600581734" class="text-blue-600 hover:text-blue-500 underline font-semibold">+91 9600581734</a>
                     </p>
                 </div>
             </div>

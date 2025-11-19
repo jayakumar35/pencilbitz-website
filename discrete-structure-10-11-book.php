@@ -9,7 +9,7 @@
     <meta name="description" content="Pencil Bitz">
 
     <!-- ========== Page Title ========== -->
-    <title>Business Laws | Pencil Bitz</title>
+    <title>Discrete Structure | Pencil Bitz Book</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -61,9 +61,9 @@
                         <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
                     </li>
                     <li class="flex items-center">
-                        <a href="/business-law-11-11-book.php" class="hover:underline text-blue-600 flex items-center">
-<i class="fa-solid fa-book-open-reader mr-1"></i>
-                            Business Laws
+                        <a href="/descrete-structure-10-11-book.php" class="hover:underline text-blue-600 flex items-center">
+                            <i class="fa-solid fa-book-open-reader mr-1"></i>
+                            Discrete Structure
                         </a>
                         <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
                     </li>
@@ -75,7 +75,7 @@
                 <div class="flex flex-col gap-2 mb-4">
                     <!-- Thumbnails -->
                     <img
-                        src="assets/img/new/book-page/business-laws-11-11-p1.png"
+                        src="assets/img/new/book-page/discrete-structure-10-11-p1.png"
                         class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
                         style="image-rendering: auto;"
                         onclick="
@@ -92,7 +92,7 @@
         "
                         alt="Thumbnail 1">
                     <img
-                        src="assets/img/new/book-page/business-laws-11-11-p2.png"
+                        src="assets/img/new/book-page/discrete-structure-10-11-p2.png"
                         class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
                         style="image-rendering: auto;"
                         onclick="
@@ -107,7 +107,7 @@
         "
                         alt="Thumbnail 2">
                     <img
-                        src="assets/img/new/book-page/business-law-1-11-11-p3.png"
+                        src="assets/img/new/book-page/discrete-structure-10-11-p3.png"
                         class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
                         style="image-rendering: auto;"
                         onclick="
@@ -129,7 +129,7 @@
                 <!-- Main Book Image -->
                 <img
                     id="main-book-img"
-                    src="assets/img/new/book-page/business-laws-11-11-p3.png"
+                    src="assets/img/new/book-page/discrete-structure-10-11-p1.png"
                     class="w-75 h-auto sm:w-56 sm:h-56 md:w-72 md:h-72 object-contain rounded border shadow-lg p-3 m-2 border-gray-200 mb-2 transition-all"
                     alt="Book Main Image"
                     style="image-rendering: auto;">
@@ -137,15 +137,15 @@
             <!-- Right: Book Details -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xl-6 flex flex-col justify-between pl-0 md:pl-8 mt-6 md:mt-0">
                 <div>
-                    <h2 id="book-name" class="text-3xl font-semibold text-sky-500 mb-2">Business Laws</h2>
+                    <h2 id="book-name" class="text-3xl font-semibold text-sky-500 mb-2">Discrete Structure</h2>
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase">Mr.Kari Gooli
+                            <li class="uppercase">DR. ROOPA R ANAGOD <br> DR.M.SNEHA LATHA
                             </li>
                             <li>
                                 <br>
-                                <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-81-993118-3-1 | 2025 </span></div>
+                                <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-89911-85-5| 2025 </span></div>
                             </li>
                         </ul>
                         <div class="flex flex-wrap gap-4 items-center mt-3">
@@ -336,15 +336,16 @@
                         <span class="text-base text-gray-500 line-through ml-2">₹1338</span>
                         <span class="text-xs text-gray-600 ml-2">(Inclusive of all taxes)</span>
                     </div>
-                    <a href="/business-law-11-11-order.php" class="mt-2 inline-block w-full md:w-auto text-white bg-orange-500 font-bold py-2 px-6 rounded transition text-center hover:text-white hover:bg-yellow-600">
+                    <a href="/discrete-structure-10-11-order.php" class="mt-2 inline-block w-full md:w-auto text-white bg-orange-500 font-bold py-2 px-6 rounded transition text-center hover:text-white hover:bg-yellow-600">
                         <span class="mr-2"><i class="fas fa-arrow-right"></i></span>Buy Now
                     </a>
                 </div>
                 <div class="mt-6 pt-4 border border-gray-200 rounded-t-lg ps-3 shadow-md">
                     <h2 class="text-2xl font-semibold text-indigo-700 mb-3 border-b pb-2">📘 Summary</h2>
                     <p class="text-gray-700 leading-relaxed p-2 text-justify">
-                        <span class="font-medium text-gray-800"></span>
-                        Business law covers contracts, corporate governance, and corporate compliance to regulate commerce and protect parties. It addresses employment, intellectual property, consumer protection, and antitrust to maintain fair competition. Compliance involves licensing, reporting, and record-keeping, plus risk management and fiduciary duties. Practical focus includes dispute resolution, regulatory updates, and aligning policy with business strategy.
+                        <span class="font-medium text-gray-800"> 
+
+                            Discrete structures study mathematical objects that are fundamentally separate and distinct, unlike continuous systems. They underpin computer science, algorithms, and logic, providing rigorous frameworks for reasoning about finite sets, graphs, and sequences. Key ideas include graphs, trees, lattice structures, boolean algebra, and combinatorics, all analyzed with discrete methods. These structures enable precise modeling of computation, data organization, and problem solving. They support complexity analysis, proofs, and algorithm design, guiding efficient implementations. Mastery of discrete structures is foundational for theoretical and applied computing disciplines..
                     </p>
                 </div>
 
@@ -356,7 +357,7 @@
                         <li><span class="font-semibold">Edition:</span> 1st Edition</li>
                         <li><span class="font-semibold">Language:</span> English</li>
                         <li><span class="font-semibold">Binding:</span> paperback</li>
-                        <li><span class="font-semibold">Pages:</span>252</li>
+                        <li><span class="font-semibold">Pages:</span>288</li>
                         <li><span class="font-semibold">Dimensions:</span> 24 x 18 x 1.5 cm</li>
                         <li><span class="font-semibold">Weight:</span> 320g</li>
                     </ul>
@@ -369,7 +370,7 @@
                         <a href="https://www.facebook.com/pencilbitz" target="_blank" class="text-blue-600 text-2xl" title="Facebook"><i class="fab fa-facebook"></i></a>
                         <a href="https://www.instagram.com/pencilbitz" target="_blank" class="text-pink-500 text-2xl" title="Instagram"><i class="fab fa-instagram"></i></a>
                         <a href="mailto:info@pencilbitz.com" class="text-orange-500 text-2xl" title="Email"><i class="fas fa-envelope"></i></a>
-                        <a href="tel:+919944307413" class="text-blue-600 text-2xl" title="Call"><i class="fas fa-phone"></i></a>
+                        <a href="tel:+919944307413" class="text-blue-600 text-2xl" title="Call"><i class="fas fa-phone-alt"></i></a>
                     </div>
                     <div class="text-sm text-gray-500 mt-2 md:mt-0 md:ml-6">
                         For bulk or institutional orders, <a href="contact.php" class="text-primary underline">contact us</a>.

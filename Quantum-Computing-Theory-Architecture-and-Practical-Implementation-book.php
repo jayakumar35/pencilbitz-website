@@ -9,7 +9,7 @@
     <meta name="description" content="Pencil Bitz">
 
     <!-- ========== Page Title ========== -->
-    <title>Discrete Structure | Pencil Bitz Book</title>
+    <title>Book Page</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -61,9 +61,9 @@
                         <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
                     </li>
                     <li class="flex items-center">
-                        <a href="/descrete-structure-10-11-book.php" class="hover:underline text-blue-600 flex items-center">
-                            <i class="fa-solid fa-book-open-reader mr-1"></i>
-                            Discrete Structure
+                        <a href="/Quantum-Computing-Theory-Architecture-and-Practical-Implementation-book.php" class="hover:underline text-blue-600 flex items-center">
+                            <i class="fas fa-building mr-1"></i>
+                            Quantum Computing: Theory, Architecture and Practical Implementation 
                         </a>
                         <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
                     </li>
@@ -75,7 +75,7 @@
                 <div class="flex flex-col gap-2 mb-4">
                     <!-- Thumbnails -->
                     <img
-                        src="assets/img/new/book-page/descrete-structure-10-11-p1.png"
+                        src="assets/img/new/book-page/Quantum-Computing-Theory-Architecture-and-Practical-Implementation-p1.png"
                         class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
                         style="image-rendering: auto;"
                         onclick="
@@ -88,11 +88,11 @@
           });
           // Add highlight to clicked thumbnail
           this.classList.remove('border-orange-500');
-          this.classList.add('border-gray-600');
+          this.classList.add('border-gray-600');   
         "
                         alt="Thumbnail 1">
                     <img
-                        src="assets/img/new/book-page/descrete-structure-10-11-p2.png"
+                        src="assets/img/new/book-page/Quantum-Computing-Theory-Architecture-and-Practical-Implementation-p2.png"
                         class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
                         style="image-rendering: auto;"
                         onclick="
@@ -107,7 +107,7 @@
         "
                         alt="Thumbnail 2">
                     <img
-                        src="assets/img/new/book-page/deep-learning-techniques-p3.png"
+                        src="assets/img/new/book-page/Quantum-Computing-Theory-Architecture-and-Practical-Implementation-p3.png"
                         class="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain rounded border-2 cursor-pointer bg-white border-gray-200 transition-all"
                         style="image-rendering: auto;"
                         onclick="
@@ -129,7 +129,7 @@
                 <!-- Main Book Image -->
                 <img
                     id="main-book-img"
-                    src="assets/img/new/book-page/descrete-structure-10-11-p3.png"
+                    src="assets/img/new/book-page/Quantum-Computing-Theory-Architecture-and-Practical-Implementation-p3.png"
                     class="w-75 h-auto sm:w-56 sm:h-56 md:w-72 md:h-72 object-contain rounded border shadow-lg p-3 m-2 border-gray-200 mb-2 transition-all"
                     alt="Book Main Image"
                     style="image-rendering: auto;">
@@ -137,33 +137,38 @@
             <!-- Right: Book Details -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xl-6 flex flex-col justify-between pl-0 md:pl-8 mt-6 md:mt-0">
                 <div>
-                    <h2 id="book-name" class="text-3xl font-semibold text-sky-500 mb-2">Discrete Structure</h2>
+                    <h2 id="book-name" class="text-3xl font-semibold text-blue-900 mb-2">Quantum Computing: Theory, Architecture and Practical Implementation</h2>
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="uppercase">DR. ROOPA R ANAGOD <br> DR.M.SNEHA LATHA
+                            <li class=""> Dr.R.Poornima
+                                          <br>  Mr.M.Jothimani
+                                            <br>Mr.R.Veeramani
+                                            <br>Mrs.D.Gowthami
                             </li>
+                            <br>
                             <li>
-                                <br>
-                                <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-89911-85-5| 2025 </span></div>
+                                <div class="mb-2 text-gray-800">ISBN: <span class="font-mono">978-93-89911-19-0| 2025</span></div>
                             </li>
                         </ul>
                         <div class="flex flex-wrap gap-4 items-center mt-3">
-                            <?php /*
-                            <!-- Flipkart -->
-                            <a href="https://www.flipkart.com/artificial-intelligence-modern-approach-1-disc/p/itm60501f39015ae?pid=9788199223097" target="_blank"
-                                class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition">
-                                <i data-lucide="shopping-bag"></i>
-                                <span>Flipkart</span>
-                            </a>
 
-                            <!-- Amazon -->
-                            <a href="https://www.amazon.in/dp/819922309X" target="_blank"
-                                class="flex items-center gap-2 text-yellow-500 hover:text-yellow-700 font-semibold transition">
-                                <i data-lucide="shopping-cart"></i>
-                                <span>Amazon</span>
-                            </a>
-                        */ ?>
+                            <?php /*
+               <!-- Flipkart -->
+              <a href="https://www.flipkart.com/artificial-intelligence-modern-approach-1-disc/p/itm60501f39015ae?pid=9788199223097" target="_blank"
+                class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition">
+                <i data-lucide="shopping-bag"></i>
+                <span>Flipkart</span>
+              </a>
+
+              <!-- Amazon -->
+              <a href="https://www.amazon.in/dp/819922309X" target="_blank"
+                class="flex items-center gap-2 text-yellow-500 hover:text-yellow-700 font-semibold transition">
+                <i data-lucide="shopping-cart"></i>
+                <span>Amazon</span>
+              </a>  */ ?>
+
+
                             <!-- Get Certificate -->
                             <!-- Trigger Button -->
                             <div class="flex justify-center">
@@ -204,34 +209,26 @@
 
                                         <!-- Author 1 -->
                                         <div id="author1" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a1.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr Jothimani Ponnusamy - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author1.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. Vinoth Kumar J - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a1.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Gautham Goud Ravula- PDF</a>
                                         </div>
 
                                         <!-- Author 2 -->
                                         <div id="author2" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a2.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> Biju Thomas - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author2.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. Saravanan - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a2.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Ameen Saheb Shaik- PDF</a>
                                         </div>
 
                                         <!-- Author 3 -->
                                         <div id="author3" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a3.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> P.Sakthiprakash - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author3.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. Priya Kumar - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a3.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr.B.Vittal - PDF</a>
                                         </div>
 
                                         <!-- Author 4 -->
                                         <div id="author4" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a4.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Ashok Kumar Manda - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author4.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. David Raj - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a4.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mr.R.Ashok- PDF</a>
                                         </div>
                                     </div>
                                 </div>
@@ -265,10 +262,10 @@
 
                                     // Author database (phone => section ID)
                                     const authors = {
-                                        "8056742812": "author1",
-                                        "9496720475": "author2",
-                                        "9443368277": "author3",
-                                        "8985359277": "author4"
+                                        "9966017129": "author1",
+                                        "9989926352": "author2",
+                                        "9912398512": "author3",
+                                        "9247162105": "author4"
                                     };
 
                                     verifyBtn.addEventListener("click", () => {
@@ -331,21 +328,19 @@
                     </div>
                     <!-- Book More Details -->
                     <div class="text-2xl font-bold text-purple-900 mb-3">
-                        <p class="text-black-400 font-medium ">MRP: <span class="text-gray-600 mb-2"> ₹1238</span></p>
+                        <p class="text-black-400 font-medium ">MRP: <span class="text-gray-600 mb-2"> ₹1013/-</span></p>
 
-                        <span class="text-base text-gray-500 line-through ml-2">₹1338</span>
+                        <span class="text-base text-gray-500 line-through ml-2">₹1113/-</span>
                         <span class="text-xs text-gray-600 ml-2">(Inclusive of all taxes)</span>
                     </div>
-                    <a href="/descrete-structure-10-11-order.php" class="mt-2 inline-block w-full md:w-auto text-white bg-orange-500 font-bold py-2 px-6 rounded transition text-center hover:text-white hover:bg-yellow-600">
+                    <a href="/Quantum-Computing-Theory-Architecture-and-Practical-Implementation-order.php" class="mt-2 inline-block w-full md:w-auto text-white bg-orange-500 font-bold py-2 px-6 rounded transition text-center hover:text-white hover:bg-yellow-600">
                         <span class="mr-2"><i class="fas fa-arrow-right"></i></span>Buy Now
                     </a>
                 </div>
                 <div class="mt-6 pt-4 border border-gray-200 rounded-t-lg ps-3 shadow-md">
                     <h2 class="text-2xl font-semibold text-indigo-700 mb-3 border-b pb-2">📘 Summary</h2>
                     <p class="text-gray-700 leading-relaxed p-2 text-justify">
-                        <span class="font-medium text-gray-800"> 
-
-                            Discrete structures study mathematical objects that are fundamentally separate and distinct, unlike continuous systems. They underpin computer science, algorithms, and logic, providing rigorous frameworks for reasoning about finite sets, graphs, and sequences. Key ideas include graphs, trees, lattice structures, boolean algebra, and combinatorics, all analyzed with discrete methods. These structures enable precise modeling of computation, data organization, and problem solving. They support complexity analysis, proofs, and algorithm design, guiding efficient implementations. Mastery of discrete structures is foundational for theoretical and applied computing disciplines..
+                        <span class="font-medium text-gray-800">Quantum computing represents a revolutionary shift from classical computation by leveraging the principles of quantum mechanics for superior processing power. It explores how qubits, superposition, and entanglement enable exponentially faster problem-solving. Modern quantum architectures integrate hardware, algorithms, and error-correction techniques to realize practical systems. This field bridges theoretical foundations with real-world applications, driving breakthroughs in science and technology.
                     </p>
                 </div>
 
@@ -357,7 +352,7 @@
                         <li><span class="font-semibold">Edition:</span> 1st Edition</li>
                         <li><span class="font-semibold">Language:</span> English</li>
                         <li><span class="font-semibold">Binding:</span> paperback</li>
-                        <li><span class="font-semibold">Pages:</span>288</li>
+                        <li><span class="font-semibold">Pages:</span> 200</li>
                         <li><span class="font-semibold">Dimensions:</span> 24 x 18 x 1.5 cm</li>
                         <li><span class="font-semibold">Weight:</span> 320g</li>
                     </ul>

@@ -80,18 +80,43 @@
                 <div class="services-carousel swiper">
                     <!-- Additional required wrapper -->
                     <div class="swiper-wrapper">
-                           <!--shailabala  -->
+                          <!--Dr.B.R.Ambedkar  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
-                                    <a href="/sanskar-education-groups-14-dec-event.php">
-                                        <img src="assets/img/upcomeing-event/sanskar-education-groups-14-dec.jpeg" alt="Sri Krishna Event 2">
+                                    <a href="/Dr-B-R-Ambedkar-university-dec-11-event.php">
+                                        <img src="assets/img/upcomeing-event/Dr-B-R-Ambedkar-university-dec-11.jpeg" alt="Sri Krishna Event 2">
                                     </a>
                                 </div>
                             </div>
                             <div class="text-center mt-2">
                             </div>
                         </div>
+                         <!--Ajeenkya  -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/ajeenkya-dy-patil-school-of-engineering-dec-20.php">
+                                        <img src="assets/img/upcomeing-event/ajeenkya-dy-patil-school-of-engineering-dec-20.jpeg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                         <!--Government First Grade College -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/government-first-grade-college-dec-10.php">
+                                        <img src="assets/img/upcomeing-event/government-first-grade-college-dec-10.jpeg" alt="Sri Krishna Event 2">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                    
                          <!--shailabala  -->
                         <div class="swiper-slide">
                             <div class="services-style-three">
@@ -109,7 +134,7 @@
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
                                     <a href="matoshri-pratishthan-group-of-institutions-23-nov-event.php">
-                                        <img src="assets/img/upcomeing-event/matoshri-pratishthan-group-of-institutions-23-nov.jpeg" alt="Sri Krishna Event 2">
+                                        <img src="assets/img/upcomeing-event/matoshri-pratishthan-group-of-institutions-23-nov-new.jpeg" alt="Sri Krishna Event 2">
                                     </a>
                                 </div>
                             </div>
@@ -525,6 +550,30 @@
                                 <div class="info  bg-gray-200">
                                     <a href="#">
                                         <img src="assets/img/upcomeing-event/SRM-5days-nov.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                          <!--Mes College -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/mes-college-engineering-technology-5days-dec-9-13event.php">
+                                        <img src="assets/img/upcomeing-event/mes-college-engineering-technology-5days-event.jpeg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+                         <!--Dr.J.J.Magdum College -->
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/Dr-j-j-magdum-college-of-engineeeing-6days-event.php">
+                                        <img src="assets/img/upcomeing-event/Dr-j-j-magdum-college-6days-event.jpeg" alt="Event 5">
                                     </a>
                                 </div>
                             </div>
