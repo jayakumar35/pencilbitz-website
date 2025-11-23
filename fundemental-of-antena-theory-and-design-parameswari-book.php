@@ -142,9 +142,9 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class="">DR. S. Parameswari 
+                            <li class="">DR. S. Parameswari
                                 <br>DR. C. Chitra
-                                <br>DR. S. Leones Sherwin Vimalraj 
+                                <br>DR. S. Leones Sherwin Vimalraj
                                 <br>DR. J. Lydia
                             </li>
                             <li>
@@ -205,37 +205,30 @@
                                     <!-- Download Section (Hidden Initially) -->
                                     <div id="downloadSection" class="mt-5 hidden">
                                         <p class="text-sm text-gray-600 mb-2">Download your certificate:</p>
+                                        </li>
 
                                         <!-- Author 1 -->
                                         <div id="author1" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a1.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr Jothimani Ponnusamy - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author1.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. Vinoth Kumar J - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Fundamentals of Antenna Theory and Design a1-Parameswari.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">DR. S. Parameswari - PDF</a>
                                         </div>
 
                                         <!-- Author 2 -->
                                         <div id="author2" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a2.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> Biju Thomas - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author2.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. Saravanan - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Fundamentals of Antenna Theory and Design a2-Chitra.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">DR. C. Chitra- PDF</a>
                                         </div>
 
                                         <!-- Author 3 -->
                                         <div id="author3" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a3.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> P.Sakthiprakash - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author3.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. Priya Kumar - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Fundamentals of Antenna Theory and Design a3-Leones.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">DR. S. Leones Sherwin Vimalraj - PDF</a>
                                         </div>
 
                                         <!-- Author 4 -->
                                         <div id="author4" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Artificial Intelligence in Modern Approach a4.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Ashok Kumar Manda - PDF</a>
-                                            <!-- <a href="assets/img/books-certificate/author4.jpg" download
-          class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Dr. David Raj - JPG</a> -->
+                                            <a href="assets/img/books-certificate/Fundamentals of Antenna Theory and Design a4-Lydia.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">DR. J. Lydia - PDF</a>
                                         </div>
                                     </div>
                                 </div>
@@ -269,10 +262,10 @@
 
                                     // Author database (phone => section ID)
                                     const authors = {
-                                        "8056742812": "author1",
-                                        "9496720475": "author2",
-                                        "9443368277": "author3",
-                                        "8985359277": "author4"
+                                        "9150304916": "author1",
+                                        "8610447047": "author2",
+                                        "9150304916": "author3",
+                                        "9994405998": "author4"
                                     };
 
                                     verifyBtn.addEventListener("click", () => {

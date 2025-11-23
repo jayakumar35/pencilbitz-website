@@ -9,7 +9,7 @@
     <meta name="description" content="Pencil Bitz">
 
     <!-- ========== Page Title ========== -->
-    <title>Book Page</title>
+    <title> Financial Accounting | Pencil Bitz Books</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -31,11 +31,8 @@
     <link href="assets/css/own.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
-    <script src="https://kit.fontawesome.com/3708edbb88.js" crossorigin="anonymous"></script>
-
-
-
-    </script>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
@@ -153,20 +150,19 @@
                         </ul>
                         <div class="flex flex-wrap gap-4 items-center mt-3">
 
-                            <?php /*
+                        
                <!-- Flipkart -->
-              <a href="https://www.flipkart.com/artificial-intelligence-modern-approach-1-disc/p/itm60501f39015ae?pid=9788199223097" target="_blank"
-                class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition">
+              <a href="https://www.flipkart.com/financial-accounting-1-disc/p/itmbf69fba8a18b9?pid=9789389911343" target="_blank"
+                class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition bg-blue-200 px-1 py-1 rounded">
                 <i data-lucide="shopping-bag"></i>
-                <span>Flipkart</span>
+                <span><i class="fa-solid fa-cart-shopping text-blue-500 mr-2"></i>Flipkart</span>
               </a>
-
               <!-- Amazon -->
-              <a href="https://www.amazon.in/dp/819922309X" target="_blank"
+              <!-- <a href="https://www.amazon.in/dp/819922309X" target="_blank"
                 class="flex items-center gap-2 text-yellow-500 hover:text-yellow-700 font-semibold transition">
                 <i data-lucide="shopping-cart"></i>
                 <span>Amazon</span>
-              </a>  */ ?>
+              </a>  */ ?> -->
 
 
                             <!-- Get Certificate -->
@@ -205,30 +201,33 @@
 
                                     <!-- Download Section (Hidden Initially) -->
                                     <div id="downloadSection" class="mt-5 hidden">
-                                        <p class="text-sm text-gray-600 mb-2">Download your certificate:</p>
+                                        <p class="text-sm text-gray-600 mb-2">Download your certificate:</p>Mrs. R. Kiruthika
+                                <br>
+                                <br>
+                                <br>Mr.Sameer Ulla
 
                                         <!-- Author 1 -->
                                         <div id="author1" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a1.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Gautham Goud Ravula- PDF</a>
+                                            <a href="assets/img/books-certificate/Financial Accounting a1.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mrs. R. Kiruthika- PDF</a>
                                         </div>
 
                                         <!-- Author 2 -->
                                         <div id="author2" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a2.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Ameen Saheb Shaik- PDF</a>
+                                            <a href="assets/img/books-certificate/Financial Accounting a2.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">P. Gandhimathi- PDF</a>
                                         </div>
 
                                         <!-- Author 3 -->
                                         <div id="author3" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a3.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr.B.Vittal - PDF</a>
+                                            <a href="assets/img/books-certificate/Financial Accounting a3.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr.Priyadarshini. M - PDF</a>
                                         </div>
 
                                         <!-- Author 4 -->
                                         <div id="author4" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a4.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mr.R.Ashok- PDF</a>
+                                            <a href="assets/img/books-certificate/Financial Accounting a4.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mr.Sameer Ulla - PDF</a>
                                         </div>
                                     </div>
                                 </div>
@@ -262,10 +261,10 @@
 
                                     // Author database (phone => section ID)
                                     const authors = {
-                                        "9966017129": "author1",
-                                        "9989926352": "author2",
-                                        "9912398512": "author3",
-                                        "9247162105": "author4"
+                                        "8220440377": "author1",
+                                        "9487271619": "author2",
+                                        "9578441700": "author3",
+                                        "9845602387": "author4"
                                     };
 
                                     verifyBtn.addEventListener("click", () => {

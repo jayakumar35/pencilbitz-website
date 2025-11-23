@@ -9,7 +9,7 @@
     <meta name="description" content="Pencil Bitz">
 
     <!-- ========== Page Title ========== -->
-    <title>Book Page</title>
+    <title>Software Engineering @Nutshell | Pencil Bitz Books</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -204,30 +204,20 @@
                                     <!-- Download Section (Hidden Initially) -->
                                     <div id="downloadSection" class="mt-5 hidden">
                                         <p class="text-sm text-gray-600 mb-2">Download your certificate:</p>
+                                <br>
 
                                         <!-- Author 1 -->
                                         <div id="author1" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a1.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Gautham Goud Ravula- PDF</a>
+                                            <a href="assets/img/books-certificate/Software Engineering @Nutshell a1.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mrs. Sneh A. Nagaonkar- PDF</a>
                                         </div>
 
                                         <!-- Author 2 -->
                                         <div id="author2" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a2.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Ameen Saheb Shaik- PDF</a>
+                                            <a href="assets/img/books-certificate/Software Engineering @Nutshell a2.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr Sudhakar D Bhoite- PDF</a>
                                         </div>
 
-                                        <!-- Author 3 -->
-                                        <div id="author3" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a3.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr.B.Vittal - PDF</a>
-                                        </div>
-
-                                        <!-- Author 4 -->
-                                        <div id="author4" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a4.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mr.R.Ashok- PDF</a>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -262,8 +252,6 @@
                                     const authors = {
                                         "9966017129": "author1",
                                         "9989926352": "author2",
-                                        "9912398512": "author3",
-                                        "9247162105": "author4"
                                     };
 
                                     verifyBtn.addEventListener("click", () => {

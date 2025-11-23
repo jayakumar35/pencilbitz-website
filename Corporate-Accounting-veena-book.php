@@ -9,7 +9,7 @@
     <meta name="description" content="Pencil Bitz">
 
     <!-- ========== Page Title ========== -->
-    <title>Book Page</title>
+    <title> Corporate Accounting | Pencil Bitz Book</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/new-logo-pencilbitz.jpg" type="image/x-icon">
@@ -31,11 +31,8 @@
     <link href="assets/css/own.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
-    <script src="https://kit.fontawesome.com/3708edbb88.js" crossorigin="anonymous"></script>
-
-
-
-    </script>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
@@ -63,7 +60,7 @@
                     <li class="flex items-center">
                         <a href="Corporate-Accounting-veena-book.php" class="hover:underline text-blue-600 flex items-center">
                             <i class="fas fa-building mr-1"></i>
-                          Financial Accounting
+                           Corporate Accounting
                         </a>
                         <span class="mx-2 text-gray-400"><i class="fas fa-chevron-right"></i></span>
                     </li>
@@ -141,10 +138,10 @@
                     <div class="mb-3">
                         <h5 class="text-lg font-semibold text-gray-700 mb-1 underline">Authors</h5>
                         <ul class="list-disc list-inside text-gray-700">
-                            <li class=""> Mr.Dontala Kiran Kumar
-                                <br>Mr.Thota Paramesh
-                                <br>Prof. Ashima Mahendra
-                                <br>Mrs. Jeethu Philip
+                            <li class=""> Dr. Veena T S  
+                                <br> Mrs. Shaheena Begum
+                                <br> Mr. Durgesh Motilal Bhavsar
+                                <br>Mr. Puneeth K
                             </li>
                             <br>
                             <li>
@@ -153,21 +150,19 @@
                         </ul>
                         <div class="flex flex-wrap gap-4 items-center mt-3">
 
-                            <?php /*
                <!-- Flipkart -->
-              <a href="https://www.flipkart.com/artificial-intelligence-modern-approach-1-disc/p/itm60501f39015ae?pid=9788199223097" target="_blank"
-                class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition">
+              <a href="https://www.flipkart.com/corporate-accounting-1-disc/p/itm8773301fd530f?pid=9789389911107" target="_blank"
+                class="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition bg-blue-200 px-1 py-1 rounded">
                 <i data-lucide="shopping-bag"></i>
-                <span>Flipkart</span>
+                <span><i class="fa-solid fa-cart-shopping text-blue-500 mr-2"></i>Flipkart</span>
               </a>
 
               <!-- Amazon -->
-              <a href="https://www.amazon.in/dp/819922309X" target="_blank"
+              <!-- <a href="https://www.amazon.in/dp/819922309X" target="_blank"
                 class="flex items-center gap-2 text-yellow-500 hover:text-yellow-700 font-semibold transition">
                 <i data-lucide="shopping-cart"></i>
                 <span>Amazon</span>
-              </a>  */ ?>
-
+              </a>  -->
 
                             <!-- Get Certificate -->
                             <!-- Trigger Button -->
@@ -205,30 +200,30 @@
 
                                     <!-- Download Section (Hidden Initially) -->
                                     <div id="downloadSection" class="mt-5 hidden">
-                                        <p class="text-sm text-gray-600 mb-2">Download your certificate:</p>
+                                        <p class="text-sm text-gray-600 mb-2">Download your certificate:</p> 
 
                                         <!-- Author 1 -->
                                         <div id="author1" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a1.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Gautham Goud Ravula- PDF</a>
+                                            <a href="assets/img/books-certificate/Corporate Accounting a1-Veena.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> Dr. Veena T S - PDF</a>
                                         </div>
 
                                         <!-- Author 2 -->
                                         <div id="author2" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a2.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr. Ameen Saheb Shaik- PDF</a>
+                                            <a href="assets/img/books-certificate/Corporate Accounting a2 -Shaheena-Begum.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mrs. Shaheena Begum- PDF</a>
                                         </div>
 
                                         <!-- Author 3 -->
                                         <div id="author3" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a3.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Dr.B.Vittal - PDF</a>
+                                            <a href="assets/img/books-certificate/Corporate Accounting a3 Durgesh Motilal Bhavsar.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700"> Mr. Durgesh Motilal Bhavsar - PDF</a>
                                         </div>
 
                                         <!-- Author 4 -->
                                         <div id="author4" class="hidden flex gap-4 flex-wrap">
-                                            <a href="assets/img/books-certificate/Probability and Queueing Theory a4.pdf" download
-                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mr.R.Ashok- PDF</a>
+                                            <a href="assets/img/books-certificate/Corporate Accounting a4 Puneeth K.pdf" download
+                                                class="px-3 py-2 bg-green-600 text-white rounded hover:bg-green-700">Mr. Puneeth K- PDF</a>
                                         </div>
                                     </div>
                                 </div>
@@ -262,10 +257,10 @@
 
                                     // Author database (phone => section ID)
                                     const authors = {
-                                        "9966017129": "author1",
-                                        "9989926352": "author2",
-                                        "9912398512": "author3",
-                                        "9247162105": "author4"
+                                        "9043104852": "author1",
+                                        "9901817895": "author2",
+                                        "8788210491": "author3",
+                                        "9972780379": "author4"
                                     };
 
                                     verifyBtn.addEventListener("click", () => {

@@ -9,7 +9,7 @@
     <meta name="description" content="Pencil Bitz">
 
     <!-- ========== Page Title ========== -->
-    <title>Government First Grade College | Event Pencil Bitz</title>
+    <title> DR.B.R.AMBEDKAR UNIVERSITY | Event Pencil Bitz</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/PB-new-logo.png" type="image/x-icon">
@@ -50,7 +50,7 @@
                 <!-- Event Image -->
                 <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
                     <div class="d-flex justify-content-center align-items-center h-100">
-                        <img src="assets/img/upcomeing-event/Dr-B-R-Ambedkar-university-dec-11.jpeg" alt="Event Image" class="img-fluid rounded-4 shadow-lg border border-0 rounded-2" style="max-height: 600px; object-fit: cover;">
+                        <img src="assets/img/upcomeing-event/Dr-B-R-Ambedkar-university-dec-11-new.jpeg" alt="Event Image" class="img-fluid rounded-4 shadow-lg border border-0 rounded-2" style="max-height: 600px; object-fit: cover;">
                     </div>
                 </div>
                 <!-- Event Details -->

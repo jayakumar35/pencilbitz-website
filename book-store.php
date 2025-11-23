@@ -110,6 +110,39 @@
                             
                             
                             $books = [
+                               // Advanced Corporate Accounting
+                                [
+                                    'img' => 'assets/img/new/Advanced-Corporate-Accounting-pavankumar.png',
+                                    'alt' => 'Advanced Corporate Accounting',
+                                    'title' => 'Advanced Corporate Accounting',
+                                    'authors' => 'Dr. Pavan Kumar S. S | Dr.B.Ramija | Dr.S.K.Poongodi | Mr.Puneeth K',
+                                    'flipkart' => '#',
+                                    'link' => 'Advanced-Corporate-Accounting-pavankumar-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                             // The foundation of historical and archaeological research
+                                [
+                                    'img' => 'assets/img/new/The-foundation-of-historical-and-archaeological-research.png',
+                                    'alt' => 'The foundation of historical and archaeological research',
+                                    'title' => 'The foundation of historical and archaeological research',
+                                    'authors' => 'Dr.venkatesh UR',
+                                    'flipkart' => 'https://www.flipkart.com/foundation-historical-archaeological-research-1-disc/p/itm8af7c1a3f0578?pid=9789389911510',
+                                    'link' => 'The-foundation-of-historical-and-archaeological-research-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                 //Medical Electronics
+                                [
+                                    'img' => 'assets/img/new/Medical-Electronics.png',
+                                    'alt' => 'Medical Electronics',
+                                    'title' => 'Medical Electronics',
+                                    'authors' => 'Prof.Rajesh Pashikanti | Dr.G.Puvaneswari | Dr. N. Saravanan | Mr.L.K.Balaji Vignesh',
+                                    'flipkart' => 'https://www.flipkart.com/medical-electronics-1-disc/p/itm631ab210dfaf6?pid=9789389911145',
+                                    'link' => 'Medical-Electronics-rajesh-book.php',
+                                    'btn' => 'Read More'
+                                ],
 
                                   // Fundamentals of Cyber Security
                                 [
@@ -117,6 +150,7 @@
                                     'alt' => 'Fundamentals of Cyber Security',
                                     'title' => 'Fundamentals of Cyber Security',
                                     'authors' => 'Mrs.A.Subha Priyadharshini | Dr. Sam Abraham | Mr.P.John William | Mr.Anik Acharjee',
+                                    'flipkart' => 'https://www.flipkart.com/fundamentals-cyber-security-1-disc/p/itm14c87f6eb7179?pid=9789389911428',
                                     'link' => 'Fundamentals-of-Cyber-Security-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -138,6 +172,7 @@
                                     'alt' => 'Mastering Python Through Problem Solving',
                                     'title' => 'Mastering Python Through Problem Solving',
                                     'authors' => 'Dr. Varun Tiwari | Mr.Perumala Maheshraj | Mr.RajendraPrasad M | Mr.D.Rajani Kumar',
+                                    'flipkart' => 'https://www.flipkart.com/mastering-python-through-problem-solving-1-disc/p/itmfc443c4a0c79b?pid=9788199311879',
                                     'link' => 'Mastering-Python-Through-Problem-Solving-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -148,6 +183,7 @@
                                     'alt' => 'Financial Accounting',
                                     'title' => 'Financial Accounting',
                                     'authors' => 'Mrs. R. Kiruthika  | P. Gandhimathi | Dr.Priyadarshini. M | Mr.Sameer Ulla',
+                                    'flipkart' => 'https://www.flipkart.com/financial-accounting-1-disc/p/itmbf69fba8a18b9?pid=9789389911343',
                                     'link' => 'Financial-Accounting-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -158,6 +194,7 @@
                                     'alt' => 'Corporate Accounting',
                                     'title' => 'Corporate Accounting',
                                     'authors' => 'Dr. Veena T S | Mrs. Shaheena Begum | Mr. Durgesh Motilal Bhavsar | Mr. Puneeth K',
+                                    'flipkart' => 'https://www.flipkart.com/corporate-accounting-1-disc/p/itm8773301fd530f?pid=9789389911107',
                                     'link' => 'Corporate-Accounting-veena-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -168,6 +205,7 @@
                                     'alt' => 'Artificial Intelligence Essentials: A comprehensive Guide',
                                     'title' => 'Artificial Intelligence Essentials: A comprehensive Guide',
                                     'authors' => 'Mr.Dontala Kiran Kumar | Mr.Thota Paramesh |  Prof. Ashima Mahendra | Mrs. Jeethu Philip',
+                                    'flipkart' => 'https://www.flipkart.com/artificial-intelligence-essentials-comprehensive-guide-1-disc/p/itm91595a7b3fd61?pid=9789389911336',
                                     'link' => 'Artificial-Intelligence-Essentials-A-Comprehensive-Guide-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -178,6 +216,8 @@
                                     'alt' => 'A Journey Through English Literature:from Chaucer To Contemporary',
                                     'title' => 'A Journey Through English Literature:from Chaucer To Contemporary',
                                     'authors' => 'Dr. Mythili b | Dr.N.Sumathi | Dr.S.Revathi | Prof. Adisha Manna',
+                                    'flipkart' => 'https://www.flipkart.com/journey-through-english-literature-from-chaucer-contemporary-1-disc/p/itmd5744eadc47d6?pid=9788199311893',
+                                    'amazon' => 'https://www.amazon.in/dp/8199311894',
                                     'link' => 'A-Journey-Through-English-Literature-from-Chaucer-To-Contemporary-book.php',
                                     'btn' => 'Read More'
                                 ],
@@ -452,11 +492,11 @@
 
                                 // Principles of Management
                                 [
-                                    'img' => 'assets/img/new/principle-of-things-10-11.png',
+                                    'img' => 'assets/img/new/principles-of-Management-Abdul-Faraz.png',
                                     'alt' => ' Principles of Management',
                                     'title' => 'Principles of Management',
                                     'authors' => 'Dr. Abdul Faraz | Ms. Arpita Sastri | Ms. Manisha G | Mr. Mir Faizan Hussain',
-                                    'link' => '/principle-of-things-10-11-book.php',
+                                    'link' => 'principles-of-Management-Abdul-Faraz-book.php',
                                     'btn' => 'Read More'
                                 ],
 
