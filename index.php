@@ -154,7 +154,7 @@
                                             <div class="">
                                                 <div class="info">
                                                     <a href="cacs-books.php"><img src="assets/img/new/fundamentals-of-sustainabilty.png"></a>
-                                                    <center><span class="text-lg font-semibold text-gray-700"><a href="fundamentals-of-sustainability-book.php"> Fundamentals of Sustainability in Civil Engineering </a></span>
+                                                    <center> <span class="text-lg font-semibold text-gray-700"><a href="fundamentals-of-sustainability-book.php"> Fundamentals of Sustainability in Civil Engineering </a></span>
                                                         <span class="text-lg font-medium text-gray-700"><br>Price: &#8377 1238/- </span><br>
                                                         <div class="custom-icons">
                                                             <!-- WhatsApp Link with Default Green Icon -->
@@ -202,12 +202,12 @@
                                                             <a href="https://wa.me/919944307413?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20your%20services." target="_blank">
                                                                 <i class="fab fa-whatsapp"></i>
                                                             </a>
-                                                            <a href="tel:+919944307413">
+                                                             <a href="tel:+919944307413">
                                                                 <i class="fas fa-phone text-2xl text-blue-500 "></i>
                                                             </a>
                                                         </div>
                                                     </center>
-                                                </div>
+                                                </div>     
                                             </div>
                                         </div>
                                         <!-- End Single Item -->

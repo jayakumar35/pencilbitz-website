@@ -234,6 +234,71 @@
                         <div class="swiper-slide">
                             <div class="services-style-three">
                                 <div class="info  bg-gray-200">
+                                    <a href="/sanskar-education-groups-14-dec-event.php">
+                                        <img src="assets/img/upcomeing-event/sanskar-education-groups-14-dec.jpeg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/shailabala-women's-autonomous-college-06-dec-event.php">
+                                        <img src="assets/img/upcomeing-event/shailabala-women's-autonomous-college-06-dec.jpeg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/matoshri-pratishthan-group-of-institutions-23-nov-event.php">
+                                        <img src="assets/img/upcomeing-event/matoshri-pratishthan-group-of-institutions-23-nov.jpeg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/dr-mgr.-educational-and-research-institute-13-11-event.php">
+                                        <img src="assets/img/upcomeing-event/dr-mgr.-educational-and-research-institute-13-11.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
+                                    <a href="/padmashri-dr-v-b.-kolte-college-of-engineering-30-11-event.php">
+                                        <img src="assets/img/upcomeing-event/padmashri-dr-v-b.-kolte-college-of-engineering-30-11.jpg" alt="Event 5">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="text-center mt-2">
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <div class="services-style-three">
+                                <div class="info  bg-gray-200">
                                     <a href="pet-engineering-college-08-12-25-event.php">
                                         <img src="assets/img/upcomeing-event/pet-engineering-college-08-12-25.jpg" alt="Event 5">
                                     </a>

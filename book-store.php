@@ -110,6 +110,128 @@
                             $books = [
 
 
+                                // Blockchain and Cryptocurrency: Concepts, Technology, and Applications
+                                [
+                                    'img' => 'assets/img/new/blockchain-and-cryptocurrency-concepts-technology-and-pplications-11-11.png',
+                                    'alt' => ' Blockchain and Cryptocurrency: Concepts, Technology, and Applications',
+                                    'title' => 'Blockchain and Cryptocurrency: Concepts, Technology, and Applications',
+                                    'authors' => '"Dr. Swarna Surekha  | Dr. Payel Sengupta | Dr.V.Shanthi  | Dr. N.Thinaharan',
+                                    'link' => 'blockchain-and-cryptocurrency-concepts-technology-and-pplications-11-11-book.php
+                                    ',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                                // Artificial Intelligence Essentials: A Comprehensive Guide
+                                [
+                                    'img' => 'assets/img/new/artificial-intelligence-essentials-comprehensive-guide-11-11.png',
+                                    'alt' => ' Artificial Intelligence Essentials: A Comprehensive Guide',
+                                    'title' => 'Artificial Intelligence Essentials: A Comprehensive Guide',
+                                    'authors' => '"Dr. Swarna Surekha  | Dr. Payel Sengupta | Dr.V.Shanthi  | Dr. N.Thinaharan',
+                                    'link' => 'artificial-intelligence-essentials-comprehensive-guide-11-11-book.php
+                                    ',
+                                    'btn' => 'Read More'
+                                ],
+
+                                // Business Law
+                                [
+                                    'img' => 'assets/img/new/business-laws-11-11.png',
+                                    'alt' => ' Business Law',
+                                    'title' => 'Business Law',
+                                    'authors' => 'Mr.Kari Gooli',
+                                    'link' => '/business-law-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                // Ground Water Hydrology        
+                                [
+                                    'img' => 'assets/img/new/ground-water-hydralogy-11-11.png',
+                                    'alt' => ' Ground Water Hydrology',
+                                    'title' => 'Ground Water Hydrology ',
+                                    'authors' => 'Dr.Chitaranjan Dalai',
+                                    'link' => 'ground-water-hydralogy-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                                // Professional Ethics in Engineering        
+                                [
+                                    'img' => 'assets/img/new/professional-ethics-in-engeneering-11-11.png',
+                                    'alt' => ' Professional Ethics in Engineering',
+                                    'title' => 'Professional Ethics in Engineering ',
+                                    'authors' => 'Dr.L.Jayakumar | Dr. Anjali | Dr. Sivaprakasam',
+                                    'link' => 'professional-ethics-in-engeneering-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+                                // Quantum Computing: Theory, Architecture and Practical Implementation        
+                                [
+                                    'img' => 'assets/img/new/quantum-computing-Theory-architecture-and-practical-implementation-11-11.png',
+                                    'alt' => ' Quantum Computing: Theory, Architecture and Practical Implementation',
+                                    'title' => 'Quantum Computing: Theory, Architecture and Practical Implementation ',
+                                    'authors' => 'Mrs. Nivetha Kumaravel | Dr. N.Chandrakala | Dr. Yogita S. Patil |  Dr. Ganesh Kumar M',
+                                    'link' => 'quantum-computing-Theory-architecture-and-practical-implementation-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+
+
+                                // Basics of Modern Management        
+                                [
+                                    'img' => 'assets/img/new/basics-of-modern-management-11-11.png',
+                                    'alt' => ' Basics of Modern Management',
+                                    'title' => 'Basics of Modern Management ',
+                                    'authors' => 'Dr.L.Padmanabhan | Mr.Prathviraj | Dr. Mitali Palit | Dr.Priyanka Solanki',
+                                    'link' => '/basics-of-modern-management-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                // Core Concepts in AI
+                                [
+                                    'img' => 'assets/img/new/core-concepts-in-AI-11-11.png',
+                                    'alt' => ' Core Concepts in AI',
+                                    'title' => 'Core Concepts in AI',
+                                    'authors' => 'Prof. Gunwant Deoman Rahane | Prof. Vikas N. Nimbalkar | Prof. Manohar C. Chavan',
+                                    'link' => '/core-concepts-in-AI-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                                
+
+                                // Business Law
+                                [
+                                    'img' => 'assets/img/new/business-law-1-11-11.png',
+                                    'alt' => ' Business Law',
+                                    'title' => 'Business Law',
+                                    'authors' => 'Dr.Prita Davidson | Ms.K.B.Aishwarya ',
+                                    'link' => '/business-law-1-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                // Architecture and the Metaverse: Designing the future of Digital Space
+                                [
+                                    'img' => 'assets/img/new/architecture-and-the-metaverse-11-11.png',
+                                    'alt' => ' Architecture and the Metaverse: Designing the future of Digital Space',
+                                    'title' => 'Architecture and the Metaverse: Designing the future of Digital Space',
+                                    'authors' => 'Mr.R.Venkatesh | Mrs.Quba Jaslin C | Dr.L.Godlin Atlas | Dr.K.V. Shiny ',
+                                    'link' => 'architecture-and-the-metaverse-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+                               
+
+                                // Corporate Accounting_II
+                                [
+                                    'img' => 'assets/img/new/corporate-accounting_II-11-11.png',
+                                    'alt' => 'Corporate Accounting_II',
+                                    'title' => 'Corporate Accounting_II',
+                                    'authors' => '"Dr.K.Gokila | Ms.C.K.Nishana | Ms.M.Shalini | Ms.T.Divya Bharathi | Ms.M.S.Selva Preethi',
+                                    'link' => 'corporate-accounting_II-11-11-book.php',
+                                    'btn' => 'Read More'
+                                ],
+
+                                /* 11 nov book update */
+
+
                                 // A Manual For Basics of Food Microbiology Practical
                                 [
                                     'img' => 'assets/img/new/a-manual-for basic-of-food-microbiolagy-10-11.png',
